@@ -1,4 +1,3 @@
-var host = "{{ site.url }}".replace(/http(s)?:\/\//g, "");
-if ((host == window.location.host) && (window.location.protocol != "https:")) {
-        window.location.protocol = "https";
+if (location.protocol != 'https:') {
+    location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
 }
