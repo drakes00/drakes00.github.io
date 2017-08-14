@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maxime Puys</title>
+    <link>https://maxime.puys.name/</link>
+    <description>Recent content on Maxime Puys</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Maxime Puys, 2016.</copyright>
+    <lastBuildDate>Wed, 26 Jul 2017 23:23:54 +0200</lastBuildDate>
+    
+	<atom:link href="https://maxime.puys.name/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Me</title>
+      <link>https://maxime.puys.name/page/me/</link>
+      <pubDate>Wed, 26 Jul 2017 23:23:54 +0200</pubDate>
+      
+      <guid>https://maxime.puys.name/page/me/</guid>
+      <description>   Maxime Puys   Ph.D Student   University of Grenoble Alpes and VERIMAG Laboratory (PACSS group)   E-mail: Maxime (dot) Puys (at) univ-grenoble-alpes (dot) fr   Office: 280 - PIL 013-E2-01    B&amp;acirc;timent IMAG    700 Avenue Centrale    38401 ST MARTIN D&#39;H&amp;Egrave;RES    France   Phone: +33 4 57 42 22 46   Links:   &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;       </description>
+    </item>
+    
+    <item>
+      <title>Curriclum Vitae</title>
+      <link>https://maxime.puys.name/page/cv/</link>
+      <pubDate>Wed, 26 Jul 2017 23:23:51 +0200</pubDate>
+      
+      <guid>https://maxime.puys.name/page/cv/</guid>
+      <description>Experience  2014 –, Ph.D Student, Verimag, University of Grenoble Alpes, Grenoble, France 2013 – 2014, Smart-Card Security Apprentice Engineer, Morpho, Osny, France 2013, Master 1 Intern, Verimag, University of Grenoble Alpes, Grenoble, France  Education  2012 – 2014, Master&amp;rsquo;s Degree, Magna Cum Laude (Mention &amp;ldquo;Bien&amp;rdquo;), University of Grenoble Alpes, Grenoble, France 2009 – 2012, Licentiate Degree, Cum Laude (Mention &amp;ldquo;Assez Bien&amp;rdquo;), University of Grenoble Alpes, Grenoble, France  Summary After graduating from bachelor&amp;rsquo;s degree in Albertville, I applied to the University of Grenoble Alpes in Grenoble.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://maxime.puys.name/page/publications/</link>
+      <pubDate>Mon, 07 Aug 2017 18:07:51 +0200</pubDate>
+      
+      <guid>https://maxime.puys.name/page/publications/</guid>
+      <description>International Peer-Reviewed Journals  [1]  J.-G. Dumas, P.&amp;nbsp;Lafourcade, J.-B. Orfila, and M.&amp;nbsp;Puys.  Dual protocols for private multi-party matrix multiplication and trust computations. Computers &amp;amp; Security, 2017. [pdf] [bib]@article{DLOP17, title = {Dual protocols for private multi-party matrix multiplication and trust computations}, author = {Jean-Guillaume Dumas and Pascal Lafourcade and Jean-Baptiste Orfila and Maxime Puys}, journal = {Computers \&amp; Security}, year = {2017}, doi = {https://doi.org/10.1016/j.cose.2017.04.013}, url = {http://maxime.puys.name/publications/pdf/DLOP17.pdf} }     International Peer-Reviewed Conferences with Proceedings  [8]  J.</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://maxime.puys.name/page/links/</link>
+      <pubDate>Wed, 26 Jul 2017 23:23:57 +0200</pubDate>
+      
+      <guid>https://maxime.puys.name/page/links/</guid>
+      <description>Research  [Core] Core Conference ranking engine. [Sherpa/Romeo] Publisher copyright policies &amp;amp; self-archiving. [VERIMAG Secu] Code analysis for security evaluation in VERIMAG. [G@el] Access to UJF library (restricted access).  Free Software Contributions  [FreeOpcUa] OpcUa (industrial protocol) Python module. [FeatherDuster] Cryptanalysis Python module.  LaTeX  [LaTeX] LaTeX Wikibook. [Detexify] LaTeX symbol recognition. [JabRef] BibTeX reference manager.  Vim  [Vim] Vim tutorial.  Scholar  [MIG] Magistère en Informatique de Grenoble.</description>
+    </item>
+    
+  </channel>
+</rss>
