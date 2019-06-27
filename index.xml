@@ -6,7 +6,7 @@
     <description>Recent content on Maxime Puys</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jul 2017 23:23:54 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 23:23:57 +0200</lastBuildDate>
     
 	<atom:link href="https://maxime.puys.name/index.xml" rel="self" type="application/rss+xml" />
     
@@ -26,7 +26,7 @@
       <pubDate>Wed, 26 Jul 2017 23:23:51 +0200</pubDate>
       
       <guid>https://maxime.puys.name/page/cv/</guid>
-      <description>Skills  Cybersecurity &amp;ndash; Cryptology (OpenSSL, Featherduster), Network Security (Wireshark, Scapy, NMap), Reverse engineering (GDB, IDA Pro), Shell code, Web Breaches, Metasploit Programming &amp;ndash; Professional Skills: Python, C, C++, Java, Php/MySQL, Basic Knowledge: Asm x86/ARM, Go, Rust, Ruby, Ada, Ocaml Operating systems &amp;ndash; Linux (Ubuntu, Debian, ArchLinux), Windows (98 to 10), BSD (FreeBSD, OpenBSD, NetBSD) Office suites &amp;ndash; LaTeX, Microsoft Office and derived  Experience  2014 &amp;ndash; 2018, Ph.</description>
+      <description>Skills  Cybersecurity &amp;ndash; Cryptology (OpenSSL, Featherduster), Network Security (Wireshark, Scapy, NMap), Formal Methods (ProVerif, KLEE, Frama-C), OS Vulnerabilities Programming &amp;ndash; Professional Skills: Python, C, Basic Knowledge: C++, Java, Php/MySQL, Asm x86/ARM/LLVM, Go, Rust, Ada, Ocaml OS &amp;ndash; Linux (Ubuntu, Debian, ArchLinux), Windows (98 up to 10) Administration &amp;ndash; Tools: Vim, Eclipse derived, Git, Jenkins, Docker, VirtualBox, Ansible Office &amp;ndash; Professional Reports and Scientific Articles (LaTeX, Microsoft Office and alternatives)  Experience  2018 &amp;ndash; Now, Research Engineer, CEA-Leti, Grenoble, France 2014 &amp;ndash; 2018, Ph.</description>
     </item>
     
     <item>
