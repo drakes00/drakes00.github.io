@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Maxime Puys - Maxime Puys</title><link>http://maxime.puys.name/</link><description>Cybersecurity Research Engineer</description><lastBuildDate>Wed, 26 Jul 2017 00:00:00 +0200</lastBuildDate><item><title>Me</title><link>http://maxime.puys.name/me.html</link><description>
+<rss version="2.0"><channel><title>Maxime Puys - Maxime Puys</title><link>https://maxime.puys.name/</link><description>Cybersecurity Research Engineer</description><lastBuildDate>Wed, 26 Jul 2017 00:00:00 +0200</lastBuildDate><item><title>Me</title><link>https://maxime.puys.name/me.html</link><description>
         &lt;div style="position: relative; text-align: center;"&gt;
             &lt;div style="float: left; width: 30%; position: absolute; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-0%, -50%);"&gt;
                 &lt;img src="images/id.png" alt="Photo" style="border: 1px solid black; width:100%; max-width: 300px;" /&gt;
@@ -63,7 +63,7 @@
                 &lt;/table&gt;
             &lt;/div&gt;
         &lt;/div&gt;
-    </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Mon, 09 Jul 2012 22:28:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2012-07-09:/me.html</guid><category>10</category></item><item><title>Curriclum Vitae</title><link>http://maxime.puys.name/curriclum-vitae.html</link><description>&lt;h3&gt;Skills&lt;/h3&gt;
+    </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Mon, 09 Jul 2012 22:28:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2012-07-09:/me.html</guid><category>10</category></item><item><title>Curriclum Vitae</title><link>https://maxime.puys.name/curriclum-vitae.html</link><description>&lt;h3&gt;Skills&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Cybersecurity -- Cryptology (OpenSSL, Featherduster), Network Security (Wireshark, Scapy, NMap), Formal Methods (ProVerif, KLEE, Frama-C), OS Vulnerabilities&lt;/li&gt;
 &lt;li&gt;Programming -- Professional Skills: Python, C, Basic Knowledge: C++, Java, Php/MySQL, Asm x86/ARM/LLVM, Go, Rust, Ada, Ocaml&lt;/li&gt;
@@ -173,7 +173,7 @@ organization)&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;Best Student Paper Award, Jul 2017, SECRYPT 2017, For paper "Formally Verifying Flow Integrity Properties in Industrial Systems".&lt;/li&gt;
 &lt;li&gt;Best Paper Award, Jul 2016, SECRYPT 2016, For paper "Private Multi-party Matrix Multiplication and Trust Computations".&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Wed, 26 Jul 2017 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2017-07-26:/curriclum-vitae.html</guid><category>20</category></item><item><title>Publications</title><link>http://maxime.puys.name/publications.html</link><description>
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Wed, 26 Jul 2017 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2017-07-26:/curriclum-vitae.html</guid><category>20</category></item><item><title>Publications</title><link>https://maxime.puys.name/publications.html</link><description>
 &lt;div id="publications"&gt;
 &lt;h3&gt;Ph.D. Thesis&lt;/h3&gt;
 &lt;body&gt;
@@ -987,7 +987,7 @@ M.&amp;nbsp;Potet, L.&amp;nbsp;Mounier, M.&amp;nbsp;Puys, and L.&amp;nbsp;Dureui
 &lt;/table&gt;
 
 &lt;/div&gt;
-    </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Tue, 25 Jul 2017 21:40:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2017-07-25:/publications.html</guid><category>30</category></item><item><title>Links</title><link>http://maxime.puys.name/links.html</link><description>&lt;h3&gt;Research&lt;/h3&gt;
+    </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Tue, 25 Jul 2017 21:40:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2017-07-25:/publications.html</guid><category>30</category></item><item><title>Links</title><link>https://maxime.puys.name/links.html</link><description>&lt;h3&gt;Research&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;[&lt;a href="http://103.1.187.206/core/"&gt;Core&lt;/a&gt;] Core Conference ranking engine.&lt;/li&gt;
 &lt;li&gt;[&lt;a href="http://www.sherpa.ac.uk/romeo/"&gt;Sherpa/Romeo&lt;/a&gt;] Publisher copyright policies
