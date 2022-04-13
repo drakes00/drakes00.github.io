@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys - 20</title><link href="http://127.0.0.1:8000/" rel="alternate"></link><link href="http://127.0.0.1:8000/feeds/20.atom.xml" rel="self"></link><id>http://127.0.0.1:8000/</id><updated>2017-07-26T00:00:00+02:00</updated><subtitle>Cybersecurity Research Engineer</subtitle><entry><title>Curriclum Vitae</title><link href="http://127.0.0.1:8000/curriclum-vitae.html" rel="alternate"></link><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:127.0.0.1,2017-07-26:/curriclum-vitae.html</id><content type="html">&lt;h3&gt;Skills&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cybersecurity -- Cryptology (OpenSSL, Featherduster), Network Security (Wireshark, Scapy, NMap), Formal Methods (ProVerif, KLEE, Frama-C), OS Vulnerabilities&lt;/li&gt;
+&lt;li&gt;Programming -- Professional Skills: Python, C, Basic Knowledge: C++, Java, Php/MySQL, Asm x86/ARM/LLVM, Go, Rust, Ada, Ocaml&lt;/li&gt;
+&lt;li&gt;OS -- Linux (Ubuntu, Debian, ArchLinux), Windows (98 up to 10)&lt;/li&gt;
+&lt;li&gt;Administration -- Tools: Vim, Eclipse derived, Git, Jenkins, Docker, VirtualBox, Ansible&lt;/li&gt;
+&lt;li&gt;Office -- Professional Reports and Scientific Articles (LaTeX, Microsoft Office and alternatives)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Experience&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2018 -- Now, Research Engineer, CEA-Leti, Grenoble, France&lt;/li&gt;
+&lt;li&gt;2014 -- 2018, Ph.D. Student, Verimag, University of Grenoble Alpes, Grenoble, France&lt;/li&gt;
+&lt;li&gt;2013 -- 2014, Smart-Card Security Apprentice Engineer, Morpho, Osny, France&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Education&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2014 -- 2018, Ph.D. in Computer Science Security, Grenoble Alpes, Grenoble, France&lt;/li&gt;
+&lt;li&gt;2012 -- 2014, Master's Degree, Magna Cum Laude (Mention "Bien"), University of
+Grenoble Alpes, Grenoble, France&lt;/li&gt;
+&lt;li&gt;2009 -- 2012, Licentiate Degree, Cum Laude (Mention "Assez Bien"), University
+of Grenoble Alpes, Grenoble, France&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Summary&lt;/h3&gt;
+&lt;p&gt;I graduated from a master's degree from 
+&lt;a href="http://www.univ-grenoble-alpes.fr/"&gt;University of Grenoble Alpes&lt;/a&gt; in Grenoble.
+This master was named SAFE (now
+&lt;a href="http://cybersecurity.imag.fr/"&gt;Cybersecurity&lt;/a&gt;), standing for &lt;em&gt;Sécurité, Audit
+et Informatique Légal&lt;/em&gt;, cybercriminality orientated and this year of study was
+combined with an apprenticeship in the R&amp;amp;D center of &lt;a href="http://www.morpho.com/"&gt;SAFRAN
+Morpho&lt;/a&gt; on the security of smartcards against fault
+attacks.
+Within this position, I ensured technology intelligence, provided intern
+white-papers and proposed new ideas including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A detailed state-of-the-art on fault attacks against RSA cryptographic
+scheme;&lt;/li&gt;
+&lt;li&gt;A set of macro to automatically embed security against fault attacks in
+smart-cards applications;&lt;/li&gt;
+&lt;li&gt;A simulator working at C level to automatically assess the security of
+smart-cards applications against fault attacks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I obtained a Ph.D. in the field of industrial systems cybersecurity at
+the &lt;a href="http://www-verimag.imag.fr/"&gt;Verimag&lt;/a&gt; laboratory under the
+supervision of &lt;a href="http://www-verimag.imag.fr/~potet/"&gt;Marie-Laure Potet&lt;/a&gt;
+and &lt;a href="http://www-verimag.imag.fr/~rochj/"&gt;Jean-Louis Roch&lt;/a&gt;.
+Within the projet PIA Sécurité Numérique ARAMIS.
+My subject aimed to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Propose a language in order to filter industrial communication using deep packet analysis;&lt;/li&gt;
+&lt;li&gt;Study automated generation of attack scenarios against industrial systems;&lt;/li&gt;
+&lt;li&gt;Perform formal verification of industrial protocols.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I am currently working as a research engineer at the
+&lt;a href="http://www.leti-cea.fr/cea-tech/leti/Pages/Accueil.aspx"&gt;CEA-Leti&lt;/a&gt; where I am studying
+the security of IoT devices for smart-home and industrial systems (SCADA systems).
+Within this position, I ensured technology intelligence, provided intern
+white-papers and proposed new ideas including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Assessing the security of IoT smart-home devices with respect to network attacks;&lt;/li&gt;
+&lt;li&gt;Designing lightweight solutions to secure industrial IoT systems (SCADA systems);&lt;/li&gt;
+&lt;li&gt;Proposing integration and penetration testing architectures for developped components.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Students Supervision&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2019: Industrial Project Internship, ESISAR Valence -- Advanced Persistant
+Threats Development for Industrial Control Systems (in co-supervision with
+        Pierre-Henri Th&amp;eacute;venon)&lt;/li&gt;
+&lt;li&gt;2019: Industrial Project Internship, ENSIMAG Grenoble -- Attack Scenarios and
+Smart-Fuzzing of the MODBUS protocol} (in co-supervision with Pierre-Henri
+        Th&amp;eacute;venon and &lt;a href="http://www-verimag.imag.fr/~rochj/"&gt;Jean-Louis Roch&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;2017: Abdelaziz KHALED, Computer Science Master 2 Internship, University of
+Troyes - Automatated Translation of Specifications for Research of Attack
+Scenarios (in co-supervision with &lt;a href="http://www-verimag.imag.fr/~potet/"&gt;Marie-Laure
+Potet&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;2017: Florian MARCO, Computer Science Licentiate 3 Internship, University of
+Grenoble Alpes - Modular modelization of intruder in ProVerif (in
+co-supervision with &lt;a href="http://www-verimag.imag.fr/~ene/"&gt;Cristian Ene&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;2016: Joris CHAFFARD, Computer Science Master 1 Internship, University of
+Grenoble Alpes - Modélisation de comportements d'attaques contres des systèmes
+de contrôle-commande (in co-supervision with Emmanuel Perrier and &lt;a href="http://www-verimag.imag.fr/~potet/"&gt;Marie-Laure
+Potet&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;2016: Francesco FURFARO, Computer Science Master 1 Internship, University of
+Grenoble Alpes - Génération de traffic d'attaque pour les protocoles
+contrôle-commande (in co-supervision with Emmanuel Perrier and &lt;a href="http://www-verimag.imag.fr/~potet/"&gt;Marie-Laure
+Potet&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Scientific Activities&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href="https://www.journals.elsevier.com/computer-communications/"&gt;COMCOM&lt;/a&gt;]
+Elsevier Computer Communications (Reviews)&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://ressi2018.sciencesconf.org/"&gt;RESSI 2018&lt;/a&gt;] 4ème Rendez-Vous de la
+Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information (Ph.D.
+students track's PC member)&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://ressi2017.sciencesconf.org/"&gt;RESSI 2017&lt;/a&gt;] 3ème Rendez-Vous de la
+Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information (Ph.D.
+students track's chair)&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://www.gramsec.uni.lu/2017/"&gt;GramSec'17&lt;/a&gt;] 4th International Workshop
+on Graphical Models for Security, (Subreview)&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://ressi2016.sciencesconf.org/"&gt;RESSI 2016&lt;/a&gt;] 2ème Rendez-Vous de la
+Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information (Ph.D.
+students track's PC member)&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://www.fps2016.fsg.ulaval.ca/"&gt;FPS 2016&lt;/a&gt;] 9th International Symposium
+on Foundations &amp;amp; Practice of Security (Subreview)&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://grehack.fr"&gt;GreHack'15 -- 17&lt;/a&gt;] GreHack conference and CTF (Local
+organization)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Honors &amp;amp; Awards&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Best Student Paper Award, Jul 2017, SECRYPT 2017, For paper "Formally Verifying Flow Integrity Properties in Industrial Systems".&lt;/li&gt;
+&lt;li&gt;Best Paper Award, Jul 2016, SECRYPT 2016, For paper "Private Multi-party Matrix Multiplication and Trust Computations".&lt;/li&gt;
+&lt;/ul&gt;</content><category term="20"></category></entry></feed>
