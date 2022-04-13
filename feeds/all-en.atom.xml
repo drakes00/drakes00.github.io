@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys</title><link href="http://127.0.0.1:8000/" rel="alternate"></link><link href="http://127.0.0.1:8000/feeds/all-en.atom.xml" rel="self"></link><id>http://127.0.0.1:8000/</id><updated>2017-07-26T00:00:00+02:00</updated><subtitle>Cybersecurity Research Engineer</subtitle><entry><title>Me</title><link href="http://127.0.0.1:8000/me.html" rel="alternate"></link><published>2012-07-09T22:28:00+02:00</published><updated>2012-07-09T22:28:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:127.0.0.1,2012-07-09:/me.html</id><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys</title><link href="http://maxime.puys.name/" rel="alternate"></link><link href="http://maxime.puys.name/feeds/all-en.atom.xml" rel="self"></link><id>http://maxime.puys.name/</id><updated>2017-07-26T00:00:00+02:00</updated><subtitle>Cybersecurity Research Engineer</subtitle><entry><title>Me</title><link href="http://maxime.puys.name/me.html" rel="alternate"></link><published>2012-07-09T22:28:00+02:00</published><updated>2012-07-09T22:28:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2012-07-09:/me.html</id><content type="html">
         &lt;div style="position: relative; text-align: center;"&gt;
             &lt;div style="float: left; width: 30%; position: absolute; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-0%, -50%);"&gt;
                 &lt;img src="images/id.png" alt="Photo" style="border: 1px solid black; width:100%; max-width: 300px;" /&gt;
@@ -63,7 +63,7 @@
                 &lt;/table&gt;
             &lt;/div&gt;
         &lt;/div&gt;
-    </content><category term="10"></category></entry><entry><title>Curriclum Vitae</title><link href="http://127.0.0.1:8000/curriclum-vitae.html" rel="alternate"></link><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:127.0.0.1,2017-07-26:/curriclum-vitae.html</id><content type="html">&lt;h3&gt;Skills&lt;/h3&gt;
+    </content><category term="10"></category></entry><entry><title>Curriclum Vitae</title><link href="http://maxime.puys.name/curriclum-vitae.html" rel="alternate"></link><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/curriclum-vitae.html</id><content type="html">&lt;h3&gt;Skills&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Cybersecurity -- Cryptology (OpenSSL, Featherduster), Network Security (Wireshark, Scapy, NMap), Formal Methods (ProVerif, KLEE, Frama-C), OS Vulnerabilities&lt;/li&gt;
 &lt;li&gt;Programming -- Professional Skills: Python, C, Basic Knowledge: C++, Java, Php/MySQL, Asm x86/ARM/LLVM, Go, Rust, Ada, Ocaml&lt;/li&gt;
@@ -173,7 +173,7 @@ organization)&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;Best Student Paper Award, Jul 2017, SECRYPT 2017, For paper "Formally Verifying Flow Integrity Properties in Industrial Systems".&lt;/li&gt;
 &lt;li&gt;Best Paper Award, Jul 2016, SECRYPT 2016, For paper "Private Multi-party Matrix Multiplication and Trust Computations".&lt;/li&gt;
-&lt;/ul&gt;</content><category term="20"></category></entry><entry><title>Publications</title><link href="http://127.0.0.1:8000/publications.html" rel="alternate"></link><published>2017-07-25T21:40:00+02:00</published><updated>2017-07-25T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:127.0.0.1,2017-07-25:/publications.html</id><content type="html">
+&lt;/ul&gt;</content><category term="20"></category></entry><entry><title>Publications</title><link href="http://maxime.puys.name/publications.html" rel="alternate"></link><published>2017-07-25T21:40:00+02:00</published><updated>2017-07-25T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-25:/publications.html</id><content type="html">
 &lt;div id="publications"&gt;
 &lt;h3&gt;Ph.D. Thesis&lt;/h3&gt;
 &lt;body&gt;
@@ -987,7 +987,7 @@ M.&amp;nbsp;Potet, L.&amp;nbsp;Mounier, M.&amp;nbsp;Puys, and L.&amp;nbsp;Dureui
 &lt;/table&gt;
 
 &lt;/div&gt;
-    </content><category term="30"></category></entry><entry><title>Links</title><link href="http://127.0.0.1:8000/links.html" rel="alternate"></link><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:127.0.0.1,2017-07-26:/links.html</id><content type="html">&lt;h3&gt;Research&lt;/h3&gt;
+    </content><category term="30"></category></entry><entry><title>Links</title><link href="http://maxime.puys.name/links.html" rel="alternate"></link><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/links.html</id><content type="html">&lt;h3&gt;Research&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;[&lt;a href="http://103.1.187.206/core/"&gt;Core&lt;/a&gt;] Core Conference ranking engine.&lt;/li&gt;
 &lt;li&gt;[&lt;a href="http://www.sherpa.ac.uk/romeo/"&gt;Sherpa/Romeo&lt;/a&gt;] Publisher copyright policies
