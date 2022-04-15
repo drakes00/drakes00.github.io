@@ -63,7 +63,7 @@
                 &lt;/table&gt;
             &lt;/div&gt;
         &lt;/div&gt;
-    </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Mon, 09 Jul 2012 22:28:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2012-07-09:/me.html</guid><category>10</category></item><item><title>Curriclum Vitae</title><link>https://maxime.puys.name/curriclum-vitae.html</link><description>&lt;h3&gt;Skills&lt;/h3&gt;
+    </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Mon, 09 Jul 2012 22:28:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2012-07-09:/me.html</guid><category>10</category></item><item><title>Curriculum Vitae</title><link>https://maxime.puys.name/cv.html</link><description>&lt;h3&gt;Skills&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Cybersecurity -- Cryptology (OpenSSL, Featherduster), Network Security (Wireshark, Scapy, NMap), Formal Methods (ProVerif, KLEE, Frama-C), OS Vulnerabilities&lt;/li&gt;
 &lt;li&gt;Programming -- Professional Skills: Python, C, Basic Knowledge: C++, Java, Php/MySQL, Asm x86/ARM/LLVM, Go, Rust, Ada, Ocaml&lt;/li&gt;
@@ -173,7 +173,7 @@ organization)&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;Best Student Paper Award, Jul 2017, SECRYPT 2017, For paper "Formally Verifying Flow Integrity Properties in Industrial Systems".&lt;/li&gt;
 &lt;li&gt;Best Paper Award, Jul 2016, SECRYPT 2016, For paper "Private Multi-party Matrix Multiplication and Trust Computations".&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Wed, 26 Jul 2017 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2017-07-26:/curriclum-vitae.html</guid><category>20</category></item><item><title>Publications</title><link>https://maxime.puys.name/publications.html</link><description>
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Wed, 26 Jul 2017 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2017-07-26:/cv.html</guid><category>20</category></item><item><title>Publications</title><link>https://maxime.puys.name/publications.html</link><description>
 &lt;div id="publications"&gt;
 &lt;h3&gt;Ph.D. Thesis&lt;/h3&gt;
 &lt;body&gt;

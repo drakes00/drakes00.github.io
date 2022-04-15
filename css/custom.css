@@ -7,6 +7,10 @@ aside a {
     border-bottom: none;
 }
 
+.active {
+    color: #A9CCE3;
+}
+
 pre {
     max-width: 760px;
     white-space: pre-wrap;       /* css-3 */

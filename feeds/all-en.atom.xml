@@ -63,7 +63,7 @@
                 &lt;/table&gt;
             &lt;/div&gt;
         &lt;/div&gt;
-    </content><category term="10"></category></entry><entry><title>Curriclum Vitae</title><link href="https://maxime.puys.name/curriclum-vitae.html" rel="alternate"></link><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/curriclum-vitae.html</id><content type="html">&lt;h3&gt;Skills&lt;/h3&gt;
+    </content><category term="10"></category></entry><entry><title>Curriculum Vitae</title><link href="https://maxime.puys.name/cv.html" rel="alternate"></link><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/cv.html</id><content type="html">&lt;h3&gt;Skills&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Cybersecurity -- Cryptology (OpenSSL, Featherduster), Network Security (Wireshark, Scapy, NMap), Formal Methods (ProVerif, KLEE, Frama-C), OS Vulnerabilities&lt;/li&gt;
 &lt;li&gt;Programming -- Professional Skills: Python, C, Basic Knowledge: C++, Java, Php/MySQL, Asm x86/ARM/LLVM, Go, Rust, Ada, Ocaml&lt;/li&gt;
