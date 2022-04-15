@@ -7,7 +7,7 @@ aside a {
     border-bottom: none;
 }
 
-.active {
+.active .active:hover {
     color: #A9CCE3;
 }
 
