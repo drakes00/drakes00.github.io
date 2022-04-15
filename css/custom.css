@@ -1,9 +1,4 @@
-body {
-    background-color: #f5fafa;
-}
-
 a {
-    color: purple;
     font-weight: bold;
     border-bottom: dotted 1px rgba(128, 128, 128, 0.5);
 }
