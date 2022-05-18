@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Maxime Puys - Maxime Puys</title><link>https://maxime.puys.name/</link><description>Cybersecurity Research Engineer</description><lastBuildDate>Wed, 26 Jul 2017 00:00:00 +0200</lastBuildDate><item><title>Me</title><link>https://maxime.puys.name/me.html</link><description>
+<rss version="2.0"><channel><title>Maxime Puys - Maxime Puys</title><link>https://maxime.puys.name/</link><description>Cybersecurity Research Engineer</description><lastBuildDate>Wed, 26 Jul 2017 21:40:00 +0200</lastBuildDate><item><title>Me</title><link>https://maxime.puys.name/me.html</link><description>
         &lt;div style="position: relative; text-align: center;"&gt;
             &lt;div style="float: left; width: 30%; position: absolute; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-0%, -50%);"&gt;
                 &lt;img src="images/id.png" alt="Photo" style="border: 1px solid black; width:100%; max-width: 300px;" /&gt;
@@ -63,117 +63,390 @@
                 &lt;/table&gt;
             &lt;/div&gt;
         &lt;/div&gt;
-    </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Mon, 09 Jul 2012 22:28:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2012-07-09:/me.html</guid><category>10</category></item><item><title>Curriculum Vitae</title><link>https://maxime.puys.name/cv.html</link><description>&lt;h3&gt;Skills&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Cybersecurity -- Cryptology (OpenSSL, Featherduster), Network Security (Wireshark, Scapy, NMap), Formal Methods (ProVerif, KLEE, Frama-C), OS Vulnerabilities&lt;/li&gt;
-&lt;li&gt;Programming -- Professional Skills: Python, C, Basic Knowledge: C++, Java, Php/MySQL, Asm x86/ARM/LLVM, Go, Rust, Ada, Ocaml&lt;/li&gt;
-&lt;li&gt;OS -- Linux (Ubuntu, Debian, ArchLinux), Windows (98 up to 10)&lt;/li&gt;
-&lt;li&gt;Administration -- Tools: Vim, Eclipse derived, Git, Jenkins, Docker, VirtualBox, Ansible&lt;/li&gt;
-&lt;li&gt;Office -- Professional Reports and Scientific Articles (LaTeX, Microsoft Office and alternatives)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Experience&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2018 -- Now, Research Engineer, CEA-Leti, Grenoble, France&lt;/li&gt;
-&lt;li&gt;2014 -- 2018, Ph.D. Student, Verimag, University of Grenoble Alpes, Grenoble, France&lt;/li&gt;
-&lt;li&gt;2013 -- 2014, Smart-Card Security Apprentice Engineer, Morpho, Osny, France&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Education&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2014 -- 2018, Ph.D. in Computer Science Security, Grenoble Alpes, Grenoble, France&lt;/li&gt;
-&lt;li&gt;2012 -- 2014, Master's Degree, Magna Cum Laude (Mention "Bien"), University of
-Grenoble Alpes, Grenoble, France&lt;/li&gt;
-&lt;li&gt;2009 -- 2012, Licentiate Degree, Cum Laude (Mention "Assez Bien"), University
-of Grenoble Alpes, Grenoble, France&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Summary&lt;/h3&gt;
-&lt;p&gt;I graduated from a master's degree from 
-&lt;a href="http://www.univ-grenoble-alpes.fr/"&gt;University of Grenoble Alpes&lt;/a&gt; in Grenoble.
-This master was named SAFE (now
-&lt;a href="http://cybersecurity.imag.fr/"&gt;Cybersecurity&lt;/a&gt;), standing for &lt;em&gt;Sécurité, Audit
-et Informatique Légal&lt;/em&gt;, cybercriminality orientated and this year of study was
-combined with an apprenticeship in the R&amp;amp;D center of &lt;a href="http://www.morpho.com/"&gt;SAFRAN
-Morpho&lt;/a&gt; on the security of smartcards against fault
-attacks.
-Within this position, I ensured technology intelligence, provided intern
-white-papers and proposed new ideas including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A detailed state-of-the-art on fault attacks against RSA cryptographic
-scheme;&lt;/li&gt;
-&lt;li&gt;A set of macro to automatically embed security against fault attacks in
-smart-cards applications;&lt;/li&gt;
-&lt;li&gt;A simulator working at C level to automatically assess the security of
-smart-cards applications against fault attacks.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I obtained a Ph.D. in the field of industrial systems cybersecurity at
-the &lt;a href="http://www-verimag.imag.fr/"&gt;Verimag&lt;/a&gt; laboratory under the
-supervision of &lt;a href="http://www-verimag.imag.fr/~potet/"&gt;Marie-Laure Potet&lt;/a&gt;
-and &lt;a href="http://www-verimag.imag.fr/~rochj/"&gt;Jean-Louis Roch&lt;/a&gt;.
-Within the projet PIA Sécurité Numérique ARAMIS.
-My subject aimed to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Propose a language in order to filter industrial communication using deep packet analysis;&lt;/li&gt;
-&lt;li&gt;Study automated generation of attack scenarios against industrial systems;&lt;/li&gt;
-&lt;li&gt;Perform formal verification of industrial protocols.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I am currently working as a research engineer at the
-&lt;a href="http://www.leti-cea.fr/cea-tech/leti/Pages/Accueil.aspx"&gt;CEA-Leti&lt;/a&gt; where I am studying
-the security of IoT devices for smart-home and industrial systems (SCADA systems).
-Within this position, I ensured technology intelligence, provided intern
-white-papers and proposed new ideas including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Assessing the security of IoT smart-home devices with respect to network attacks;&lt;/li&gt;
-&lt;li&gt;Designing lightweight solutions to secure industrial IoT systems (SCADA systems);&lt;/li&gt;
-&lt;li&gt;Proposing integration and penetration testing architectures for developped components.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Students Supervision&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2019: Industrial Project Internship, ESISAR Valence -- Advanced Persistant
-Threats Development for Industrial Control Systems (in co-supervision with
-        Pierre-Henri Th&amp;eacute;venon)&lt;/li&gt;
-&lt;li&gt;2019: Industrial Project Internship, ENSIMAG Grenoble -- Attack Scenarios and
-Smart-Fuzzing of the MODBUS protocol} (in co-supervision with Pierre-Henri
-        Th&amp;eacute;venon and &lt;a href="http://www-verimag.imag.fr/~rochj/"&gt;Jean-Louis Roch&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;2017: Abdelaziz KHALED, Computer Science Master 2 Internship, University of
-Troyes - Automatated Translation of Specifications for Research of Attack
-Scenarios (in co-supervision with &lt;a href="http://www-verimag.imag.fr/~potet/"&gt;Marie-Laure
-Potet&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;2017: Florian MARCO, Computer Science Licentiate 3 Internship, University of
-Grenoble Alpes - Modular modelization of intruder in ProVerif (in
-co-supervision with &lt;a href="http://www-verimag.imag.fr/~ene/"&gt;Cristian Ene&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;2016: Joris CHAFFARD, Computer Science Master 1 Internship, University of
-Grenoble Alpes - Modélisation de comportements d'attaques contres des systèmes
-de contrôle-commande (in co-supervision with Emmanuel Perrier and &lt;a href="http://www-verimag.imag.fr/~potet/"&gt;Marie-Laure
-Potet&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;2016: Francesco FURFARO, Computer Science Master 1 Internship, University of
-Grenoble Alpes - Génération de traffic d'attaque pour les protocoles
-contrôle-commande (in co-supervision with Emmanuel Perrier and &lt;a href="http://www-verimag.imag.fr/~potet/"&gt;Marie-Laure
-Potet&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Scientific Activities&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;[&lt;a href="https://www.journals.elsevier.com/computer-communications/"&gt;COMCOM&lt;/a&gt;]
-Elsevier Computer Communications (Reviews)&lt;/li&gt;
-&lt;li&gt;[&lt;a href="https://ressi2018.sciencesconf.org/"&gt;RESSI 2018&lt;/a&gt;] 4ème Rendez-Vous de la
-Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information (Ph.D.
-students track's PC member)&lt;/li&gt;
-&lt;li&gt;[&lt;a href="https://ressi2017.sciencesconf.org/"&gt;RESSI 2017&lt;/a&gt;] 3ème Rendez-Vous de la
-Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information (Ph.D.
-students track's chair)&lt;/li&gt;
-&lt;li&gt;[&lt;a href="https://www.gramsec.uni.lu/2017/"&gt;GramSec'17&lt;/a&gt;] 4th International Workshop
-on Graphical Models for Security, (Subreview)&lt;/li&gt;
-&lt;li&gt;[&lt;a href="https://ressi2016.sciencesconf.org/"&gt;RESSI 2016&lt;/a&gt;] 2ème Rendez-Vous de la
-Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information (Ph.D.
-students track's PC member)&lt;/li&gt;
-&lt;li&gt;[&lt;a href="https://www.fps2016.fsg.ulaval.ca/"&gt;FPS 2016&lt;/a&gt;] 9th International Symposium
-on Foundations &amp;amp; Practice of Security (Subreview)&lt;/li&gt;
-&lt;li&gt;[&lt;a href="https://grehack.fr"&gt;GreHack'15 -- 17&lt;/a&gt;] GreHack conference and CTF (Local
-organization)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Honors &amp;amp; Awards&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Best Student Paper Award, Jul 2017, SECRYPT 2017, For paper "Formally Verifying Flow Integrity Properties in Industrial Systems".&lt;/li&gt;
-&lt;li&gt;Best Paper Award, Jul 2016, SECRYPT 2016, For paper "Private Multi-party Matrix Multiplication and Trust Computations".&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Wed, 26 Jul 2017 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2017-07-26:/cv.html</guid><category>20</category></item><item><title>Publications</title><link>https://maxime.puys.name/publications.html</link><description>
+    </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Mon, 09 Jul 2012 22:28:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2012-07-09:/me.html</guid><category>10</category></item><item><title>Curriculum Vitæ</title><link>https://maxime.puys.name/cv.html</link><description>
+        &lt;div style="display: flex;"&gt;
+    &lt;div style="flex: 55%;"&gt;
+        &lt;!-- Fields of Expertise --&gt;
+        &lt;h3&gt;Fields of Expertise&lt;/h3&gt;
+        &lt;table&gt;
+            
+            &lt;tr style="display: flex;"&gt;
+                &lt;td style="flex: 25%; text-align: right;"&gt;Cybersecurity&lt;/td&gt;
+                &lt;td style="flex: 75%;"&gt;
+                    &lt;ul&gt;
+                    
+                        &lt;li&gt;Industrial Control Systems / SCADA&lt;/li&gt;
+                    
+                        &lt;li&gt;IoT and Network Cybersecurity&lt;/li&gt;
+                    
+                        &lt;li&gt;Cryptography / Security Protocols&lt;/li&gt;
+                    
+                        &lt;li&gt;Formal Methods for Cybersecurity&lt;/li&gt;
+                    
+                        &lt;li&gt;Certification Standards&lt;/li&gt;
+                    
+                    &lt;/ul&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+            &lt;tr style="display: flex;"&gt;
+                &lt;td style="flex: 25%; text-align: right;"&gt;DevOps&lt;/td&gt;
+                &lt;td style="flex: 75%;"&gt;
+                    &lt;ul&gt;
+                    
+                        &lt;li&gt;Software Development&lt;/li&gt;
+                    
+                        &lt;li&gt;Continuous Integration / Testing&lt;/li&gt;
+                    
+                        &lt;li&gt;Containerization&lt;/li&gt;
+                    
+                        &lt;li&gt;Linux Administration / Hardening&lt;/li&gt;
+                    
+                    &lt;/ul&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+            &lt;tr style="display: flex;"&gt;
+                &lt;td style="flex: 25%; text-align: right;"&gt;Scientific R&amp;amp;D&lt;/td&gt;
+                &lt;td style="flex: 75%;"&gt;
+                    &lt;ul&gt;
+                    
+                        &lt;li&gt;Scientific Articles Publication&lt;/li&gt;
+                    
+                        &lt;li&gt;Scientific conferences / Workshops&lt;/li&gt;
+                    
+                        &lt;li&gt;Technology Intelligence&lt;/li&gt;
+                    
+                        &lt;li&gt;Academic Transfert&lt;/li&gt;
+                    
+                        &lt;li&gt;Student Supervision&lt;/li&gt;
+                    
+                    &lt;/ul&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+        &lt;/table&gt;
+
+        &lt;!-- Profesional Experience --&gt;
+        &lt;h3&gt;Profesional Experience&lt;/h3&gt;
+        &lt;table&gt;
+            
+            
+            &lt;tr style="display: flex;"&gt;
+                &lt;td style="flex: 19%;"&gt;
+                    
+                        Since 2018
+                    
+                &lt;/td&gt;
+                &lt;td style="flex: 81%;"&gt;
+                    &lt;b&gt;Research Engineer&lt;/b&gt;&lt;br /&gt;
+                    &lt;i class="fa-solid fa-location-dot"&gt;&lt;/i&gt;
+                    CEA-Leti, Grenoble&lt;br /&gt;
+                    Smart-Home and Industrial IoT Security:
+                    &lt;ul&gt;
+                    
+                        &lt;li&gt;IoT/SCADA device security assessment&lt;/li&gt;
+                    
+                        &lt;li&gt;Design of lightweight security solutions&lt;/li&gt;
+                    
+                        &lt;li&gt;CI/CD for developped product&lt;/li&gt;
+                    
+                        &lt;li&gt;Cybersecurity Consulting&lt;/li&gt;
+                    
+                    &lt;/ul&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+            
+            
+            &lt;tr style="display: flex;"&gt;
+                &lt;td style="flex: 19%;"&gt;
+                    
+                        2014 - 2018
+                    
+                &lt;/td&gt;
+                &lt;td style="flex: 81%;"&gt;
+                    &lt;b&gt;Ph.D Student&lt;/b&gt;&lt;br /&gt;
+                    &lt;i class="fa-solid fa-location-dot"&gt;&lt;/i&gt;
+                    Vérimag, St Martin d'Hères&lt;br /&gt;
+                    Industrial Systems Cybersecurity:
+                    &lt;ul&gt;
+                    
+                        &lt;li&gt;Applicative Filtering&lt;/li&gt;
+                    
+                        &lt;li&gt;Industrical Protocols Verification&lt;/li&gt;
+                    
+                        &lt;li&gt;Research of Applicative Attack Scenarios&lt;/li&gt;
+                    
+                    &lt;/ul&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+            
+            
+            &lt;tr style="display: flex;"&gt;
+                &lt;td style="flex: 19%;"&gt;
+                    
+                        2013 - 2014
+                    
+                &lt;/td&gt;
+                &lt;td style="flex: 81%;"&gt;
+                    &lt;b&gt;Apprenticeship&lt;/b&gt;&lt;br /&gt;
+                    &lt;i class="fa-solid fa-location-dot"&gt;&lt;/i&gt;
+                    IDEMIA, Osny&lt;br /&gt;
+                    Fault Attacks and Code Analysis for Smart-Cards:
+                    &lt;ul&gt;
+                    
+                        &lt;li&gt;State-of-the-art on fault attacks against RSA&lt;/li&gt;
+                    
+                        &lt;li&gt;Design of security C macros for smart-cards&lt;/li&gt;
+                    
+                        &lt;li&gt;Source code level fault injection simulator&lt;/li&gt;
+                    
+                    &lt;/ul&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+            
+            
+            
+            
+            
+            
+            
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div style="flex: 45%;"&gt;
+        &lt;!-- Computer Science Skills --&gt;
+        &lt;h3&gt;Computer Science Skills&lt;/h3&gt;
+        &lt;table&gt;
+            
+            &lt;tr&gt;
+                &lt;td&gt;Cybersecurity&lt;/td&gt;
+                &lt;td&gt;
+                    
+                        
+                            SSH, 
+                        
+                            Wireshark, 
+                        
+                            Scapy, 
+                        
+                            NMap, 
+                        
+                            OpenSSL, 
+                        
+                            Burp, 
+                        
+                            John, 
+                        
+                            Snort, 
+                        
+                            Ettercap
+                        
+                    
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+            &lt;tr&gt;
+                &lt;td&gt;Programming&lt;/td&gt;
+                &lt;td&gt;
+                    
+                        
+                        Python &lt;span style="float: right;"&gt;100%&lt;/span&gt;
+                        &lt;canvas id="python"&gt;&lt;/canvas&gt;
+                        &lt;script&gt;
+                            var canvas = document.getElementById("python");
+                            var ctx = canvas.getContext("2d");
+                            ctx.fillStyle = "#2A70CC";
+                            ctx.fillRect(0, 0, canvas.width*100/100, canvas.height);
+                        &lt;/script&gt;
+                        
+                        C &lt;span style="float: right;"&gt;100%&lt;/span&gt;
+                        &lt;canvas id="c"&gt;&lt;/canvas&gt;
+                        &lt;script&gt;
+                            var canvas = document.getElementById("c");
+                            var ctx = canvas.getContext("2d");
+                            ctx.fillStyle = "#2A70CC";
+                            ctx.fillRect(0, 0, canvas.width*100/100, canvas.height);
+                        &lt;/script&gt;
+                        
+                        Ocaml &lt;span style="float: right;"&gt;60%&lt;/span&gt;
+                        &lt;canvas id="ocaml"&gt;&lt;/canvas&gt;
+                        &lt;script&gt;
+                            var canvas = document.getElementById("ocaml");
+                            var ctx = canvas.getContext("2d");
+                            ctx.fillStyle = "#2A70CC";
+                            ctx.fillRect(0, 0, canvas.width*60/100, canvas.height);
+                        &lt;/script&gt;
+                        
+                        ASM &lt;span style="float: right;"&gt;40%&lt;/span&gt;
+                        &lt;canvas id="asm"&gt;&lt;/canvas&gt;
+                        &lt;script&gt;
+                            var canvas = document.getElementById("asm");
+                            var ctx = canvas.getContext("2d");
+                            ctx.fillStyle = "#2A70CC";
+                            ctx.fillRect(0, 0, canvas.width*40/100, canvas.height);
+                        &lt;/script&gt;
+                        
+                    
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+            &lt;tr&gt;
+                &lt;td&gt;Linux&lt;/td&gt;
+                &lt;td&gt;
+                    
+                        
+                            Admin (Debian, Alpine, Arch)
+                        
+                    
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+            &lt;tr&gt;
+                &lt;td&gt;Windows&lt;/td&gt;
+                &lt;td&gt;
+                    
+                        
+                            Advanced user
+                        
+                    
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+            &lt;tr&gt;
+                &lt;td&gt;DevOps&lt;/td&gt;
+                &lt;td&gt;
+                    
+                        
+                            Vim, 
+                        
+                            Git, 
+                        
+                            Jenkins, 
+                        
+                            Virtualenv, 
+                        
+                            Gitlab CI, 
+                        
+                            Docker, 
+                        
+                            VirtualBox, 
+                        
+                            Ansible
+                        
+                    
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+            &lt;tr&gt;
+                &lt;td&gt;Reports&lt;/td&gt;
+                &lt;td&gt;
+                    
+                        
+                            LaTeX, 
+                        
+                            Office and alternatives
+                        
+                    
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+            &lt;tr&gt;
+                &lt;td&gt;Languages&lt;/td&gt;
+                &lt;td&gt;
+                    
+                        
+                        French &lt;span style="float: right;"&gt;100%&lt;/span&gt;
+                        &lt;canvas id="fr"&gt;&lt;/canvas&gt;
+                        &lt;script&gt;
+                            var canvas = document.getElementById("fr");
+                            var ctx = canvas.getContext("2d");
+                            ctx.fillStyle = "#2A70CC";
+                            ctx.fillRect(0, 0, canvas.width*100/100, canvas.height);
+                        &lt;/script&gt;
+                        
+                        English &lt;span style="float: right;"&gt;80%&lt;/span&gt;
+                        &lt;canvas id="eng"&gt;&lt;/canvas&gt;
+                        &lt;script&gt;
+                            var canvas = document.getElementById("eng");
+                            var ctx = canvas.getContext("2d");
+                            ctx.fillStyle = "#2A70CC";
+                            ctx.fillRect(0, 0, canvas.width*80/100, canvas.height);
+                        &lt;/script&gt;
+                        
+                        Japanese &lt;span style="float: right;"&gt;30%&lt;/span&gt;
+                        &lt;canvas id="jap"&gt;&lt;/canvas&gt;
+                        &lt;script&gt;
+                            var canvas = document.getElementById("jap");
+                            var ctx = canvas.getContext("2d");
+                            ctx.fillStyle = "#2A70CC";
+                            ctx.fillRect(0, 0, canvas.width*30/100, canvas.height);
+                        &lt;/script&gt;
+                        
+                    
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+        &lt;/table&gt;
+
+        &lt;!-- Scholar Formation --&gt;
+        &lt;h3&gt;Scholar Formation&lt;/h3&gt;
+        &lt;table&gt;
+            
+            &lt;tr style="display: flex;"&gt;
+                &lt;td style="flex: 25%; text-align: right;"&gt;
+                    2014 - 2018
+                &lt;/td&gt;
+                &lt;td style="flex: 75%;"&gt;
+                    &lt;b&gt;Ph.D in Cybersecurity&lt;/b&gt;&lt;br /&gt;
+                    &lt;i class="fa-solid fa-location-dot"&gt;&lt;/i&gt;
+                    Univ. Grenoble Alpes&lt;br /&gt;
+                    
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+            &lt;tr style="display: flex;"&gt;
+                &lt;td style="flex: 25%; text-align: right;"&gt;
+                    2012 - 2014
+                &lt;/td&gt;
+                &lt;td style="flex: 75%;"&gt;
+                    &lt;b&gt;Master in Cybersecurity&lt;/b&gt;&lt;br /&gt;
+                    &lt;i class="fa-solid fa-location-dot"&gt;&lt;/i&gt;
+                    Univ. Grenoble Alpes&lt;br /&gt;
+                    Magna Cum Laude
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+            &lt;tr style="display: flex;"&gt;
+                &lt;td style="flex: 25%; text-align: right;"&gt;
+                    2009 - 2014
+                &lt;/td&gt;
+                &lt;td style="flex: 75%;"&gt;
+                    &lt;b&gt;Magister in Computer Science&lt;/b&gt;&lt;br /&gt;
+                    &lt;i class="fa-solid fa-location-dot"&gt;&lt;/i&gt;
+                    Univ. Grenoble Alpes&lt;br /&gt;
+                    Summa Cum Laude
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+            &lt;tr style="display: flex;"&gt;
+                &lt;td style="flex: 25%; text-align: right;"&gt;
+                    2009 - 2012
+                &lt;/td&gt;
+                &lt;td style="flex: 75%;"&gt;
+                    &lt;b&gt;Bachelor in Computer Science&lt;/b&gt;&lt;br /&gt;
+                    &lt;i class="fa-solid fa-location-dot"&gt;&lt;/i&gt;
+                    Univ. Grenoble Alpes&lt;br /&gt;
+                    Cum Laude
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            
+        &lt;/table&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+    </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Wed, 26 Jul 2017 21:40:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2017-07-26:/cv.html</guid><category>20</category></item><item><title>Publications</title><link>https://maxime.puys.name/publications.html</link><description>
 &lt;div id="publications"&gt;
 &lt;h3&gt;Ph.D. Thesis&lt;/h3&gt;
 &lt;body&gt;
