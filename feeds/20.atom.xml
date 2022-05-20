@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys - 20</title><link href="https://maxime.puys.name/" rel="alternate"></link><link href="https://maxime.puys.name/feeds/20.atom.xml" rel="self"></link><id>https://maxime.puys.name/</id><updated>2017-07-26T21:40:00+02:00</updated><subtitle>Cybersecurity Research Engineer</subtitle><entry><title>Curriculum Vitæ</title><link href="https://maxime.puys.name/cv.html" rel="alternate"></link><published>2017-07-26T21:40:00+02:00</published><updated>2017-07-26T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/cv.html</id><content type="html">
-        &lt;div style="display: flex;"&gt;
-    &lt;div style="flex: 55%;"&gt;
+        &lt;div class="cvcontainer"&gt;
+    &lt;div class="cvleft"&gt;
         &lt;!-- Fields of Expertise --&gt;
         &lt;h3&gt;Fields of Expertise&lt;/h3&gt;
         &lt;table&gt;
@@ -152,7 +152,7 @@
             
         &lt;/table&gt;
     &lt;/div&gt;
-    &lt;div style="flex: 45%;"&gt;
+    &lt;div class="cvright"&gt;
         &lt;!-- Computer Science Skills --&gt;
         &lt;h3&gt;Computer Science Skills&lt;/h3&gt;
         &lt;table&gt;
@@ -190,7 +190,7 @@
                     
                         
                         Python &lt;span style="float: right;"&gt;100%&lt;/span&gt;
-                        &lt;canvas id="python"&gt;&lt;/canvas&gt;
+                        &lt;canvas id="python"&gt;&lt;/canvas&gt;&lt;br /&gt;
                         &lt;script&gt;
                             var canvas = document.getElementById("python");
                             var ctx = canvas.getContext("2d");
@@ -199,7 +199,7 @@
                         &lt;/script&gt;
                         
                         C &lt;span style="float: right;"&gt;100%&lt;/span&gt;
-                        &lt;canvas id="c"&gt;&lt;/canvas&gt;
+                        &lt;canvas id="c"&gt;&lt;/canvas&gt;&lt;br /&gt;
                         &lt;script&gt;
                             var canvas = document.getElementById("c");
                             var ctx = canvas.getContext("2d");
@@ -208,7 +208,7 @@
                         &lt;/script&gt;
                         
                         Ocaml &lt;span style="float: right;"&gt;60%&lt;/span&gt;
-                        &lt;canvas id="ocaml"&gt;&lt;/canvas&gt;
+                        &lt;canvas id="ocaml"&gt;&lt;/canvas&gt;&lt;br /&gt;
                         &lt;script&gt;
                             var canvas = document.getElementById("ocaml");
                             var ctx = canvas.getContext("2d");
@@ -217,7 +217,7 @@
                         &lt;/script&gt;
                         
                         ASM &lt;span style="float: right;"&gt;40%&lt;/span&gt;
-                        &lt;canvas id="asm"&gt;&lt;/canvas&gt;
+                        &lt;canvas id="asm"&gt;&lt;/canvas&gt;&lt;br /&gt;
                         &lt;script&gt;
                             var canvas = document.getElementById("asm");
                             var ctx = canvas.getContext("2d");
@@ -295,7 +295,7 @@
                     
                         
                         French &lt;span style="float: right;"&gt;100%&lt;/span&gt;
-                        &lt;canvas id="fr"&gt;&lt;/canvas&gt;
+                        &lt;canvas id="fr"&gt;&lt;/canvas&gt;&lt;br /&gt;
                         &lt;script&gt;
                             var canvas = document.getElementById("fr");
                             var ctx = canvas.getContext("2d");
@@ -304,7 +304,7 @@
                         &lt;/script&gt;
                         
                         English &lt;span style="float: right;"&gt;80%&lt;/span&gt;
-                        &lt;canvas id="eng"&gt;&lt;/canvas&gt;
+                        &lt;canvas id="eng"&gt;&lt;/canvas&gt;&lt;br /&gt;
                         &lt;script&gt;
                             var canvas = document.getElementById("eng");
                             var ctx = canvas.getContext("2d");
@@ -313,7 +313,7 @@
                         &lt;/script&gt;
                         
                         Japanese &lt;span style="float: right;"&gt;30%&lt;/span&gt;
-                        &lt;canvas id="jap"&gt;&lt;/canvas&gt;
+                        &lt;canvas id="jap"&gt;&lt;/canvas&gt;&lt;br /&gt;
                         &lt;script&gt;
                             var canvas = document.getElementById("jap");
                             var ctx = canvas.getContext("2d");

@@ -527,6 +527,38 @@ ul.social {
 // Desktop
 //
 
+.cvcontainer {
+    display: flex;
+}
+
+.cvleft {
+    flex: 55%;
+}
+
+.cvright {
+    flex: 45%;
+}
+
+canvas {
+    border: solid 1px black;
+    width: 100%;
+    height: 10px;
+}
+
+h3 {
+    color: #2A70CC;
+}
+
+ul {
+    margin-top: 0;
+}
+
+@media screen and (max-width: 1250px) {
+    .cvcontainer {
+        display: block;
+    }
+}
+
 @media screen and (min-width: 768px) {
   aside {
     width: 25vw;
@@ -725,18 +757,4 @@ div.figure.align-center {
 
 div.figure.align-right {
   text-align: right;
-}
-
-canvas {
-    border: solid 1px black;
-    width: 100%;
-    height: 10px;
-}
-
-h3 {
-    color: #2A70CC;
-}
-
-ul {
-    margin-top: 0;
 }
