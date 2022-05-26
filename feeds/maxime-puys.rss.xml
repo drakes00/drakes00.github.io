@@ -449,8 +449,6 @@
     </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Wed, 26 Jul 2017 21:40:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2017-07-26:/cv.html</guid><category>20</category></item><item><title>Publications</title><link>https://maxime.puys.name/publications.html</link><description>
 &lt;div id="publications"&gt;
 &lt;h3&gt;Ph.D. Thesis&lt;/h3&gt;
-&lt;body&gt;
-
 &lt;table&gt;
 
 
@@ -480,34 +478,107 @@ M.&amp;nbsp;Puys.
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;h3&gt;International Peer-Reviewed Journals&lt;/h3&gt;
-&lt;body&gt;
-
 &lt;table&gt;
 
 
 &lt;tr valign="top"&gt;
 &lt;td align="right" class="bibtexnumber"&gt;
-[&lt;a name="PTPB2021a"&gt;3&lt;/a&gt;]
+[&lt;a name="TRDPPES22"&gt;5&lt;/a&gt;]
+&lt;/td&gt;
+&lt;td class="bibtexitem"&gt;
+P.-H. Thevenon, S.&amp;nbsp;Riou, D.-M. Tran, M.&amp;nbsp;Puys, N.&amp;nbsp;F. Polychronou, M.&amp;nbsp;El&amp;nbsp;Majihi,
+  and C.&amp;nbsp;Sivelle.
+&lt;b&gt; iMRC: integrated monitoring &amp;amp; recovery component, a solution to
+  guarantee the security of embedded systems.&lt;/b&gt;
+ &lt;em&gt;Journal of Internet Services and Information Security (JISIS)
+  (Rank Scimago Q3)&lt;/em&gt;, 13(1):4--32, 2022.
+&lt;a name="TRDPPES22" href="publications/pdf/TRDPPES22.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="TRDPPES22" href="javascript:hideshow(document.getElementById('TRDPPES22'))"&gt;[bib]&lt;/a&gt;&lt;pre id="TRDPPES22" style="display:none;"&gt;
+@article{TRDPPES22,
+  author = {Thevenon, Pierre-Henri and
+               Riou, Sebastien and
+               Tran, Duc-Minh and
+               Puys, Maxime and
+               Polychronou, Nikolaos Foivos and
+               El Majihi, Mustapha and
+               Sivelle, Camille},
+  title = {{iMRC:} Integrated Monitoring \&amp; Recovery Component, a Solution
+               to Guarantee the Security of Embedded Systems},
+  journal = {Journal of Internet Services and Information Security (JISIS)
+               (Rank Scimago Q3)},
+  volume = {13},
+  number = {1},
+  pages = {4--32},
+  year = {2022},
+  url = {https://maxime.puys.name/publications/pdf/TRDPPES22.pdf}
+}
+&lt;/pre&gt;
+
+
+&lt;/td&gt;
+&lt;/tr&gt;
+
+
+
+&lt;tr valign="top"&gt;
+&lt;td align="right" class="bibtexnumber"&gt;
+[&lt;a name="PTMGS22"&gt;4&lt;/a&gt;]
+&lt;/td&gt;
+&lt;td class="bibtexitem"&gt;
+M.&amp;nbsp;Puys, P.-H. Thevenon, S.&amp;nbsp;M. Mocanu, M.&amp;nbsp;Gallissot, and C.&amp;nbsp;Sivelle.
+&lt;b&gt; SCADA cybersecurity awareness and teaching with
+  hardware-in-the-loop platforms.&lt;/b&gt;
+ &lt;em&gt;Journal of Wireless Mobile Networks, Ubiquitous Computing, and
+  Dependable Applications (JoWUA) (Rank Scimago Q2)&lt;/em&gt;, 13(1):4--32, 2022.
+&lt;a name="PTMGS22" href="publications/pdf/PTMGS22.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="PTMGS22" href="javascript:hideshow(document.getElementById('PTMGS22'))"&gt;[bib]&lt;/a&gt;&lt;pre id="PTMGS22" style="display:none;"&gt;
+@article{PTMGS22,
+  author = {Puys, Maxime and
+               Thevenon, Pierre-Henri and
+               Mocanu, St\'{e}phane Mocanu and
+               Gallissot, Mathieu and
+               Sivelle, Camille},
+  title = {{SCADA} Cybersecurity Awareness and Teaching with
+               Hardware-In-The-Loop Platforms},
+  journal = {Journal of Wireless Mobile Networks, Ubiquitous Computing, and
+               Dependable Applications (JoWUA) (Rank Scimago Q2)},
+  volume = {13},
+  number = {1},
+  pages = {4--32},
+  year = {2022},
+  url = {https://maxime.puys.name/publications/pdf/PTMGS22.pdf}
+}
+&lt;/pre&gt;
+
+
+&lt;/td&gt;
+&lt;/tr&gt;
+
+
+
+&lt;tr valign="top"&gt;
+&lt;td align="right" class="bibtexnumber"&gt;
+[&lt;a name="PTPB21a"&gt;3&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
 N.-F. Polychronou, P.-H. Thevenon, M.&amp;nbsp;Puys, and V.&amp;nbsp;Beroulle.
 &lt;b&gt; A comprehensive survey of attacks without physical access targeting
-  hardware vulnerabilities in iot/iiot devices, and their detection mechanisms.&lt;/b&gt;
- &lt;em&gt;ACM Trans. Des. Autom. Electron. Syst.&lt;/em&gt;, 27(1), sep 2021.
-&lt;a name="PTPB2021a" href="publications/pdf/PTPB2021a.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="PTPB2021a" href="javascript:hideshow(document.getElementById('PTPB2021a'))"&gt;[bib]&lt;/a&gt;&lt;pre id="PTPB2021a" style="display:none;"&gt;
-@article{PTPB2021a,
-  author = {Polychronou, Nikolaos-Foivos and Thevenon, Pierre-Henri and Puys, Maxime and Beroulle, Vincent},
-  title = {A Comprehensive Survey of Attacks without Physical Access Targeting Hardware Vulnerabilities in IoT/IIoT Devices, and Their Detection Mechanisms},
-  year = {2021},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
+  hardware vulnerabilities in IoT/IIoT devices, and their detection
+  mechanisms.&lt;/b&gt;
+ &lt;em&gt;ACM Transactions on Design Automation of Electronic Systems
+  (Rank Sciamago Q2)&lt;/em&gt;, 27(1):1--35, 2021.
+&lt;a name="PTPB21a" href="publications/pdf/PTPB21a.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="PTPB21a" href="javascript:hideshow(document.getElementById('PTPB21a'))"&gt;[bib]&lt;/a&gt;&lt;pre id="PTPB21a" style="display:none;"&gt;
+@article{PTPB21a,
+  author = {Polychronou, Nikolaos-Foivos and Thevenon, Pierre-Henri and
+               Puys, Maxime and Beroulle, Vincent},
+  title = {A Comprehensive Survey of Attacks without Physical Access
+               Targeting Hardware Vulnerabilities in {IoT/IIoT} Devices, and
+               Their Detection Mechanisms},
+  journal = {ACM Transactions on Design Automation of Electronic Systems
+               (Rank Sciamago Q2)},
   volume = {27},
   number = {1},
-  url = {https://doi.org/10.1145/3471936},
-  journal = {ACM Trans. Des. Autom. Electron. Syst.},
-  month = {sep},
-  keywords = {IoT, security, IIoT, hardware vulnerabilities, attacks, detection mechanisms, detection, side effects},
-  url = {https://maxime.puys.name/publications/pdf/PTPB2021a.pdf}
+  pages = {1--35},
+  year = {2021},
+  url = {https://maxime.puys.name/publications/pdf/PTPB21a.pdf}
 }
 &lt;/pre&gt;
 
@@ -525,8 +596,8 @@ N.-F. Polychronou, P.-H. Thevenon, M.&amp;nbsp;Puys, and V.&amp;nbsp;Beroulle.
 J.&amp;nbsp;Dreier, M.&amp;nbsp;Puys, M.-L. Potet, P.&amp;nbsp;Lafourcade, and J.-L. Roch.
 &lt;b&gt; Formally and practically verifying flow properties in industrial
   systems.&lt;/b&gt;
- &lt;em&gt;Computers &amp;amp; Security, Elsevier (Core Rank B, Q1)&lt;/em&gt;, 86:453--470,
-  2019.
+ &lt;em&gt;Computers &amp;amp; Security, Elsevier (Rank Sciamago Q1)&lt;/em&gt;,
+  86(1):453--470, 2019.
 &lt;a name="DPPLR19" href="publications/pdf/DPPLR19.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="DPPLR19" href="javascript:hideshow(document.getElementById('DPPLR19'))"&gt;[bib]&lt;/a&gt;&lt;pre id="DPPLR19" style="display:none;"&gt;
 @article{DPPLR19,
   author = {Dreier, Jannik and
@@ -534,9 +605,11 @@ J.&amp;nbsp;Dreier, M.&amp;nbsp;Puys, M.-L. Potet, P.&amp;nbsp;Lafourcade, and J
                Potet, Marie-Laure and
                Lafourcade, Pascal and
                Roch, Jean-Louis},
-  title = {Formally and practically verifying flow properties in industrial systems},
-  journal = {Computers \&amp; Security, Elsevier (Core Rank B, Q1)},
+  title = {Formally and practically verifying flow properties in industrial
+               systems},
+  journal = {Computers \&amp; Security, Elsevier (Rank Sciamago Q1)},
   volume = {86},
+  number = {1},
   pages = {453--470},
   year = {2019},
   url = {https://maxime.puys.name/publications/pdf/DPPLR18.pdf}
@@ -557,8 +630,8 @@ J.&amp;nbsp;Dreier, M.&amp;nbsp;Puys, M.-L. Potet, P.&amp;nbsp;Lafourcade, and J
 J.-G. Dumas, P.&amp;nbsp;Lafourcade, J.-B. Orfila, and M.&amp;nbsp;Puys.
 &lt;b&gt; Dual protocols for private multi-party matrix multiplication and
   trust computations.&lt;/b&gt;
- &lt;em&gt;Computers &amp;amp; Security, Elsevier (Core Rank B, Q1)&lt;/em&gt;, 71:51--70,
-  2017.
+ &lt;em&gt;Computers &amp;amp; Security, Elsevier (Rank Sciamago Q1)&lt;/em&gt;,
+  71(1):51--70, 2017.
 &lt;a name="DLOP17" href="publications/pdf/DLOP17.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="DLOP17" href="javascript:hideshow(document.getElementById('DLOP17'))"&gt;[bib]&lt;/a&gt;&lt;pre id="DLOP17" style="display:none;"&gt;
 @article{DLOP17,
   author = {Dumas, Jean-Guillaume and
@@ -567,8 +640,9 @@ J.-G. Dumas, P.&amp;nbsp;Lafourcade, J.-B. Orfila, and M.&amp;nbsp;Puys.
                Puys, Maxime},
   title = {Dual protocols for private multi-party matrix multiplication and
                trust computations},
-  journal = {Computers \&amp; Security, Elsevier (Core Rank B, Q1)},
+  journal = {Computers \&amp; Security, Elsevier (Rank Sciamago Q1)},
   volume = {71},
+  number = {1},
   pages = {51--70},
   year = {2017},
   url = {https://maxime.puys.name/publications/pdf/DLOP17.pdf}
@@ -580,32 +654,30 @@ J.-G. Dumas, P.&amp;nbsp;Lafourcade, J.-B. Orfila, and M.&amp;nbsp;Puys.
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;h3&gt;International Peer-Reviewed Conferences with Proceedings&lt;/h3&gt;
-&lt;body&gt;
-
 &lt;table&gt;
 
 
 &lt;tr valign="top"&gt;
 &lt;td align="right" class="bibtexnumber"&gt;
-[&lt;a name="PTPB2021b"&gt;14&lt;/a&gt;]
+[&lt;a name="PTPB21b"&gt;14&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
 N.&amp;nbsp;F. Polychronou, P.-H. Thevenon, M.&amp;nbsp;Puys, and V.&amp;nbsp;Beroulle.
 &lt;b&gt; Madman: Detection of software attacks targeting hardware
   vulnerabilities.&lt;/b&gt;
- In &lt;em&gt;2021 24th Euromicro Conference on Digital System Design
-  (DSD)&lt;/em&gt;, pages 355--362, 2021.
-&lt;a name="PTPB2021b" href="publications/pdf/PTPB2021b.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="PTPB2021b" href="javascript:hideshow(document.getElementById('PTPB2021b'))"&gt;[bib]&lt;/a&gt;&lt;pre id="PTPB2021b" style="display:none;"&gt;
-@inproceedings{PTPB2021b,
-  author = {Polychronou, Nikolaos Foivos and Thevenon, Pierre-Henri and Puys, Maxime and Beroulle, Vincent},
-  booktitle = {2021 24th Euromicro Conference on Digital System Design (DSD)},
+ In &lt;em&gt;24th IEEE Euromicro Conference on Digital System Design
+  (DSD), Palermo, Italy, Sept, 1-3, 2021 (Rank Qualis B1)&lt;/em&gt;, pages 355--362,
+  2021.
+&lt;a name="PTPB21b" href="publications/pdf/PTPB21b.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="PTPB21b" href="javascript:hideshow(document.getElementById('PTPB21b'))"&gt;[bib]&lt;/a&gt;&lt;pre id="PTPB21b" style="display:none;"&gt;
+@inproceedings{PTPB21b,
   title = {MaDMAN: Detection of Software Attacks Targeting Hardware Vulnerabilities},
-  year = {2021},
-  volume = {},
-  number = {},
+  author = {Polychronou, Nikolaos Foivos and Thevenon, Pierre-Henri
+               and Puys, Maxime and Beroulle, Vincent},
+  booktitle = {24th IEEE Euromicro Conference on Digital System Design (DSD),
+               Palermo, Italy, Sept, 1-3, 2021 (Rank Qualis B1)},
   pages = {355-362},
-  doi = {10.1109/DSD53832.2021.00060},
-  url = {https://maxime.puys.name/publications/pdf/PTPB2021b.pdf}
+  year = {2021},
+  url = {https://maxime.puys.name/publications/pdf/PTPB21b.pdf}
 }
 &lt;/pre&gt;
 
@@ -624,19 +696,16 @@ M.&amp;nbsp;Puys, P.-H. Thevenon, and S.&amp;nbsp;Mocanu.
 &lt;b&gt; Hardware-in-the-loop labs for scada cybersecurity awareness and
   training.&lt;/b&gt;
  In &lt;em&gt;The 16th International Conference on Availability,
-  Reliability and Security&lt;/em&gt;, ARES 2021, New York, NY, USA, 2021. Association
-  for Computing Machinery.
+  Reliability and Security, ARES 2021, Vienna, Austria, August 17-20, 2021
+  (Rank Core B)&lt;/em&gt;, pages 1--10, 2021.
 &lt;a name="PTM2021" href="publications/pdf/PTM2021.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="PTM2021" href="javascript:hideshow(document.getElementById('PTM2021'))"&gt;[bib]&lt;/a&gt;&lt;pre id="PTM2021" style="display:none;"&gt;
 @inproceedings{PTM2021,
-  author = {Puys, Maxime and Thevenon, Pierre-Henri and Mocanu, St\'{e}phane},
   title = {Hardware-In-The-Loop Labs for SCADA Cybersecurity Awareness and Training},
-  booktitle = {The 16th International Conference on Availability, Reliability and Security},
+  author = {Puys, Maxime and Thevenon, Pierre-Henri and Mocanu, St\'{e}phane},
+  booktitle = {The 16th International Conference on Availability, Reliability and Security,
+               {ARES} 2021, Vienna, Austria, August 17-20, 2021 (Rank Core B)},
+  pages = {1--10},
   year = {2021},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  url = {https://doi.org/10.1145/3465481.3469185},
-  location = {Vienna, Austria},
-  series = {ARES 2021},
   url = {https://maxime.puys.name/publications/pdf/PTM2021.pdf}
 }
 &lt;/pre&gt;
@@ -655,14 +724,16 @@ M.&amp;nbsp;Puys, P.-H. Thevenon, and S.&amp;nbsp;Mocanu.
 M.&amp;nbsp;Puys, J.-P. Krimm, and R.&amp;nbsp;Collado.
 &lt;b&gt; Towards cybersecurity act: A survey on iot evaluation frameworks.&lt;/b&gt;
  In &lt;em&gt;SECURWARE 2020-The Fourteenth International Conference on
-  Emerging Security Information, Systems and Technologies&lt;/em&gt;, pages 69--74, 2020.
+  Emerging Security Information, Systems and Technologies (Rank Qualis B3)&lt;/em&gt;,
+  pages 69--74, 2020.
 &lt;a name="PKC2020" href="publications/pdf/PKC2020.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="PKC2020" href="javascript:hideshow(document.getElementById('PKC2020'))"&gt;[bib]&lt;/a&gt;&lt;pre id="PKC2020" style="display:none;"&gt;
 @inproceedings{PKC2020,
   title = {Towards Cybersecurity Act: A Survey on IoT Evaluation
                Frameworks},
   author = {Puys, Maxime and Krimm, Jean-Pierre and Collado, Rapha{\"e}l},
   booktitle = {{SECURWARE} 2020-The Fourteenth International Conference on
-               Emerging Security Information, Systems and Technologies},
+               Emerging Security Information, Systems and Technologies
+               (Rank Qualis B3)},
   pages = {69--74},
   year = {2020},
   url = {https://maxime.puys.name/publications/pdf/PKC2020.pdf}
@@ -1048,9 +1119,36 @@ M.&amp;nbsp;Potet, L.&amp;nbsp;Mounier, M.&amp;nbsp;Puys, and L.&amp;nbsp;Dureui
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;h3&gt;French Peer-Reviewed Conferences with Proceedings&lt;/h3&gt;
-&lt;body&gt;
-
 &lt;table&gt;
+
+
+&lt;tr valign="top"&gt;
+&lt;td align="right" class="bibtexnumber"&gt;
+[&lt;a name="PT22"&gt;8&lt;/a&gt;]
+&lt;/td&gt;
+&lt;td class="bibtexitem"&gt;
+M.&amp;nbsp;Puys and P.-H. Thevenon.
+&lt;b&gt; PULSE - cybersécurité des systèmes industriels.&lt;/b&gt;
+ In &lt;em&gt;Rendez-Vous de la Recherche et de l'Enseignement de la
+  S&amp;eacute;curit&amp;eacute; des Syst&amp;egrave;mes d'Information, RESSI 2022, Chambon-sur-Lac,
+  France&lt;/em&gt;, 2022.
+&lt;a name="PT22" href="publications/pdf/PT22.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="PT22" href="javascript:hideshow(document.getElementById('PT22'))"&gt;[bib]&lt;/a&gt;&lt;pre id="PT22" style="display:none;"&gt;
+@inproceedings{PT22,
+  author = {Puys, Maxime and
+               Thevenon, Pierre-Henri},
+  title = {{PULSE} - Cybersécurité des systèmes industriels},
+  booktitle = {{Rendez-Vous de la Recherche et de l'Enseignement de la
+               S{\'e}curit{\'e} des Syst{\`e}mes d'Information, RESSI 2022,
+               Chambon-sur-Lac, France}},
+  year = {2022},
+  url = {https://maxime.puys.name/publications/pdf/PT22.pdf}
+}
+&lt;/pre&gt;
+
+
+&lt;/td&gt;
+&lt;/tr&gt;
+
 
 
 &lt;tr valign="top"&gt;
@@ -1061,12 +1159,15 @@ M.&amp;nbsp;Potet, L.&amp;nbsp;Mounier, M.&amp;nbsp;Puys, and L.&amp;nbsp;Dureui
 M.&amp;nbsp;Gallissot, M.&amp;nbsp;Puys, and P.-H. Thevenon.
 &lt;b&gt; Wonder-Cloud, une plateforme pour l’analyse et l’&amp;eacute;mulation
   de micrologiciels ainsi que la composition de pots de miels.&lt;/b&gt;
- In &lt;em&gt;C&amp;amp;esar 2020 - Deceptive Security, Rennes, France&lt;/em&gt;, 2020.
+ In &lt;em&gt;C&amp;amp;esar 2020 - Deceptive Security, Rennes, France&lt;/em&gt;, pages
+  1--8, 2020.
 &lt;a name="GPT2020" href="publications/pdf/GPT2020.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="GPT2020" href="javascript:hideshow(document.getElementById('GPT2020'))"&gt;[bib]&lt;/a&gt;&lt;pre id="GPT2020" style="display:none;"&gt;
 @inproceedings{GPT2020,
   author = {Gallissot, Mathieu and Puys, Maxime and Thevenon, Pierre-Henri},
-  title = {{Wonder-Cloud, une plateforme pour l’analyse et l’{\'e}mulation de micrologiciels ainsi que la composition de pots de miels}},
+  title = {{Wonder-Cloud, une plateforme pour l’analyse et l’{\'e}mulation
+               de micrologiciels ainsi que la composition de pots de miels}},
   booktitle = {{C\&amp;esar; 2020 - Deceptive Security, Rennes, France}},
+  pages = {1--8},
   year = {2020},
   url = {https://maxime.puys.name/publications/pdf/GPT2020.pdf}
 }
@@ -1093,7 +1194,8 @@ S.&amp;nbsp;Mocanu, M.&amp;nbsp;Puys, and P.-H. Thevenon.
   author = {Mocanu, St{\'e}phane and
                Puys, Maxime and
                Thevenon, Pierre-Henri},
-  title = {{An Open-Source Hardware-In-The-Loop Virtualization System for Cybersecurity Studies of SCADA Systems}},
+  title = {{An Open-Source Hardware-In-The-Loop Virtualization System for
+               Cybersecurity Studies of SCADA Systems}},
   booktitle = {{C\&amp;esar; 2019 - Virtualization and Cybersecurity, Rennes, France}},
   pages = {1-16},
   year = {2019},
@@ -1177,7 +1279,7 @@ M.&amp;nbsp;Puys, M.&amp;nbsp;Potet, and J.&amp;nbsp;Roch.
 &lt;b&gt; G&amp;eacute;n&amp;eacute;ration syst&amp;eacute;matique de sc&amp;eacute;narios d'attaques
   contre des syst&amp;egrave;mes industriels.&lt;/b&gt;
  In &lt;em&gt;Approches Formelles dans l'Assistance au D&amp;eacute;veloppement
-  de Logiciels, AFADL 2016, Besan&amp;#x00E7;on, France&lt;/em&gt;, 2016.
+  de Logiciels, AFADL 2016, Besan&amp;ccedil;on, France&lt;/em&gt;, 2016.
 &lt;a name="PPR16a" href="publications/pdf/PPR16a.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="PPR16a" href="javascript:hideshow(document.getElementById('PPR16a'))"&gt;[bib]&lt;/a&gt;&lt;pre id="PPR16a" style="display:none;"&gt;
 @inproceedings{PPR16a,
   author = {Puys, Maxime and
