@@ -242,7 +242,7 @@ N.&amp;nbsp;F. Polychronou, P.-H. Thevenon, M.&amp;nbsp;Puys, and V.&amp;nbsp;Be
 
 &lt;tr valign="top"&gt;
 &lt;td align="right" class="bibtexnumber"&gt;
-[&lt;a name="PTM2021"&gt;13&lt;/a&gt;]
+[&lt;a name="PTM21"&gt;13&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
 M.&amp;nbsp;Puys, P.-H. Thevenon, and S.&amp;nbsp;Mocanu.
@@ -251,15 +251,15 @@ M.&amp;nbsp;Puys, P.-H. Thevenon, and S.&amp;nbsp;Mocanu.
  In &lt;em&gt;The 16th International Conference on Availability,
   Reliability and Security, ARES 2021, Vienna, Austria, August 17-20, 2021
   (Rank Core B)&lt;/em&gt;, pages 1--10, 2021.
-&lt;a name="PTM2021" href="publications/pdf/PTM2021.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="PTM2021" href="javascript:hideshow(document.getElementById('PTM2021'))"&gt;[bib]&lt;/a&gt;&lt;pre id="PTM2021" style="display:none;"&gt;
-@inproceedings{PTM2021,
+&lt;a name="PTM21" href="publications/pdf/PTM21.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="PTM21" href="javascript:hideshow(document.getElementById('PTM21'))"&gt;[bib]&lt;/a&gt;&lt;pre id="PTM21" style="display:none;"&gt;
+@inproceedings{PTM21,
   title = {Hardware-In-The-Loop Labs for SCADA Cybersecurity Awareness and Training},
   author = {Puys, Maxime and Thevenon, Pierre-Henri and Mocanu, St\'{e}phane},
   booktitle = {The 16th International Conference on Availability, Reliability and Security,
                {ARES} 2021, Vienna, Austria, August 17-20, 2021 (Rank Core B)},
   pages = {1--10},
   year = {2021},
-  url = {https://maxime.puys.name/publications/pdf/PTM2021.pdf}
+  url = {https://maxime.puys.name/publications/pdf/PTM21.pdf}
 }
 &lt;/pre&gt;
 
@@ -271,7 +271,7 @@ M.&amp;nbsp;Puys, P.-H. Thevenon, and S.&amp;nbsp;Mocanu.
 
 &lt;tr valign="top"&gt;
 &lt;td align="right" class="bibtexnumber"&gt;
-[&lt;a name="PKC2020"&gt;12&lt;/a&gt;]
+[&lt;a name="PKC20"&gt;12&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
 M.&amp;nbsp;Puys, J.-P. Krimm, and R.&amp;nbsp;Collado.
@@ -279,8 +279,8 @@ M.&amp;nbsp;Puys, J.-P. Krimm, and R.&amp;nbsp;Collado.
  In &lt;em&gt;SECURWARE 2020-The Fourteenth International Conference on
   Emerging Security Information, Systems and Technologies (Rank Qualis B3)&lt;/em&gt;,
   pages 69--74, 2020.
-&lt;a name="PKC2020" href="publications/pdf/PKC2020.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="PKC2020" href="javascript:hideshow(document.getElementById('PKC2020'))"&gt;[bib]&lt;/a&gt;&lt;pre id="PKC2020" style="display:none;"&gt;
-@inproceedings{PKC2020,
+&lt;a name="PKC20" href="publications/pdf/PKC20.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="PKC20" href="javascript:hideshow(document.getElementById('PKC20'))"&gt;[bib]&lt;/a&gt;&lt;pre id="PKC20" style="display:none;"&gt;
+@inproceedings{PKC20,
   title = {Towards Cybersecurity Act: A Survey on IoT Evaluation
                Frameworks},
   author = {Puys, Maxime and Krimm, Jean-Pierre and Collado, Rapha{\"e}l},
@@ -289,7 +289,7 @@ M.&amp;nbsp;Puys, J.-P. Krimm, and R.&amp;nbsp;Collado.
                (Rank Qualis B3)},
   pages = {69--74},
   year = {2020},
-  url = {https://maxime.puys.name/publications/pdf/PKC2020.pdf}
+  url = {https://maxime.puys.name/publications/pdf/PKC20.pdf}
 }
 &lt;/pre&gt;
 
@@ -706,7 +706,7 @@ M.&amp;nbsp;Puys and P.-H. Thevenon.
 
 &lt;tr valign="top"&gt;
 &lt;td align="right" class="bibtexnumber"&gt;
-[&lt;a name="GPT2020"&gt;7&lt;/a&gt;]
+[&lt;a name="GPT20"&gt;7&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
 M.&amp;nbsp;Gallissot, M.&amp;nbsp;Puys, and P.-H. Thevenon.
@@ -714,15 +714,15 @@ M.&amp;nbsp;Gallissot, M.&amp;nbsp;Puys, and P.-H. Thevenon.
   de micrologiciels ainsi que la composition de pots de miels.&lt;/b&gt;
  In &lt;em&gt;C&amp;amp;esar 2020 - Deceptive Security, Rennes, France&lt;/em&gt;, pages
   1--8, 2020.
-&lt;a name="GPT2020" href="publications/pdf/GPT2020.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="GPT2020" href="javascript:hideshow(document.getElementById('GPT2020'))"&gt;[bib]&lt;/a&gt;&lt;pre id="GPT2020" style="display:none;"&gt;
-@inproceedings{GPT2020,
+&lt;a name="GPT20" href="publications/pdf/GPT20.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="GPT20" href="javascript:hideshow(document.getElementById('GPT20'))"&gt;[bib]&lt;/a&gt;&lt;pre id="GPT20" style="display:none;"&gt;
+@inproceedings{GPT20,
   author = {Gallissot, Mathieu and Puys, Maxime and Thevenon, Pierre-Henri},
   title = {{Wonder-Cloud, une plateforme pour l’analyse et l’{\'e}mulation
                de micrologiciels ainsi que la composition de pots de miels}},
   booktitle = {{C\&amp;esar; 2020 - Deceptive Security, Rennes, France}},
   pages = {1--8},
   year = {2020},
-  url = {https://maxime.puys.name/publications/pdf/GPT2020.pdf}
+  url = {https://maxime.puys.name/publications/pdf/GPT20.pdf}
 }
 &lt;/pre&gt;
 
