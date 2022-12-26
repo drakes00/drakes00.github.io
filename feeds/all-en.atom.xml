@@ -659,18 +659,47 @@ J.-G. Dumas, P.&amp;nbsp;Lafourcade, J.-B. Orfila, and M.&amp;nbsp;Puys.
 
 &lt;tr valign="top"&gt;
 &lt;td align="right" class="bibtexnumber"&gt;
+[&lt;a name="SDPLF22"&gt;15&lt;/a&gt;]
+&lt;/td&gt;
+&lt;td class="bibtexitem"&gt;
+C.&amp;nbsp;Sivelle, L.&amp;nbsp;Debbah, M.&amp;nbsp;Puys, P.&amp;nbsp;Lafourcade, and T.&amp;nbsp;Franco-Rondisson.
+&lt;b&gt; Automatic implementations synthesis of secure protocols and attacks
+  from abstract models.&lt;/b&gt;
+ In &lt;em&gt;27th Nordic Conference on Secure IT Systems (NordSec),
+  Reykjavik, Iceland, Nov. 30 -- Dec. 2, 2022 (Rank ERA C)&lt;/em&gt;, 2022.
+&lt;a name="SDPLF22" href="publications/pdf/SDPLF22.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="SDPLF22" href="javascript:hideshow(document.getElementById('SDPLF22'))"&gt;[bib]&lt;/a&gt;&lt;pre id="SDPLF22" style="display:none;"&gt;
+@inproceedings{SDPLF22,
+  title = {Automatic Implementations Synthesis of Secure Protocols and
+               Attacks from Abstract Models},
+  author = {Sivelle, Camille and Debbah, Lorys and Puys, Maxime and Lafourcade,
+               Pascal and Franco-Rondisson, Thibault},
+  booktitle = {27th Nordic Conference on Secure IT Systems (NordSec), Reykjavik,
+               Iceland, Nov. 30 -- Dec. 2, 2022 (Rank ERA C)},
+  year = {2022},
+  url = {https://maxime.puys.name/publications/pdf/SDPLF22.pdf}
+}
+&lt;/pre&gt;
+
+
+&lt;/td&gt;
+&lt;/tr&gt;
+
+
+
+&lt;tr valign="top"&gt;
+&lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PTPB21b"&gt;14&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
 N.&amp;nbsp;F. Polychronou, P.-H. Thevenon, M.&amp;nbsp;Puys, and V.&amp;nbsp;Beroulle.
-&lt;b&gt; Madman: Detection of software attacks targeting hardware
+&lt;b&gt; MaDMAN: Detection of software attacks targeting hardware
   vulnerabilities.&lt;/b&gt;
  In &lt;em&gt;24th IEEE Euromicro Conference on Digital System Design
   (DSD), Palermo, Italy, Sept, 1-3, 2021 (Rank Qualis B1)&lt;/em&gt;, pages 355--362,
   2021.
 &lt;a name="PTPB21b" href="publications/pdf/PTPB21b.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="PTPB21b" href="javascript:hideshow(document.getElementById('PTPB21b'))"&gt;[bib]&lt;/a&gt;&lt;pre id="PTPB21b" style="display:none;"&gt;
 @inproceedings{PTPB21b,
-  title = {MaDMAN: Detection of Software Attacks Targeting Hardware Vulnerabilities},
+  title = {{MaDMAN}: Detection of Software Attacks Targeting Hardware Vulnerabilities},
   author = {Polychronou, Nikolaos Foivos and Thevenon, Pierre-Henri
                and Puys, Maxime and Beroulle, Vincent},
   booktitle = {24th IEEE Euromicro Conference on Digital System Design (DSD),
