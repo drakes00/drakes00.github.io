@@ -457,7 +457,7 @@
 [&lt;a name="phdThesisMaximePuys"&gt;1&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-M.&amp;nbsp;Puys.
+&lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;.
  &lt;b&gt;S&amp;eacute;curit&amp;eacute; des syst&amp;egrave;mes industriels : filtrage
   applicatif et recherche de sc&amp;eacute;narios d'attaques&lt;/b&gt;.
  PhD thesis, &lt;em&gt;Communaut&amp;eacute; Universit&amp;eacute; Grenoble-Alpes&lt;/em&gt;, Feb.
@@ -486,7 +486,7 @@ M.&amp;nbsp;Puys.
 [&lt;a name="TRDPPES22"&gt;5&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-P.-H. Thevenon, S.&amp;nbsp;Riou, D.-M. Tran, M.&amp;nbsp;Puys, N.&amp;nbsp;F. Polychronou, M.&amp;nbsp;El&amp;nbsp;Majihi,
+P.-H. Thevenon, S.&amp;nbsp;Riou, D.-M. Tran, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, N.&amp;nbsp;F. Polychronou, M.&amp;nbsp;El&amp;nbsp;Majihi,
   and C.&amp;nbsp;Sivelle.
 &lt;b&gt; iMRC: integrated monitoring &amp;amp; recovery component, a solution to
   guarantee the security of embedded systems.&lt;/b&gt;
@@ -524,7 +524,7 @@ P.-H. Thevenon, S.&amp;nbsp;Riou, D.-M. Tran, M.&amp;nbsp;Puys, N.&amp;nbsp;F. P
 [&lt;a name="PTMGS22"&gt;4&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-M.&amp;nbsp;Puys, P.-H. Thevenon, S.&amp;nbsp;M. Mocanu, M.&amp;nbsp;Gallissot, and C.&amp;nbsp;Sivelle.
+&lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, P.-H. Thevenon, S.&amp;nbsp;M. Mocanu, M.&amp;nbsp;Gallissot, and C.&amp;nbsp;Sivelle.
 &lt;b&gt; SCADA cybersecurity awareness and teaching with
   hardware-in-the-loop platforms.&lt;/b&gt;
  &lt;em&gt;Journal of Wireless Mobile Networks, Ubiquitous Computing, and
@@ -559,7 +559,7 @@ M.&amp;nbsp;Puys, P.-H. Thevenon, S.&amp;nbsp;M. Mocanu, M.&amp;nbsp;Gallissot, 
 [&lt;a name="PTPB21a"&gt;3&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-N.-F. Polychronou, P.-H. Thevenon, M.&amp;nbsp;Puys, and V.&amp;nbsp;Beroulle.
+N.-F. Polychronou, P.-H. Thevenon, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, and V.&amp;nbsp;Beroulle.
 &lt;b&gt; A comprehensive survey of attacks without physical access targeting
   hardware vulnerabilities in IoT/IIoT devices, and their detection
   mechanisms.&lt;/b&gt;
@@ -593,7 +593,7 @@ N.-F. Polychronou, P.-H. Thevenon, M.&amp;nbsp;Puys, and V.&amp;nbsp;Beroulle.
 [&lt;a name="DPPLR19"&gt;2&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-J.&amp;nbsp;Dreier, M.&amp;nbsp;Puys, M.-L. Potet, P.&amp;nbsp;Lafourcade, and J.-L. Roch.
+J.&amp;nbsp;Dreier, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, M.-L. Potet, P.&amp;nbsp;Lafourcade, and J.-L. Roch.
 &lt;b&gt; Formally and practically verifying flow properties in industrial
   systems.&lt;/b&gt;
  &lt;em&gt;Computers &amp;amp; Security, Elsevier (Rank Sciamago Q1)&lt;/em&gt;,
@@ -627,7 +627,7 @@ J.&amp;nbsp;Dreier, M.&amp;nbsp;Puys, M.-L. Potet, P.&amp;nbsp;Lafourcade, and J
 [&lt;a name="DLOP17"&gt;1&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-J.-G. Dumas, P.&amp;nbsp;Lafourcade, J.-B. Orfila, and M.&amp;nbsp;Puys.
+J.-G. Dumas, P.&amp;nbsp;Lafourcade, J.-B. Orfila, and &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;.
 &lt;b&gt; Dual protocols for private multi-party matrix multiplication and
   trust computations.&lt;/b&gt;
  &lt;em&gt;Computers &amp;amp; Security, Elsevier (Rank Sciamago Q1)&lt;/em&gt;,
@@ -659,10 +659,10 @@ J.-G. Dumas, P.&amp;nbsp;Lafourcade, J.-B. Orfila, and M.&amp;nbsp;Puys.
 
 &lt;tr valign="top"&gt;
 &lt;td align="right" class="bibtexnumber"&gt;
-[&lt;a name="SDPLF22"&gt;15&lt;/a&gt;]
+[&lt;a name="SDPLF22"&gt;16&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-C.&amp;nbsp;Sivelle, L.&amp;nbsp;Debbah, M.&amp;nbsp;Puys, P.&amp;nbsp;Lafourcade, and T.&amp;nbsp;Franco-Rondisson.
+C.&amp;nbsp;Sivelle, L.&amp;nbsp;Debbah, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, P.&amp;nbsp;Lafourcade, and T.&amp;nbsp;Franco-Rondisson.
 &lt;b&gt; Automatic implementations synthesis of secure protocols and attacks
   from abstract models.&lt;/b&gt;
  In &lt;em&gt;27th Nordic Conference on Secure IT Systems (NordSec),
@@ -688,10 +688,10 @@ C.&amp;nbsp;Sivelle, L.&amp;nbsp;Debbah, M.&amp;nbsp;Puys, P.&amp;nbsp;Lafourcad
 
 &lt;tr valign="top"&gt;
 &lt;td align="right" class="bibtexnumber"&gt;
-[&lt;a name="PTPB21b"&gt;14&lt;/a&gt;]
+[&lt;a name="PTPB21b"&gt;15&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-N.&amp;nbsp;F. Polychronou, P.-H. Thevenon, M.&amp;nbsp;Puys, and V.&amp;nbsp;Beroulle.
+N.&amp;nbsp;F. Polychronou, P.-H. Thevenon, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, and V.&amp;nbsp;Beroulle.
 &lt;b&gt; MaDMAN: Detection of software attacks targeting hardware
   vulnerabilities.&lt;/b&gt;
  In &lt;em&gt;24th IEEE Euromicro Conference on Digital System Design
@@ -718,10 +718,42 @@ N.&amp;nbsp;F. Polychronou, P.-H. Thevenon, M.&amp;nbsp;Puys, and V.&amp;nbsp;Be
 
 &lt;tr valign="top"&gt;
 &lt;td align="right" class="bibtexnumber"&gt;
+[&lt;a name="PTPB21c"&gt;14&lt;/a&gt;]
+&lt;/td&gt;
+&lt;td class="bibtexitem"&gt;
+N.&amp;nbsp;F. Polychronou, P.-H. Thevenon, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, and V.&amp;nbsp;Beroulle.
+&lt;b&gt; Securing IoI/IIoT from software attacks targeting hardware
+  vulnerabilities.&lt;/b&gt;
+ In &lt;em&gt;2021 19th IEEE International New Circuits and Systems
+  Conference (NEWCAS), Toulon, France, June 13-16, 2021 (Rank Qualis B4)&lt;/em&gt;,
+  pages 1--4, 2021.
+&lt;a name="PTPB21c" href="publications/pdf/PTPB21c.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="PTPB21c" href="javascript:hideshow(document.getElementById('PTPB21c'))"&gt;[bib]&lt;/a&gt;&lt;pre id="PTPB21c" style="display:none;"&gt;
+@inproceedings{PTPB21c,
+  title = {Securing {IoI}/{IIoT} from Software Attacks Targeting Hardware
+               Vulnerabilities},
+  author = {Polychronou, Nikolaos Foivos and Thevenon, Pierre-Henri and
+               Puys, Maxime and Beroulle, Vincent},
+  booktitle = {2021 19th {IEEE} International New Circuits and Systems
+               Conference ({NEWCAS}), Toulon, France, June 13-16, 2021 (Rank
+               Qualis B4)},
+  pages = {1--4},
+  year = {2021},
+  url = {https://maxime.puys.name/publications/pdf/PTPB21c.pdf}
+}
+&lt;/pre&gt;
+
+
+&lt;/td&gt;
+&lt;/tr&gt;
+
+
+
+&lt;tr valign="top"&gt;
+&lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PTM21"&gt;13&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-M.&amp;nbsp;Puys, P.-H. Thevenon, and S.&amp;nbsp;Mocanu.
+&lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, P.-H. Thevenon, and S.&amp;nbsp;Mocanu.
 &lt;b&gt; Hardware-in-the-loop labs for scada cybersecurity awareness and
   training.&lt;/b&gt;
  In &lt;em&gt;The 16th International Conference on Availability,
@@ -750,7 +782,7 @@ M.&amp;nbsp;Puys, P.-H. Thevenon, and S.&amp;nbsp;Mocanu.
 [&lt;a name="PKC20"&gt;12&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-M.&amp;nbsp;Puys, J.-P. Krimm, and R.&amp;nbsp;Collado.
+&lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, J.-P. Krimm, and R.&amp;nbsp;Collado.
 &lt;b&gt; Towards cybersecurity act: A survey on iot evaluation frameworks.&lt;/b&gt;
  In &lt;em&gt;SECURWARE 2020-The Fourteenth International Conference on
   Emerging Security Information, Systems and Technologies (Rank Qualis B3)&lt;/em&gt;,
@@ -781,7 +813,7 @@ M.&amp;nbsp;Puys, J.-P. Krimm, and R.&amp;nbsp;Collado.
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
 J.&amp;nbsp;Dumas, P.&amp;nbsp;Lafourcade, J.&amp;nbsp;L&amp;oacute;pez&amp;nbsp;Fenner, D.&amp;nbsp;Lucas, J.&amp;nbsp;Orfila, C.&amp;nbsp;Pernet,
-  and M.&amp;nbsp;Puys.
+  and &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;.
 &lt;b&gt; Secure multiparty matrix multiplication based on strassen-winograd
   algorithm.&lt;/b&gt;
  In &lt;em&gt;Advances in Information and Computer Security - 14th
@@ -819,7 +851,7 @@ J.&amp;nbsp;Dumas, P.&amp;nbsp;Lafourcade, J.&amp;nbsp;L&amp;oacute;pez&amp;nbsp
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
 B.&amp;nbsp;Badrignans, V.&amp;nbsp;Danjean, J.&amp;nbsp;Dumas, P.&amp;nbsp;Elbaz-Vincent, S.&amp;nbsp;Machenaud,
-  J.&amp;nbsp;Orfila, F.&amp;nbsp;Pebay-Peyroula, F.&amp;nbsp;Pebay-Peyroula, M.&amp;nbsp;Potet, M.&amp;nbsp;Puys,
+  J.&amp;nbsp;Orfila, F.&amp;nbsp;Pebay-Peyroula, F.&amp;nbsp;Pebay-Peyroula, M.&amp;nbsp;Potet, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;,
   J.&amp;nbsp;Richier, and R.&amp;nbsp;Jean-Louis.
 &lt;b&gt; Security Architecture for Embedded Point-to-Points Splitting
   Protocols.&lt;/b&gt;
@@ -857,7 +889,7 @@ B.&amp;nbsp;Badrignans, V.&amp;nbsp;Danjean, J.&amp;nbsp;Dumas, P.&amp;nbsp;Elba
 [&lt;a name="PPK17"&gt;9&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-M.&amp;nbsp;Puys, M.&amp;nbsp;Potet, and A.&amp;nbsp;Khaled.
+&lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, M.&amp;nbsp;Potet, and A.&amp;nbsp;Khaled.
 &lt;b&gt; Generation of applicative attacks scenarios against industrial
   systems.&lt;/b&gt;
  In &lt;em&gt;Foundations and Practice of Security - 10th International
@@ -888,7 +920,7 @@ M.&amp;nbsp;Puys, M.&amp;nbsp;Potet, and A.&amp;nbsp;Khaled.
 [&lt;a name="DPPLR17"&gt;8&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-J.&amp;nbsp;Dreier, M.&amp;nbsp;Puys, M.&amp;nbsp;Potet, P.&amp;nbsp;Lafourcade, and J.&amp;nbsp;Roch.
+J.&amp;nbsp;Dreier, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, M.&amp;nbsp;Potet, P.&amp;nbsp;Lafourcade, and J.&amp;nbsp;Roch.
 &lt;b&gt; Formally verifying flow integrity properties in industrial systems.&lt;/b&gt;
  In &lt;em&gt;Proceedings of the 14th International Joint Conference on
   e-Business and Telecommunications (ICETE) 2017) - Volume 4: SECRYPT,
@@ -922,7 +954,7 @@ J.&amp;nbsp;Dreier, M.&amp;nbsp;Puys, M.&amp;nbsp;Potet, P.&amp;nbsp;Lafourcade,
 [&lt;a name="PRP16"&gt;7&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-M.&amp;nbsp;Puys, J.&amp;nbsp;Roch, and M.&amp;nbsp;Potet.
+&lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, J.&amp;nbsp;Roch, and M.&amp;nbsp;Potet.
 &lt;b&gt; Domain specific stateful filtering with worst-case bandwidth.&lt;/b&gt;
  In &lt;em&gt;Critical Information Infrastructures Security - 11th
   International Conference, CRITIS 2016, Paris, France, October 10-12, 2016,
@@ -953,7 +985,7 @@ M.&amp;nbsp;Puys, J.&amp;nbsp;Roch, and M.&amp;nbsp;Potet.
 [&lt;a name="PPL16"&gt;6&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-M.&amp;nbsp;Puys, M.&amp;nbsp;Potet, and P.&amp;nbsp;Lafourcade.
+&lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, M.&amp;nbsp;Potet, and P.&amp;nbsp;Lafourcade.
 &lt;b&gt; Formal analysis of security properties on the OPC-UA SCADA
   protocol.&lt;/b&gt;
  In &lt;em&gt;Computer Safety, Reliability, and Security - 35th
@@ -984,7 +1016,7 @@ M.&amp;nbsp;Puys, M.&amp;nbsp;Potet, and P.&amp;nbsp;Lafourcade.
 [&lt;a name="DLOP16"&gt;5&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-J.&amp;nbsp;Dumas, P.&amp;nbsp;Lafourcade, J.&amp;nbsp;Orfila, and M.&amp;nbsp;Puys.
+J.&amp;nbsp;Dumas, P.&amp;nbsp;Lafourcade, J.&amp;nbsp;Orfila, and &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;.
 &lt;b&gt; Private multi-party matrix multiplication and trust computations.&lt;/b&gt;
  In &lt;em&gt;Proceedings of the 13th International Joint Conference on
   e-Business and Telecommunications (ICETE 2016) - Volume 4: SECRYPT, Lisbon,
@@ -1017,7 +1049,7 @@ J.&amp;nbsp;Dumas, P.&amp;nbsp;Lafourcade, J.&amp;nbsp;Orfila, and M.&amp;nbsp;P
 [&lt;a name="LP15"&gt;4&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-P.&amp;nbsp;Lafourcade and M.&amp;nbsp;Puys.
+P.&amp;nbsp;Lafourcade and &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;.
 &lt;b&gt; Performance evaluations of cryptographic protocols verification tools
   dealing with algebraic properties.&lt;/b&gt;
  In &lt;em&gt;Foundations and Practice of Security - 8th International
@@ -1049,7 +1081,7 @@ P.&amp;nbsp;Lafourcade and M.&amp;nbsp;Puys.
 [&lt;a name="RPLBCP14"&gt;3&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-L.&amp;nbsp;Rivi&amp;egrave;re, M.&amp;nbsp;Potet, T.&amp;nbsp;Le, J.&amp;nbsp;Bringer, H.&amp;nbsp;Chabanne, and M.&amp;nbsp;Puys.
+L.&amp;nbsp;Rivi&amp;egrave;re, M.&amp;nbsp;Potet, T.&amp;nbsp;Le, J.&amp;nbsp;Bringer, H.&amp;nbsp;Chabanne, and &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;.
 &lt;b&gt; Combining high-level and low-level approaches to evaluate software
   implementations robustness against multiple fault injection attacks.&lt;/b&gt;
  In &lt;em&gt;Foundations and Practice of Security - 7th International
@@ -1085,7 +1117,7 @@ L.&amp;nbsp;Rivi&amp;egrave;re, M.&amp;nbsp;Potet, T.&amp;nbsp;Le, J.&amp;nbsp;B
 [&lt;a name="PRBL14"&gt;2&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-M.&amp;nbsp;Puys, L.&amp;nbsp;Rivi&amp;egrave;re, J.&amp;nbsp;Bringer, and T.&amp;nbsp;Le.
+&lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, L.&amp;nbsp;Rivi&amp;egrave;re, J.&amp;nbsp;Bringer, and T.&amp;nbsp;Le.
 &lt;b&gt; High-level simulation for multiple fault injection evaluation.&lt;/b&gt;
  In &lt;em&gt;Data Privacy Management, Autonomous Spontaneous Security, and
   Security Assurance - 9th International Workshop, DPM 2014, 7th
@@ -1120,7 +1152,7 @@ M.&amp;nbsp;Puys, L.&amp;nbsp;Rivi&amp;egrave;re, J.&amp;nbsp;Bringer, and T.&am
 [&lt;a name="PMPD14"&gt;1&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-M.&amp;nbsp;Potet, L.&amp;nbsp;Mounier, M.&amp;nbsp;Puys, and L.&amp;nbsp;Dureuil.
+M.&amp;nbsp;Potet, L.&amp;nbsp;Mounier, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, and L.&amp;nbsp;Dureuil.
 &lt;b&gt; Lazart: A symbolic approach for evaluation the robustness of
   secured codes against control flow injections.&lt;/b&gt;
  In &lt;em&gt;Seventh IEEE International Conference on Software Testing,
@@ -1156,7 +1188,7 @@ M.&amp;nbsp;Potet, L.&amp;nbsp;Mounier, M.&amp;nbsp;Puys, and L.&amp;nbsp;Dureui
 [&lt;a name="PT22"&gt;8&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-M.&amp;nbsp;Puys and P.-H. Thevenon.
+&lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt; and P.-H. Thevenon.
 &lt;b&gt; PULSE - cybersécurité des systèmes industriels.&lt;/b&gt;
  In &lt;em&gt;Rendez-Vous de la Recherche et de l'Enseignement de la
   S&amp;eacute;curit&amp;eacute; des Syst&amp;egrave;mes d'Information, RESSI 2022, Chambon-sur-Lac,
@@ -1185,7 +1217,7 @@ M.&amp;nbsp;Puys and P.-H. Thevenon.
 [&lt;a name="GPT20"&gt;7&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-M.&amp;nbsp;Gallissot, M.&amp;nbsp;Puys, and P.-H. Thevenon.
+M.&amp;nbsp;Gallissot, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, and P.-H. Thevenon.
 &lt;b&gt; Wonder-Cloud, une plateforme pour l’analyse et l’&amp;eacute;mulation
   de micrologiciels ainsi que la composition de pots de miels.&lt;/b&gt;
  In &lt;em&gt;C&amp;amp;esar 2020 - Deceptive Security, Rennes, France&lt;/em&gt;, pages
@@ -1213,7 +1245,7 @@ M.&amp;nbsp;Gallissot, M.&amp;nbsp;Puys, and P.-H. Thevenon.
 [&lt;a name="MPT19"&gt;6&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-S.&amp;nbsp;Mocanu, M.&amp;nbsp;Puys, and P.-H. Thevenon.
+S.&amp;nbsp;Mocanu, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, and P.-H. Thevenon.
 &lt;b&gt; An Open-Source Hardware-In-The-Loop Virtualization System for
   Cybersecurity Studies of SCADA Systems.&lt;/b&gt;
  In &lt;em&gt;C&amp;amp;esar 2019 - Virtualization and Cybersecurity, Rennes,
@@ -1243,7 +1275,7 @@ S.&amp;nbsp;Mocanu, M.&amp;nbsp;Puys, and P.-H. Thevenon.
 [&lt;a name="PT19"&gt;5&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-M.&amp;nbsp;Puys and P.-H. Thevenon.
+&lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt; and P.-H. Thevenon.
 &lt;b&gt; Les d&amp;eacute;fis pos&amp;eacute;s par la s&amp;eacute;curisation de l'iot industriel.&lt;/b&gt;
  In &lt;em&gt;Rendez-Vous de la Recherche et de l'Enseignement de la
   S&amp;eacute;curit&amp;eacute; des Syst&amp;egrave;mes d'Information, RESSI 2019, Erquy, France&lt;/em&gt;,
@@ -1272,7 +1304,7 @@ M.&amp;nbsp;Puys and P.-H. Thevenon.
 [&lt;a name="PPR16b"&gt;4&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-M.&amp;nbsp;Puys, M.&amp;nbsp;Potet, and J.&amp;nbsp;Roch.
+&lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, M.&amp;nbsp;Potet, and J.&amp;nbsp;Roch.
 &lt;b&gt; Filtrage et v&amp;eacute;rification de flux m&amp;eacute;tiers dans les
   syst&amp;egrave;mes industriels.&lt;/b&gt;
  In &lt;em&gt;Rendez-Vous de la Recherche et de l'Enseignement de la
@@ -1304,7 +1336,7 @@ M.&amp;nbsp;Puys, M.&amp;nbsp;Potet, and J.&amp;nbsp;Roch.
 [&lt;a name="PPR16a"&gt;3&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-M.&amp;nbsp;Puys, M.&amp;nbsp;Potet, and J.&amp;nbsp;Roch.
+&lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, M.&amp;nbsp;Potet, and J.&amp;nbsp;Roch.
 &lt;b&gt; G&amp;eacute;n&amp;eacute;ration syst&amp;eacute;matique de sc&amp;eacute;narios d'attaques
   contre des syst&amp;egrave;mes industriels.&lt;/b&gt;
  In &lt;em&gt;Approches Formelles dans l'Assistance au D&amp;eacute;veloppement
@@ -1334,7 +1366,7 @@ M.&amp;nbsp;Puys, M.&amp;nbsp;Potet, and J.&amp;nbsp;Roch.
 [&lt;a name="PMPD14b"&gt;2&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-M.&amp;nbsp;Potet, L.&amp;nbsp;Mounier, M.&amp;nbsp;Puys, and L.&amp;nbsp;Dureuil.
+M.&amp;nbsp;Potet, L.&amp;nbsp;Mounier, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, and L.&amp;nbsp;Dureuil.
 &lt;b&gt; Lazart: A symbolic approach for evaluation the robustness of
   secured codes against control flow injections.&lt;/b&gt;
  In &lt;em&gt;1er Colloque sur la Confiance Num&amp;eacute;rique en Auvergne,
@@ -1365,7 +1397,7 @@ M.&amp;nbsp;Potet, L.&amp;nbsp;Mounier, M.&amp;nbsp;Puys, and L.&amp;nbsp;Dureui
 [&lt;a name="PMPD14a"&gt;1&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
-M.&amp;nbsp;Potet, L.&amp;nbsp;Mounier, M.&amp;nbsp;Puys, and L.&amp;nbsp;Dureuil.
+M.&amp;nbsp;Potet, L.&amp;nbsp;Mounier, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, and L.&amp;nbsp;Dureuil.
 &lt;b&gt; Lazart: A symbolic approach for evaluation the robustness of
   secured codes against control flow injections.&lt;/b&gt;
  In &lt;em&gt;Approches Formelles dans l'Assistance au D&amp;eacute;veloppement
