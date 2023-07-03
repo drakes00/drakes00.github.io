@@ -659,6 +659,94 @@ J.-G. Dumas, P.&amp;nbsp;Lafourcade, J.-B. Orfila, and &lt;u&gt;M.&amp;nbsp;Puys
 
 &lt;tr valign="top"&gt;
 &lt;td align="right" class="bibtexnumber"&gt;
+[&lt;a name="DPTM23"&gt;19&lt;/a&gt;]
+&lt;/td&gt;
+&lt;td class="bibtexitem"&gt;
+M.&amp;nbsp;Da&amp;nbsp;Silva, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, P.-H. Thevenon, and S.&amp;nbsp;Mocanu.
+&lt;b&gt; Plc logic-based cybersecurity risks identification for ics.&lt;/b&gt;
+ In &lt;em&gt;The 18th International Conference on Availability,
+  Reliability and Security, ARES 2023, Benevento, Italy, Aug. 29 – Sept. 1,
+  2023 (Rank Core B)&lt;/em&gt;, 2023.
+&lt;a name="DPTM23" href="publications/pdf/DPTM23.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="DPTM23" href="javascript:hideshow(document.getElementById('DPTM23'))"&gt;[bib]&lt;/a&gt;&lt;pre id="DPTM23" style="display:none;"&gt;
+@inproceedings{DPTM23,
+  title = {PLC Logic-Based Cybersecurity Risks Identification for ICS},
+  author = {Da Silva, Mike and Puys, Maxime and Thevenon, Pierre-Henri and
+               Mocanu, St\'{e}phane},
+  booktitle = {The 18th International Conference on Availability, Reliability
+               and Security, {ARES} 2023, Benevento, Italy, Aug. 29 – Sept. 1,
+               2023 (Rank Core B)},
+  year = {2023},
+  url = {https://maxime.puys.name/publications/pdf/DPTM23.pdf}
+}
+&lt;/pre&gt;
+
+
+&lt;/td&gt;
+&lt;/tr&gt;
+
+
+
+&lt;tr valign="top"&gt;
+&lt;td align="right" class="bibtexnumber"&gt;
+[&lt;a name="DPTMN23"&gt;18&lt;/a&gt;]
+&lt;/td&gt;
+&lt;td class="bibtexitem"&gt;
+M.&amp;nbsp;Da&amp;nbsp;Silva, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, P.-H. Thevenon, S.&amp;nbsp;Mocanu, and N.&amp;nbsp;Nkawa.
+&lt;b&gt; Automated ics template for stride microsoft threat modeling tool.&lt;/b&gt;
+ In &lt;em&gt;The 18th International Conference on Availability,
+  Reliability and Security, ARES 2023, Benevento, Italy, Aug. 29 – Sept. 1,
+  2023 (Rank Core B)&lt;/em&gt;, 2023.
+&lt;a name="DPTMN23" href="publications/pdf/DPTMN23.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="DPTMN23" href="javascript:hideshow(document.getElementById('DPTMN23'))"&gt;[bib]&lt;/a&gt;&lt;pre id="DPTMN23" style="display:none;"&gt;
+@inproceedings{DPTMN23,
+  title = {Automated ICS template for STRIDE Microsoft Threat Modeling
+               Tool},
+  author = {Da Silva, Mike and Puys, Maxime and Thevenon, Pierre-Henri and
+               Mocanu, St\'{e}phane and Nkawa, Nelson},
+  booktitle = {The 18th International Conference on Availability, Reliability
+               and Security, {ARES} 2023, Benevento, Italy, Aug. 29 – Sept. 1,
+               2023 (Rank Core B)},
+  year = {2023},
+  url = {https://maxime.puys.name/publications/pdf/DPTMN23.pdf}
+}
+&lt;/pre&gt;
+
+
+&lt;/td&gt;
+&lt;/tr&gt;
+
+
+
+&lt;tr valign="top"&gt;
+&lt;td align="right" class="bibtexnumber"&gt;
+[&lt;a name="PTPB23"&gt;17&lt;/a&gt;]
+&lt;/td&gt;
+&lt;td class="bibtexitem"&gt;
+N.&amp;nbsp;F. Polychronou, P.-H. Thevenon, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, and V.&amp;nbsp;Beroulle.
+&lt;b&gt; A hybrid solution for constraint devices to detect microarchitectural
+  attacks.&lt;/b&gt;
+ In &lt;em&gt;IEEE European Symposium on Security and Privacy (EuroS&amp;amp;P
+  2023) - Workshops, Delft, Netherlands, July 3-7, 2023&lt;/em&gt;, 2023.
+&lt;a name="PTPB23" href="publications/pdf/PTPB23.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="PTPB23" href="javascript:hideshow(document.getElementById('PTPB23'))"&gt;[bib]&lt;/a&gt;&lt;pre id="PTPB23" style="display:none;"&gt;
+@inproceedings{PTPB23,
+  title = {A Hybrid Solution for Constraint Devices to Detect
+               Microarchitectural Attacks},
+  author = {Polychronou, Nikolaos Foivos and Thevenon, Pierre-Henri
+               and Puys, Maxime and Beroulle, Vincent},
+  booktitle = {IEEE European Symposium on Security and Privacy (EuroS\&amp;P; 2023)
+               - Workshops, Delft, Netherlands, July 3-7, 2023},
+  year = {2023},
+  url = {https://maxime.puys.name/publications/pdf/PTPB23.pdf}
+}
+&lt;/pre&gt;
+
+
+&lt;/td&gt;
+&lt;/tr&gt;
+
+
+
+&lt;tr valign="top"&gt;
+&lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="SDPLF22"&gt;16&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
