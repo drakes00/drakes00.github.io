@@ -546,6 +546,31 @@ J.-G. Dumas, P.&amp;nbsp;Lafourcade, J.-B. Orfila, and &lt;u&gt;M.&amp;nbsp;Puys
 
 &lt;tr valign="top"&gt;
 &lt;td align="right" class="bibtexnumber"&gt;
+[&lt;a name="KLMMPS24"&gt;20&lt;/a&gt;]
+&lt;/td&gt;
+&lt;td class="bibtexitem"&gt;
+S.&amp;nbsp;Kaneko, P.&amp;nbsp;Lafourcade, L.-B. Mallordy, D.&amp;nbsp;Miyahara, &lt;u&gt;M.&amp;nbsp;Puys&lt;/u&gt;, and
+  K.&amp;nbsp;Sakiyama.
+&lt;b&gt; Balance-based zkp protocols for pencil-and-paper puzzles.&lt;/b&gt;
+ In &lt;em&gt;Information Security Conference&lt;/em&gt;, 2024.
+&lt;a name="KLMMPS24" href="publications/pdf/KLMMPS24.pdf"&gt;[pdf]&lt;/a&gt; &lt;a name="KLMMPS24" href="javascript:hideshow(document.getElementById('KLMMPS24'))"&gt;[bib]&lt;/a&gt;&lt;pre id="KLMMPS24" style="display:none;"&gt;
+@inproceedings{KLMMPS24,
+  title = {Balance-Based ZKP Protocols for Pencil-and-Paper Puzzles},
+  author = {Kaneko, Shohei and Lafourcade, Pascal and Mallordy, Lola-Baie and Miyahara, Daiki and Puys, Maxime and Sakiyama, Kazuo},
+  booktitle = {Information Security Conference},
+  year = {2024},
+  url = {https://maxime.puys.name/publications/pdf/KLMMPS24.pdf}
+}
+&lt;/pre&gt;
+
+
+&lt;/td&gt;
+&lt;/tr&gt;
+
+
+
+&lt;tr valign="top"&gt;
+&lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="DPTM23"&gt;19&lt;/a&gt;]
 &lt;/td&gt;
 &lt;td class="bibtexitem"&gt;
