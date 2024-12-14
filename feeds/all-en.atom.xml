@@ -1016,7 +1016,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="dasilva2024method"&gt;2&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Da Silva, P.-H. Thevenon, M &lt;b&gt;Puys&lt;/b&gt; &lt;em&gt;Mocanu. Method and device for identifying risks of cyberattacks, Jun 2024&lt;/em&gt;, and S &lt;a href="javascript:hideshow(document.getElementById('dasilva2024method'))" name="dasilva2024method"&gt;[bib]&lt;/a&gt;&lt;pre id="dasilva2024method" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Da Silva, P.-H. Thevenon, &lt;u&gt;M. Puys&lt;/u&gt;, and S. Mocanu &lt;b&gt;Method and device for identifying risks of cyberattacks&lt;/b&gt; &lt;em&gt;&lt;/em&gt;, Jun 2024 &lt;a href="javascript:hideshow(document.getElementById('dasilva2024method'))" name="dasilva2024method"&gt;[bib]&lt;/a&gt;&lt;pre id="dasilva2024method" style="display: none;"&gt;
 @misc{dasilva2024method,
   title = {Method and device for identifying risks of cyberattacks},
   author = {Da Silva, Mike and Thevenon, Pierre-Henri and Puys, Maxime and Mocanu, St{\'e}phane},
@@ -1030,7 +1030,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="polychronou2023system"&gt;1&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;N. Polychronou, P.-H. Thevenon, M &lt;b&gt;Puys&lt;/b&gt; &lt;em&gt;Beroulle. System for detecting malwares in a resources constrained device, Aug  2023&lt;/em&gt;, and V &lt;a href="javascript:hideshow(document.getElementById('polychronou2023system'))" name="polychronou2023system"&gt;[bib]&lt;/a&gt;&lt;pre id="polychronou2023system" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;N. Polychronou, P.-H. Thevenon, &lt;u&gt;M. Puys&lt;/u&gt;, and V. Beroulle &lt;b&gt;System for detecting malwares in a resources constrained device&lt;/b&gt; &lt;em&gt;&lt;/em&gt;, Aug  2023 &lt;a href="javascript:hideshow(document.getElementById('polychronou2023system'))" name="polychronou2023system"&gt;[bib]&lt;/a&gt;&lt;pre id="polychronou2023system" style="display: none;"&gt;
 @misc{polychronou2023system,
   title = {System for detecting malwares in a resources constrained device},
   author = {Polychronou, Nikolaos and Thevenon, Pierre-Henri and Puys, Maxime and Beroulle, Vincent},
