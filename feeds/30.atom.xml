@@ -135,14 +135,31 @@
 
 
 &lt;td align="right" class="bibtexnumber"&gt;
-[&lt;a name="KLMMPS24"&gt;20&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;S. Kaneko, P. Lafourcade, L.-B. Mallordy, D. Miyahara, &lt;u&gt;M. Puys&lt;/u&gt;, and  K. Sakiyama. &lt;b&gt;Balance-based zkp protocols for pencil-and-paper puzzles.&lt;/b&gt; &lt;em&gt;Information Security Conference&lt;/em&gt;, 2024 &lt;a href="javascript:hideshow(document.getElementById('KLMMPS24'))" name="KLMMPS24"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/KLMMPS24.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="KLMMPS24" style="display: none;"&gt;
-@inproceedings{KLMMPS24,
+[&lt;a name="KLMMPS24b"&gt;21&lt;/a&gt;]
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;S. Kaneko, P. Lafourcade, L.-B. Mallordy, D. Miyahara, &lt;u&gt;M. Puys&lt;/u&gt;, and  K. Sakiyama. &lt;b&gt;Secure voting protocol using balance scale.&lt;/b&gt; &lt;em&gt;Foundations and Practice of Security - 17th International  Symposium, FPS 2024, Montreal, Canada, December 9-11, 2024, Revised Selected  Papers&lt;/em&gt;, Montreal, Canada &lt;a href="javascript:hideshow(document.getElementById('KLMMPS24b'))" name="KLMMPS24b"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/KLMMPS24b.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="KLMMPS24b" style="display: none;"&gt;
+@inproceedings{KLMMPS24b,
+  title = {Secure Voting Protocol Using Balance Scale},
+  author = {Kaneko, Shohei and Lafourcade, Pascal and Mallordy, Lola-Baie and Miyahara, Daiki and Puys, Maxime and Sakiyama, Kazuo},
+  booktitle = {Foundations and Practice of Security - 17th International
+               Symposium, FPS 2024, Montreal, Canada, December 9-11, 2024,
+               Revised Selected Papers},
+  address = {Montreal, Canada},
+  year = {2024},
+  url = {https://maxime.puys.name/publications/pdf/KLMMPS24b.pdf}
+}
+&lt;/pre&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
+
+
+&lt;td align="right" class="bibtexnumber"&gt;
+[&lt;a name="KLMMPS24a"&gt;20&lt;/a&gt;]
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;S. Kaneko, P. Lafourcade, L.-B. Mallordy, D. Miyahara, &lt;u&gt;M. Puys&lt;/u&gt;, and  K. Sakiyama. &lt;b&gt;Balance-based zkp protocols for pencil-and-paper puzzles.&lt;/b&gt; &lt;em&gt;Information Security Conference&lt;/em&gt;, 2024 &lt;a href="javascript:hideshow(document.getElementById('KLMMPS24a'))" name="KLMMPS24a"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/KLMMPS24a.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="KLMMPS24a" style="display: none;"&gt;
+@inproceedings{KLMMPS24a,
   title = {Balance-Based ZKP Protocols for Pencil-and-Paper Puzzles},
   author = {Kaneko, Shohei and Lafourcade, Pascal and Mallordy, Lola-Baie and Miyahara, Daiki and Puys, Maxime and Sakiyama, Kazuo},
   booktitle = {Information Security Conference},
   year = {2024},
-  url = {https://maxime.puys.name/publications/pdf/KLMMPS24.pdf}
+  url = {https://maxime.puys.name/publications/pdf/KLMMPS24a.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -665,14 +682,13 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="dasilva2024method"&gt;2&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Da Silva, P.-H. Thevenon, &lt;u&gt;M. Puys&lt;/u&gt;, and S. Mocanu &lt;b&gt;Method and device for identifying risks of cyberattacks&lt;/b&gt; &lt;em&gt;US Patent App. 18/534,970&lt;/em&gt;, June 27  2024 &lt;a href="javascript:hideshow(document.getElementById('dasilva2024method'))" name="dasilva2024method"&gt;[bib]&lt;/a&gt;&lt;pre id="dasilva2024method" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Da Silva, P.-H. Thevenon, M &lt;b&gt;Puys&lt;/b&gt; &lt;em&gt;Mocanu. Method and device for identifying risks of cyberattacks, Jun 2024&lt;/em&gt;, and S &lt;a href="javascript:hideshow(document.getElementById('dasilva2024method'))" name="dasilva2024method"&gt;[bib]&lt;/a&gt;&lt;pre id="dasilva2024method" style="display: none;"&gt;
 @misc{dasilva2024method,
   title = {Method and device for identifying risks of cyberattacks},
   author = {Da Silva, Mike and Thevenon, Pierre-Henri and Puys, Maxime and Mocanu, St{\'e}phane},
   year = {2024},
-  month = jun # {~27},
-  publisher = {Google Patents},
-  note = {US Patent App. 18/534,970}
+  month = {Jun},
+  publisher = {US Patent App. 18/534,970}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -680,14 +696,13 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="polychronou2023system"&gt;1&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;N. Polychronou, P.-H. Thevenon, &lt;u&gt;M. Puys&lt;/u&gt;, and V. Beroulle &lt;b&gt;System for detecting malwares in a resources constrained device&lt;/b&gt; &lt;em&gt;US Patent App. 18/109,815&lt;/em&gt;, Aug. 31 2023 &lt;a href="javascript:hideshow(document.getElementById('polychronou2023system'))" name="polychronou2023system"&gt;[bib]&lt;/a&gt;&lt;pre id="polychronou2023system" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;N. Polychronou, P.-H. Thevenon, M &lt;b&gt;Puys&lt;/b&gt; &lt;em&gt;Beroulle. System for detecting malwares in a resources constrained device, Aug  2023&lt;/em&gt;, and V &lt;a href="javascript:hideshow(document.getElementById('polychronou2023system'))" name="polychronou2023system"&gt;[bib]&lt;/a&gt;&lt;pre id="polychronou2023system" style="display: none;"&gt;
 @misc{polychronou2023system,
   title = {System for detecting malwares in a resources constrained device},
   author = {Polychronou, Nikolaos and Thevenon, Pierre-Henri and Puys, Maxime and Beroulle, Vincent},
   year = {2023},
-  month = aug # {~31},
-  publisher = {Google Patents},
-  note = {US Patent App. 18/109,815}
+  month = {Aug},
+  publisher = {US Patent App. 18/109,815}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
