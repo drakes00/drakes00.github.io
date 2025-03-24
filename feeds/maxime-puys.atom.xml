@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys - Maxime Puys</title><link href="https://maxime.puys.name/" rel="alternate"></link><link href="https://maxime.puys.name/feeds/maxime-puys.atom.xml" rel="self"></link><id>https://maxime.puys.name/</id><updated>2017-07-26T21:40:00+02:00</updated><subtitle>Maître de conférences / Associate Professor</subtitle><entry><title>Me</title><link href="https://maxime.puys.name/me.html" rel="alternate"></link><published>2012-07-09T22:28:00+02:00</published><updated>2012-07-09T22:28:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2012-07-09:/me.html</id><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys - Maxime Puys</title><link href="https://maxime.puys.name/" rel="alternate"></link><link href="https://maxime.puys.name/feeds/maxime-puys.atom.xml" rel="self"></link><id>https://maxime.puys.name/</id><updated>2025-03-24T00:00:00+01:00</updated><subtitle>Maître de conférences / Associate Professor</subtitle><entry><title>Me</title><link href="https://maxime.puys.name/me.html" rel="alternate"></link><published>2012-07-09T22:28:00+02:00</published><updated>2012-07-09T22:28:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2012-07-09:/me.html</id><content type="html">
         &lt;div style="position: relative; text-align: center;"&gt;
             &lt;div style="float: left; width: 30%; position: absolute; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-0%, -50%);"&gt;
                 &lt;img src="images/id.png" alt="Photo" style="border: 1px solid black; width:100%; max-width: 300px;" /&gt;
@@ -341,14 +341,14 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="phdThesisMaximePuys"&gt;1&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Sécurité des systèmes industriels : filtrage  applicatif et recherche de scénarios d'attaques.&lt;/b&gt; &lt;em&gt;PhD thesis, Communauté Université Grenoble-Alpes&lt;/em&gt;, Feb.  2018. &lt;a href="javascript:hideshow(document.getElementById('phdThesisMaximePuys'))" name="phdThesisMaximePuys"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/phdThesisMaximePuys.pdf"&gt;[pdf]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/slidesPhdThesisMaximePuys.pdf"&gt;[slides]&lt;/a&gt;&lt;pre id="phdThesisMaximePuys" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Sécurité des systèmes industriels : filtrage  applicatif et recherche de scénarios d'attaques.&lt;/b&gt; &lt;em&gt;PhD thesis, Communauté Université Grenoble-Alpes&lt;/em&gt;, Feb.  2018. &lt;a href="javascript:hideshow(document.getElementById('phdThesisMaximePuys'))" name="phdThesisMaximePuys"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/phdThesisMaximePuys.pdf"&gt;[pdf]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/slidesPhdThesisMaximePuys.pdf"&gt;[slides]&lt;/a&gt;&lt;pre id="phdThesisMaximePuys" style="display: none;"&gt;
 @phdthesis{phdThesisMaximePuys,
   author = {Maxime Puys},
   title = {S{\'e}curit{\'e} des syst{\`e}mes industriels : filtrage applicatif et recherche de sc{\'e}narios d'attaques},
   school = {Communaut{\'e} Universit{\'e} Grenoble{-}Alpes},
   year = {2018},
   month = {Feb.},
-  url = {https://maxime.puys.name/publications/pdf/phdThesisMaximePuys.pdf}
+  url = {https://maxime.puys.name/pdf/publications/phdThesisMaximePuys.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;h3&gt;International Peer-Reviewed Journals&lt;/h3&gt;
@@ -357,7 +357,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="TRDPPES22"&gt;5&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;P.-H. Thevenon, S. Riou, D.-M. Tran, &lt;u&gt;M. Puys&lt;/u&gt;, N. F. Polychronou, M. El Majihi,  and C. Sivelle. &lt;b&gt;iMRC: integrated monitoring &amp;amp; recovery component, a solution to  guarantee the security of embedded systems.&lt;/b&gt; &lt;em&gt;Journal of Internet Services and Information Security (JISIS)  (Rank Scimago Q3)&lt;/em&gt;, 13(1):4--32, 2022. &lt;a href="javascript:hideshow(document.getElementById('TRDPPES22'))" name="TRDPPES22"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/TRDPPES22.pdf"&gt;[pdf]&lt;/a&gt;&lt;em&gt;&lt;/em&gt;&lt;pre id="TRDPPES22" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;P.-H. Thevenon, S. Riou, D.-M. Tran, &lt;u&gt;M. Puys&lt;/u&gt;, N. F. Polychronou, M. El Majihi,  and C. Sivelle. &lt;b&gt;iMRC: integrated monitoring &amp;amp; recovery component, a solution to  guarantee the security of embedded systems.&lt;/b&gt; &lt;em&gt;Journal of Internet Services and Information Security (JISIS)  (Rank Scimago Q3)&lt;/em&gt;, 13(1):4--32, 2022. &lt;a href="javascript:hideshow(document.getElementById('TRDPPES22'))" name="TRDPPES22"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/TRDPPES22.pdf"&gt;[pdf]&lt;/a&gt;&lt;em&gt;&lt;/em&gt;&lt;pre id="TRDPPES22" style="display: none;"&gt;
 @article{TRDPPES22,
   author = {Thevenon, Pierre-Henri and
                Riou, Sebastien and
@@ -374,7 +374,7 @@
   number = {1},
   pages = {4--32},
   year = {2022},
-  url = {https://maxime.puys.name/publications/pdf/TRDPPES22.pdf}
+  url = {https://maxime.puys.name/pdf/publications/TRDPPES22.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -382,7 +382,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PTMGS22"&gt;4&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, P.-H. Thevenon, S. M. Mocanu, M. Gallissot, and C. Sivelle. &lt;b&gt;SCADA cybersecurity awareness and teaching with  hardware-in-the-loop platforms.&lt;/b&gt; &lt;em&gt;Journal of Wireless Mobile Networks, Ubiquitous Computing, and  Dependable Applications (JoWUA) (Rank Scimago Q2)&lt;/em&gt;, 13(1):4--32, 2022. &lt;a href="javascript:hideshow(document.getElementById('PTMGS22'))" name="PTMGS22"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PTMGS22.pdf"&gt;[pdf]&lt;/a&gt;&lt;em&gt;&lt;/em&gt;&lt;pre id="PTMGS22" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, P.-H. Thevenon, S. M. Mocanu, M. Gallissot, and C. Sivelle. &lt;b&gt;SCADA cybersecurity awareness and teaching with  hardware-in-the-loop platforms.&lt;/b&gt; &lt;em&gt;Journal of Wireless Mobile Networks, Ubiquitous Computing, and  Dependable Applications (JoWUA) (Rank Scimago Q2)&lt;/em&gt;, 13(1):4--32, 2022. &lt;a href="javascript:hideshow(document.getElementById('PTMGS22'))" name="PTMGS22"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PTMGS22.pdf"&gt;[pdf]&lt;/a&gt;&lt;em&gt;&lt;/em&gt;&lt;pre id="PTMGS22" style="display: none;"&gt;
 @article{PTMGS22,
   author = {Puys, Maxime and
                Thevenon, Pierre-Henri and
@@ -397,7 +397,7 @@
   number = {1},
   pages = {4--32},
   year = {2022},
-  url = {https://maxime.puys.name/publications/pdf/PTMGS22.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PTMGS22.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -405,7 +405,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PTPB21a"&gt;3&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;N.-F. Polychronou, P.-H. Thevenon, &lt;u&gt;M. Puys&lt;/u&gt;, and V. Beroulle. &lt;b&gt;A comprehensive survey of attacks without physical access targeting  hardware vulnerabilities in IoT/IIoT devices, and their detection  mechanisms.&lt;/b&gt; &lt;em&gt;ACM Transactions on Design Automation of Electronic Systems  (Rank Sciamago Q2)&lt;/em&gt;, 27(1):1--35, 2021. &lt;a href="javascript:hideshow(document.getElementById('PTPB21a'))" name="PTPB21a"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PTPB21a.pdf"&gt;[pdf]&lt;/a&gt;&lt;em&gt;&lt;/em&gt;&lt;pre id="PTPB21a" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;N.-F. Polychronou, P.-H. Thevenon, &lt;u&gt;M. Puys&lt;/u&gt;, and V. Beroulle. &lt;b&gt;A comprehensive survey of attacks without physical access targeting  hardware vulnerabilities in IoT/IIoT devices, and their detection  mechanisms.&lt;/b&gt; &lt;em&gt;ACM Transactions on Design Automation of Electronic Systems  (Rank Sciamago Q2)&lt;/em&gt;, 27(1):1--35, 2021. &lt;a href="javascript:hideshow(document.getElementById('PTPB21a'))" name="PTPB21a"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PTPB21a.pdf"&gt;[pdf]&lt;/a&gt;&lt;em&gt;&lt;/em&gt;&lt;pre id="PTPB21a" style="display: none;"&gt;
 @article{PTPB21a,
   author = {Polychronou, Nikolaos-Foivos and Thevenon, Pierre-Henri and
                Puys, Maxime and Beroulle, Vincent},
@@ -418,7 +418,7 @@
   number = {1},
   pages = {1--35},
   year = {2021},
-  url = {https://maxime.puys.name/publications/pdf/PTPB21a.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PTPB21a.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -426,7 +426,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="DPPLR19"&gt;2&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;J. Dreier, &lt;u&gt;M. Puys&lt;/u&gt;, M.-L. Potet, P. Lafourcade, and J.-L. Roch. &lt;b&gt;Formally and practically verifying flow properties in industrial  systems.&lt;/b&gt; &lt;em&gt;Computers &amp;amp; Security, Elsevier (Rank Sciamago Q1)&lt;/em&gt;, 86(1):453--470, 2019. &lt;a href="javascript:hideshow(document.getElementById('DPPLR19'))" name="DPPLR19"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/DPPLR18.pdf"&gt;[pdf]&lt;/a&gt;&lt;em&gt;&lt;/em&gt;&lt;pre id="DPPLR19" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;J. Dreier, &lt;u&gt;M. Puys&lt;/u&gt;, M.-L. Potet, P. Lafourcade, and J.-L. Roch. &lt;b&gt;Formally and practically verifying flow properties in industrial  systems.&lt;/b&gt; &lt;em&gt;Computers &amp;amp; Security, Elsevier (Rank Sciamago Q1)&lt;/em&gt;, 86(1):453--470, 2019. &lt;a href="javascript:hideshow(document.getElementById('DPPLR19'))" name="DPPLR19"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/DPPLR18.pdf"&gt;[pdf]&lt;/a&gt;&lt;em&gt;&lt;/em&gt;&lt;pre id="DPPLR19" style="display: none;"&gt;
 @article{DPPLR19,
   author = {Dreier, Jannik and
                Puys, Maxime and
@@ -440,7 +440,7 @@
   number = {1},
   pages = {453--470},
   year = {2019},
-  url = {https://maxime.puys.name/publications/pdf/DPPLR18.pdf}
+  url = {https://maxime.puys.name/pdf/publications/DPPLR18.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -448,7 +448,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="DLOP17"&gt;1&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;J.-G. Dumas, P. Lafourcade, J.-B. Orfila, and &lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Dual protocols for private multi-party matrix multiplication and  trust computations.&lt;/b&gt; &lt;em&gt;Computers &amp;amp; Security, Elsevier (Rank Sciamago Q1)&lt;/em&gt;, 71(1):51--70, 2017. &lt;a href="javascript:hideshow(document.getElementById('DLOP17'))" name="DLOP17"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/DLOP17.pdf"&gt;[pdf]&lt;/a&gt;&lt;em&gt;&lt;/em&gt;&lt;pre id="DLOP17" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;J.-G. Dumas, P. Lafourcade, J.-B. Orfila, and &lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Dual protocols for private multi-party matrix multiplication and  trust computations.&lt;/b&gt; &lt;em&gt;Computers &amp;amp; Security, Elsevier (Rank Sciamago Q1)&lt;/em&gt;, 71(1):51--70, 2017. &lt;a href="javascript:hideshow(document.getElementById('DLOP17'))" name="DLOP17"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/DLOP17.pdf"&gt;[pdf]&lt;/a&gt;&lt;em&gt;&lt;/em&gt;&lt;pre id="DLOP17" style="display: none;"&gt;
 @article{DLOP17,
   author = {Dumas, Jean-Guillaume and
                Lafourcade, Pascal and
@@ -461,7 +461,7 @@
   number = {1},
   pages = {51--70},
   year = {2017},
-  url = {https://maxime.puys.name/publications/pdf/DLOP17.pdf}
+  url = {https://maxime.puys.name/pdf/publications/DLOP17.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;h3&gt;International Peer-Reviewed Conferences with Proceedings&lt;/h3&gt;
@@ -470,7 +470,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="KLMMPS24b"&gt;21&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;S. Kaneko, P. Lafourcade, L.-B. Mallordy, D. Miyahara, &lt;u&gt;M. Puys&lt;/u&gt;, and  K. Sakiyama. &lt;b&gt;Secure voting protocol using balance scale.&lt;/b&gt; &lt;em&gt;Foundations and Practice of Security - 17th International  Symposium, FPS 2024, Montreal, Canada, December 9-11, 2024, Revised Selected  Papers&lt;/em&gt;, Montreal, Canada &lt;a href="javascript:hideshow(document.getElementById('KLMMPS24b'))" name="KLMMPS24b"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/KLMMPS24b.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="KLMMPS24b" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;S. Kaneko, P. Lafourcade, L.-B. Mallordy, D. Miyahara, &lt;u&gt;M. Puys&lt;/u&gt;, and  K. Sakiyama. &lt;b&gt;Secure voting protocol using balance scale.&lt;/b&gt; &lt;em&gt;Foundations and Practice of Security - 17th International  Symposium, FPS 2024, Montreal, Canada, December 9-11, 2024, Revised Selected  Papers&lt;/em&gt;, Montreal, Canada &lt;a href="javascript:hideshow(document.getElementById('KLMMPS24b'))" name="KLMMPS24b"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/KLMMPS24b.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="KLMMPS24b" style="display: none;"&gt;
 @inproceedings{KLMMPS24b,
   title = {Secure Voting Protocol Using Balance Scale},
   author = {Kaneko, Shohei and Lafourcade, Pascal and Mallordy, Lola-Baie and Miyahara, Daiki and Puys, Maxime and Sakiyama, Kazuo},
@@ -479,7 +479,7 @@
                Revised Selected Papers},
   address = {Montreal, Canada},
   year = {2024},
-  url = {https://maxime.puys.name/publications/pdf/KLMMPS24b.pdf}
+  url = {https://maxime.puys.name/pdf/publications/KLMMPS24b.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -487,13 +487,13 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="KLMMPS24a"&gt;20&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;S. Kaneko, P. Lafourcade, L.-B. Mallordy, D. Miyahara, &lt;u&gt;M. Puys&lt;/u&gt;, and  K. Sakiyama. &lt;b&gt;Balance-based zkp protocols for pencil-and-paper puzzles.&lt;/b&gt; &lt;em&gt;Information Security Conference&lt;/em&gt;, 2024 &lt;a href="javascript:hideshow(document.getElementById('KLMMPS24a'))" name="KLMMPS24a"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/KLMMPS24a.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="KLMMPS24a" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;S. Kaneko, P. Lafourcade, L.-B. Mallordy, D. Miyahara, &lt;u&gt;M. Puys&lt;/u&gt;, and  K. Sakiyama. &lt;b&gt;Balance-based zkp protocols for pencil-and-paper puzzles.&lt;/b&gt; &lt;em&gt;Information Security Conference&lt;/em&gt;, 2024 &lt;a href="javascript:hideshow(document.getElementById('KLMMPS24a'))" name="KLMMPS24a"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/KLMMPS24a.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="KLMMPS24a" style="display: none;"&gt;
 @inproceedings{KLMMPS24a,
   title = {Balance-Based ZKP Protocols for Pencil-and-Paper Puzzles},
   author = {Kaneko, Shohei and Lafourcade, Pascal and Mallordy, Lola-Baie and Miyahara, Daiki and Puys, Maxime and Sakiyama, Kazuo},
   booktitle = {Information Security Conference},
   year = {2024},
-  url = {https://maxime.puys.name/publications/pdf/KLMMPS24a.pdf}
+  url = {https://maxime.puys.name/pdf/publications/KLMMPS24a.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -501,7 +501,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="DPTM23"&gt;19&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Da Silva, &lt;u&gt;M. Puys&lt;/u&gt;, P.-H. Thevenon, and S. Mocanu. &lt;b&gt;Plc logic-based cybersecurity risks identification for ics.&lt;/b&gt; &lt;em&gt;The 18th International Conference on Availability,  Reliability and Security, ARES 2023, Benevento, Italy, Aug. 29 – Sept. 1,  2023 (Rank Core B)&lt;/em&gt;, 2023 &lt;a href="javascript:hideshow(document.getElementById('DPTM23'))" name="DPTM23"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/DPTM23.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="DPTM23" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Da Silva, &lt;u&gt;M. Puys&lt;/u&gt;, P.-H. Thevenon, and S. Mocanu. &lt;b&gt;Plc logic-based cybersecurity risks identification for ics.&lt;/b&gt; &lt;em&gt;The 18th International Conference on Availability,  Reliability and Security, ARES 2023, Benevento, Italy, Aug. 29 – Sept. 1,  2023 (Rank Core B)&lt;/em&gt;, 2023 &lt;a href="javascript:hideshow(document.getElementById('DPTM23'))" name="DPTM23"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/DPTM23.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="DPTM23" style="display: none;"&gt;
 @inproceedings{DPTM23,
   title = {PLC Logic-Based Cybersecurity Risks Identification for ICS},
   author = {Da Silva, Mike and Puys, Maxime and Thevenon, Pierre-Henri and
@@ -510,7 +510,7 @@
                and Security, {ARES} 2023, Benevento, Italy, Aug. 29 – Sept. 1,
                2023 (Rank Core B)},
   year = {2023},
-  url = {https://maxime.puys.name/publications/pdf/DPTM23.pdf}
+  url = {https://maxime.puys.name/pdf/publications/DPTM23.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -518,7 +518,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="DPTMN23"&gt;18&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Da Silva, &lt;u&gt;M. Puys&lt;/u&gt;, P.-H. Thevenon, S. Mocanu, and N. Nkawa. &lt;b&gt;Automated ics template for stride microsoft threat modeling tool.&lt;/b&gt; &lt;em&gt;The 18th International Conference on Availability,  Reliability and Security, ARES 2023, Benevento, Italy, Aug. 29 – Sept. 1,  2023 (Rank Core B)&lt;/em&gt;, 2023 &lt;a href="javascript:hideshow(document.getElementById('DPTMN23'))" name="DPTMN23"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/DPTMN23.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="DPTMN23" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Da Silva, &lt;u&gt;M. Puys&lt;/u&gt;, P.-H. Thevenon, S. Mocanu, and N. Nkawa. &lt;b&gt;Automated ics template for stride microsoft threat modeling tool.&lt;/b&gt; &lt;em&gt;The 18th International Conference on Availability,  Reliability and Security, ARES 2023, Benevento, Italy, Aug. 29 – Sept. 1,  2023 (Rank Core B)&lt;/em&gt;, 2023 &lt;a href="javascript:hideshow(document.getElementById('DPTMN23'))" name="DPTMN23"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/DPTMN23.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="DPTMN23" style="display: none;"&gt;
 @inproceedings{DPTMN23,
   title = {Automated ICS template for STRIDE Microsoft Threat Modeling
                Tool},
@@ -528,7 +528,7 @@
                and Security, {ARES} 2023, Benevento, Italy, Aug. 29 – Sept. 1,
                2023 (Rank Core B)},
   year = {2023},
-  url = {https://maxime.puys.name/publications/pdf/DPTMN23.pdf}
+  url = {https://maxime.puys.name/pdf/publications/DPTMN23.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -536,7 +536,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PTPB23"&gt;17&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;N. F. Polychronou, P.-H. Thevenon, &lt;u&gt;M. Puys&lt;/u&gt;, and V. Beroulle. &lt;b&gt;A hybrid solution for constraint devices to detect microarchitectural  attacks.&lt;/b&gt; &lt;em&gt;IEEE European Symposium on Security and Privacy (EuroS&amp;amp;P  2023) - Workshops, Delft, Netherlands, July 3-7, 2023&lt;/em&gt;, 2023 &lt;a href="javascript:hideshow(document.getElementById('PTPB23'))" name="PTPB23"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PTPB23.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PTPB23" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;N. F. Polychronou, P.-H. Thevenon, &lt;u&gt;M. Puys&lt;/u&gt;, and V. Beroulle. &lt;b&gt;A hybrid solution for constraint devices to detect microarchitectural  attacks.&lt;/b&gt; &lt;em&gt;IEEE European Symposium on Security and Privacy (EuroS&amp;amp;P  2023) - Workshops, Delft, Netherlands, July 3-7, 2023&lt;/em&gt;, 2023 &lt;a href="javascript:hideshow(document.getElementById('PTPB23'))" name="PTPB23"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PTPB23.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PTPB23" style="display: none;"&gt;
 @inproceedings{PTPB23,
   title = {A Hybrid Solution for Constraint Devices to Detect
                Microarchitectural Attacks},
@@ -545,7 +545,7 @@
   booktitle = {IEEE European Symposium on Security and Privacy (EuroS\&amp;amp;P 2023)
                - Workshops, Delft, Netherlands, July 3-7, 2023},
   year = {2023},
-  url = {https://maxime.puys.name/publications/pdf/PTPB23.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PTPB23.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -553,7 +553,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="SDPLF22"&gt;16&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;C. Sivelle, L. Debbah, &lt;u&gt;M. Puys&lt;/u&gt;, P. Lafourcade, and T. Franco-Rondisson. &lt;b&gt;Automatic implementations synthesis of secure protocols and attacks  from abstract models.&lt;/b&gt; &lt;em&gt;27th Nordic Conference on Secure IT Systems (NordSec),  Reykjavik, Iceland, Nov. 30 -- Dec. 2, 2022 (Rank ERA C)&lt;/em&gt;, 2022 &lt;a href="javascript:hideshow(document.getElementById('SDPLF22'))" name="SDPLF22"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/SDPLF22.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="SDPLF22" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;C. Sivelle, L. Debbah, &lt;u&gt;M. Puys&lt;/u&gt;, P. Lafourcade, and T. Franco-Rondisson. &lt;b&gt;Automatic implementations synthesis of secure protocols and attacks  from abstract models.&lt;/b&gt; &lt;em&gt;27th Nordic Conference on Secure IT Systems (NordSec),  Reykjavik, Iceland, Nov. 30 -- Dec. 2, 2022 (Rank ERA C)&lt;/em&gt;, 2022 &lt;a href="javascript:hideshow(document.getElementById('SDPLF22'))" name="SDPLF22"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/SDPLF22.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="SDPLF22" style="display: none;"&gt;
 @inproceedings{SDPLF22,
   title = {Automatic Implementations Synthesis of Secure Protocols and
                Attacks from Abstract Models},
@@ -562,7 +562,7 @@
   booktitle = {27th Nordic Conference on Secure IT Systems (NordSec), Reykjavik,
                Iceland, Nov. 30 -- Dec. 2, 2022 (Rank ERA C)},
   year = {2022},
-  url = {https://maxime.puys.name/publications/pdf/SDPLF22.pdf}
+  url = {https://maxime.puys.name/pdf/publications/SDPLF22.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -570,7 +570,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PTPB21b"&gt;15&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;N. F. Polychronou, P.-H. Thevenon, &lt;u&gt;M. Puys&lt;/u&gt;, and V. Beroulle. &lt;b&gt;MaDMAN: Detection of software attacks targeting hardware  vulnerabilities.&lt;/b&gt; &lt;em&gt;24th IEEE Euromicro Conference on Digital System Design  (DSD), Palermo, Italy, Sept, 1-3, 2021 (Rank Qualis B1)&lt;/em&gt;, pages 355--362, 2021 &lt;a href="javascript:hideshow(document.getElementById('PTPB21b'))" name="PTPB21b"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PTPB21b.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PTPB21b" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;N. F. Polychronou, P.-H. Thevenon, &lt;u&gt;M. Puys&lt;/u&gt;, and V. Beroulle. &lt;b&gt;MaDMAN: Detection of software attacks targeting hardware  vulnerabilities.&lt;/b&gt; &lt;em&gt;24th IEEE Euromicro Conference on Digital System Design  (DSD), Palermo, Italy, Sept, 1-3, 2021 (Rank Qualis B1)&lt;/em&gt;, pages 355--362, 2021 &lt;a href="javascript:hideshow(document.getElementById('PTPB21b'))" name="PTPB21b"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PTPB21b.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PTPB21b" style="display: none;"&gt;
 @inproceedings{PTPB21b,
   title = {{MaDMAN}: Detection of Software Attacks Targeting Hardware Vulnerabilities},
   author = {Polychronou, Nikolaos Foivos and Thevenon, Pierre-Henri
@@ -579,7 +579,7 @@
                Palermo, Italy, Sept, 1-3, 2021 (Rank Qualis B1)},
   pages = {355-362},
   year = {2021},
-  url = {https://maxime.puys.name/publications/pdf/PTPB21b.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PTPB21b.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -587,7 +587,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PTPB21c"&gt;14&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;N. F. Polychronou, P.-H. Thevenon, &lt;u&gt;M. Puys&lt;/u&gt;, and V. Beroulle. &lt;b&gt;Securing IoI/IIoT from software attacks targeting hardware  vulnerabilities.&lt;/b&gt; &lt;em&gt;2021 19th IEEE International New Circuits and Systems  Conference (NEWCAS), Toulon, France, June 13-16, 2021 (Rank Qualis B4)&lt;/em&gt;, pages 1--4, 2021 &lt;a href="javascript:hideshow(document.getElementById('PTPB21c'))" name="PTPB21c"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PTPB21c.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PTPB21c" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;N. F. Polychronou, P.-H. Thevenon, &lt;u&gt;M. Puys&lt;/u&gt;, and V. Beroulle. &lt;b&gt;Securing IoI/IIoT from software attacks targeting hardware  vulnerabilities.&lt;/b&gt; &lt;em&gt;2021 19th IEEE International New Circuits and Systems  Conference (NEWCAS), Toulon, France, June 13-16, 2021 (Rank Qualis B4)&lt;/em&gt;, pages 1--4, 2021 &lt;a href="javascript:hideshow(document.getElementById('PTPB21c'))" name="PTPB21c"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PTPB21c.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PTPB21c" style="display: none;"&gt;
 @inproceedings{PTPB21c,
   title = {Securing {IoI}/{IIoT} from Software Attacks Targeting Hardware
                Vulnerabilities},
@@ -598,7 +598,7 @@
                Qualis B4)},
   pages = {1--4},
   year = {2021},
-  url = {https://maxime.puys.name/publications/pdf/PTPB21c.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PTPB21c.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -606,7 +606,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PTM21"&gt;13&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, P.-H. Thevenon, and S. Mocanu. &lt;b&gt;Hardware-in-the-loop labs for scada cybersecurity awareness and  training.&lt;/b&gt; &lt;em&gt;The 16th International Conference on Availability,  Reliability and Security, ARES 2021, Vienna, Austria, August 17-20, 2021  (Rank Core B)&lt;/em&gt;, pages 1--10, 2021 &lt;a href="javascript:hideshow(document.getElementById('PTM21'))" name="PTM21"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PTM21.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PTM21" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, P.-H. Thevenon, and S. Mocanu. &lt;b&gt;Hardware-in-the-loop labs for scada cybersecurity awareness and  training.&lt;/b&gt; &lt;em&gt;The 16th International Conference on Availability,  Reliability and Security, ARES 2021, Vienna, Austria, August 17-20, 2021  (Rank Core B)&lt;/em&gt;, pages 1--10, 2021 &lt;a href="javascript:hideshow(document.getElementById('PTM21'))" name="PTM21"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PTM21.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PTM21" style="display: none;"&gt;
 @inproceedings{PTM21,
   title = {Hardware-In-The-Loop Labs for SCADA Cybersecurity Awareness and Training},
   author = {Puys, Maxime and Thevenon, Pierre-Henri and Mocanu, St\'{e}phane},
@@ -614,7 +614,7 @@
                {ARES} 2021, Vienna, Austria, August 17-20, 2021 (Rank Core B)},
   pages = {1--10},
   year = {2021},
-  url = {https://maxime.puys.name/publications/pdf/PTM21.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PTM21.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -622,7 +622,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PKC20"&gt;12&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, J.-P. Krimm, and R. Collado. &lt;b&gt;Towards cybersecurity act: A survey on iot evaluation frameworks.&lt;/b&gt; &lt;em&gt;SECURWARE 2020-The Fourteenth International Conference on  Emerging Security Information, Systems and Technologies (Rank Qualis B3)&lt;/em&gt;, pages 69--74, 2020 &lt;a href="javascript:hideshow(document.getElementById('PKC20'))" name="PKC20"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PKC20.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PKC20" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, J.-P. Krimm, and R. Collado. &lt;b&gt;Towards cybersecurity act: A survey on iot evaluation frameworks.&lt;/b&gt; &lt;em&gt;SECURWARE 2020-The Fourteenth International Conference on  Emerging Security Information, Systems and Technologies (Rank Qualis B3)&lt;/em&gt;, pages 69--74, 2020 &lt;a href="javascript:hideshow(document.getElementById('PKC20'))" name="PKC20"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PKC20.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PKC20" style="display: none;"&gt;
 @inproceedings{PKC20,
   title = {Towards Cybersecurity Act: A Survey on IoT Evaluation
                Frameworks},
@@ -632,7 +632,7 @@
                (Rank Qualis B3)},
   pages = {69--74},
   year = {2020},
-  url = {https://maxime.puys.name/publications/pdf/PKC20.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PKC20.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -640,7 +640,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="DLFLPP19"&gt;11&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;J. Dumas, P. Lafourcade, J. López Fenner, D. Lucas, J. Orfila, C. Pernet,  and &lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Secure multiparty matrix multiplication based on strassen-winograd  algorithm.&lt;/b&gt; &lt;em&gt;Advances in Information and Computer Security - 14th  International Workshop on Security, IWSEC 2019, Tokyo, Japan, August 28-30,  2019, Proceedings (Rank Core B)&lt;/em&gt;, pages 67--88, 2019 &lt;a href="javascript:hideshow(document.getElementById('DLFLPP19'))" name="DLFLPP19"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/DLFLPP19.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="DLFLPP19" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;J. Dumas, P. Lafourcade, J. López Fenner, D. Lucas, J. Orfila, C. Pernet,  and &lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Secure multiparty matrix multiplication based on strassen-winograd  algorithm.&lt;/b&gt; &lt;em&gt;Advances in Information and Computer Security - 14th  International Workshop on Security, IWSEC 2019, Tokyo, Japan, August 28-30,  2019, Proceedings (Rank Core B)&lt;/em&gt;, pages 67--88, 2019 &lt;a href="javascript:hideshow(document.getElementById('DLFLPP19'))" name="DLFLPP19"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/DLFLPP19.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="DLFLPP19" style="display: none;"&gt;
 @inproceedings{DLFLPP19,
   author = {Dumas, Jean{-}Guillaume and
                  Lafourcade, Pascal and
@@ -656,7 +656,7 @@
                  Proceedings (Rank Core B)},
   pages = {67--88},
   year = {2019},
-  url = {https://maxime.puys.name/publications/pdf/DLFLPP19.pdf}
+  url = {https://maxime.puys.name/pdf/publications/DLFLPP19.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -664,7 +664,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="BDDEOPPPRR17"&gt;10&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;B. Badrignans, V. Danjean, J. Dumas, P. Elbaz-Vincent, S. Machenaud,  J. Orfila, F. Pebay-Peyroula, F. Pebay-Peyroula, M. Potet, &lt;u&gt;M. Puys&lt;/u&gt;,  J. Richier, and R. Jean-Louis. &lt;b&gt;Security Architecture for Embedded Point-to-Points Splitting  Protocols.&lt;/b&gt; &lt;em&gt;WCICSS 2017 - IEEE World Congress on Industrial Control  Systems Security&lt;/em&gt;, 2017 &lt;a href="javascript:hideshow(document.getElementById('BDDEOPPPRR17'))" name="BDDEOPPPRR17"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/BDDEOPPPRR17.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="BDDEOPPPRR17" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;B. Badrignans, V. Danjean, J. Dumas, P. Elbaz-Vincent, S. Machenaud,  J. Orfila, F. Pebay-Peyroula, F. Pebay-Peyroula, M. Potet, &lt;u&gt;M. Puys&lt;/u&gt;,  J. Richier, and R. Jean-Louis. &lt;b&gt;Security Architecture for Embedded Point-to-Points Splitting  Protocols.&lt;/b&gt; &lt;em&gt;WCICSS 2017 - IEEE World Congress on Industrial Control  Systems Security&lt;/em&gt;, 2017 &lt;a href="javascript:hideshow(document.getElementById('BDDEOPPPRR17'))" name="BDDEOPPPRR17"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/BDDEOPPPRR17.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="BDDEOPPPRR17" style="display: none;"&gt;
 @inproceedings{BDDEOPPPRR17,
   author = {Badrignans, Benoit and
                Danjean, Vincent and
@@ -681,7 +681,7 @@
   title = {{Security Architecture for Embedded Point-to-Points Splitting Protocols}},
   booktitle = {{WCICSS 2017 - IEEE World Congress on Industrial Control Systems Security}},
   year = {2017},
-  url = {https://maxime.puys.name/publications/pdf/BDDEOPPPRR17.pdf}
+  url = {https://maxime.puys.name/pdf/publications/BDDEOPPPRR17.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -689,7 +689,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PPK17"&gt;9&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, M. Potet, and A. Khaled. &lt;b&gt;Generation of applicative attacks scenarios against industrial  systems.&lt;/b&gt; &lt;em&gt;Foundations and Practice of Security - 10th International  Symposium, FPS 2017, Nancy, France, October 23-25, 2017, Revised Selected  Papers&lt;/em&gt;, pages 127--143, 2017 &lt;a href="javascript:hideshow(document.getElementById('PPK17'))" name="PPK17"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PPK17.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PPK17" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, M. Potet, and A. Khaled. &lt;b&gt;Generation of applicative attacks scenarios against industrial  systems.&lt;/b&gt; &lt;em&gt;Foundations and Practice of Security - 10th International  Symposium, FPS 2017, Nancy, France, October 23-25, 2017, Revised Selected  Papers&lt;/em&gt;, pages 127--143, 2017 &lt;a href="javascript:hideshow(document.getElementById('PPK17'))" name="PPK17"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PPK17.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PPK17" style="display: none;"&gt;
 @inproceedings{PPK17,
   author = {Puys, Maxime and
                Potet, Marie{-}Laure and
@@ -699,7 +699,7 @@
                {FPS} 2017, Nancy, France, October 23-25, 2017, Revised Selected Papers},
   pages = {127--143},
   year = {2017},
-  url = {https://maxime.puys.name/publications/pdf/PPK17.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PPK17.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -707,7 +707,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="DPPLR17"&gt;8&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;J. Dreier, &lt;u&gt;M. Puys&lt;/u&gt;, M. Potet, P. Lafourcade, and J. Roch. &lt;b&gt;Formally verifying flow integrity properties in industrial systems.&lt;/b&gt; &lt;em&gt;Proceedings of the 14th International Joint Conference on  e-Business and Telecommunications (ICETE) 2017) - Volume 4: SECRYPT,  Madrid, Spain, July 24-26, 2017 (Rank Core B)&lt;/em&gt;, pages 55--66, &lt;b&gt;Best Student Paper Award&lt;/b&gt;, 2017 &lt;a href="javascript:hideshow(document.getElementById('DPPLR17'))" name="DPPLR17"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/DPPLR17.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="DPPLR17" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;J. Dreier, &lt;u&gt;M. Puys&lt;/u&gt;, M. Potet, P. Lafourcade, and J. Roch. &lt;b&gt;Formally verifying flow integrity properties in industrial systems.&lt;/b&gt; &lt;em&gt;Proceedings of the 14th International Joint Conference on  e-Business and Telecommunications (ICETE) 2017) - Volume 4: SECRYPT,  Madrid, Spain, July 24-26, 2017 (Rank Core B)&lt;/em&gt;, pages 55--66, &lt;b&gt;Best Student Paper Award&lt;/b&gt;, 2017 &lt;a href="javascript:hideshow(document.getElementById('DPPLR17'))" name="DPPLR17"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/DPPLR17.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="DPPLR17" style="display: none;"&gt;
 @inproceedings{DPPLR17,
   author = {Dreier, Jannik and
                Puys, Maxime and
@@ -721,7 +721,7 @@
   pages = {55--66},
   year = {2017},
   note = {Best Student Paper Award},
-  url = {https://maxime.puys.name/publications/pdf/DPPLR17.pdf}
+  url = {https://maxime.puys.name/pdf/publications/DPPLR17.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -729,7 +729,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PRP16"&gt;7&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, J. Roch, and M. Potet. &lt;b&gt;Domain specific stateful filtering with worst-case bandwidth.&lt;/b&gt; &lt;em&gt;Critical Information Infrastructures Security - 11th  International Conference, CRITIS 2016, Paris, France, October 10-12, 2016,  Revised Selected Papers (Rank Core C)&lt;/em&gt;, pages 321--327, 2016 &lt;a href="javascript:hideshow(document.getElementById('PRP16'))" name="PRP16"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PRP16.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PRP16" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, J. Roch, and M. Potet. &lt;b&gt;Domain specific stateful filtering with worst-case bandwidth.&lt;/b&gt; &lt;em&gt;Critical Information Infrastructures Security - 11th  International Conference, CRITIS 2016, Paris, France, October 10-12, 2016,  Revised Selected Papers (Rank Core C)&lt;/em&gt;, pages 321--327, 2016 &lt;a href="javascript:hideshow(document.getElementById('PRP16'))" name="PRP16"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PRP16.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PRP16" style="display: none;"&gt;
 @inproceedings{PRP16,
   author = {Puys, Maxime and
                Roch, Jean{-}Louis and
@@ -740,7 +740,7 @@
                Selected Papers (Rank Core C)},
   pages = {321--327},
   year = {2016},
-  url = {https://maxime.puys.name/publications/pdf/PRP16.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PRP16.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -748,7 +748,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PPL16"&gt;6&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, M. Potet, and P. Lafourcade. &lt;b&gt;Formal analysis of security properties on the OPC-UA SCADA  protocol.&lt;/b&gt; &lt;em&gt;Computer Safety, Reliability, and Security - 35th  International Conference, SAFECOMP 2016, Trondheim, Norway, September  21-23, 2016, Proceedings (Rank Core B)&lt;/em&gt;, pages 67--75, 2016 &lt;a href="javascript:hideshow(document.getElementById('PPL16'))" name="PPL16"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PPL16.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PPL16" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, M. Potet, and P. Lafourcade. &lt;b&gt;Formal analysis of security properties on the OPC-UA SCADA  protocol.&lt;/b&gt; &lt;em&gt;Computer Safety, Reliability, and Security - 35th  International Conference, SAFECOMP 2016, Trondheim, Norway, September  21-23, 2016, Proceedings (Rank Core B)&lt;/em&gt;, pages 67--75, 2016 &lt;a href="javascript:hideshow(document.getElementById('PPL16'))" name="PPL16"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PPL16.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PPL16" style="display: none;"&gt;
 @inproceedings{PPL16,
   author = {Puys, Maxime and
                Potet, Marie{-}Laure and
@@ -758,7 +758,7 @@
                {SAFECOMP} 2016, Trondheim, Norway, September 21-23, 2016, Proceedings (Rank Core B)},
   pages = {67--75},
   year = {2016},
-  url = {https://maxime.puys.name/publications/pdf/PPL16.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PPL16.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -766,7 +766,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="DLOP16"&gt;5&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;J. Dumas, P. Lafourcade, J. Orfila, and &lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Private multi-party matrix multiplication and trust computations.&lt;/b&gt; &lt;em&gt;Proceedings of the 13th International Joint Conference on  e-Business and Telecommunications (ICETE 2016) - Volume 4: SECRYPT, Lisbon,  Portugal, July 26-28, 2016 (Rank Core B)&lt;/em&gt;, pages 61--72, &lt;b&gt;Best Paper Award&lt;/b&gt;, 2016 &lt;a href="javascript:hideshow(document.getElementById('DLOP16'))" name="DLOP16"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/DLOP16.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="DLOP16" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;J. Dumas, P. Lafourcade, J. Orfila, and &lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Private multi-party matrix multiplication and trust computations.&lt;/b&gt; &lt;em&gt;Proceedings of the 13th International Joint Conference on  e-Business and Telecommunications (ICETE 2016) - Volume 4: SECRYPT, Lisbon,  Portugal, July 26-28, 2016 (Rank Core B)&lt;/em&gt;, pages 61--72, &lt;b&gt;Best Paper Award&lt;/b&gt;, 2016 &lt;a href="javascript:hideshow(document.getElementById('DLOP16'))" name="DLOP16"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/DLOP16.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="DLOP16" style="display: none;"&gt;
 @inproceedings{DLOP16,
   author = {Dumas, Jean{-}Guillaume and
                Lafourcade, Pascal and
@@ -779,7 +779,7 @@
   pages = {61--72},
   year = {2016},
   note = {Best Paper Award},
-  url = {https://maxime.puys.name/publications/pdf/DLOP16.pdf}
+  url = {https://maxime.puys.name/pdf/publications/DLOP16.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -787,7 +787,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="LP15"&gt;4&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;P. Lafourcade and &lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Performance evaluations of cryptographic protocols verification tools  dealing with algebraic properties.&lt;/b&gt; &lt;em&gt;Foundations and Practice of Security - 8th International  Symposium, FPS 2015, Clermont-Ferrand, France, October 26-28, 2015, Revised  Selected Papers&lt;/em&gt;, pages 137--155, 2015 &lt;a href="javascript:hideshow(document.getElementById('LP15'))" name="LP15"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/LP15.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="LP15" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;P. Lafourcade and &lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Performance evaluations of cryptographic protocols verification tools  dealing with algebraic properties.&lt;/b&gt; &lt;em&gt;Foundations and Practice of Security - 8th International  Symposium, FPS 2015, Clermont-Ferrand, France, October 26-28, 2015, Revised  Selected Papers&lt;/em&gt;, pages 137--155, 2015 &lt;a href="javascript:hideshow(document.getElementById('LP15'))" name="LP15"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/LP15.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="LP15" style="display: none;"&gt;
 @inproceedings{LP15,
   author = {Lafourcade, Pascal and
                Puys, Maxime},
@@ -798,7 +798,7 @@
                Selected Papers},
   pages = {137--155},
   year = {2015},
-  url = {https://maxime.puys.name/publications/pdf/LP15.pdf}
+  url = {https://maxime.puys.name/pdf/publications/LP15.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -806,7 +806,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="RPLBCP14"&gt;3&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;L. Rivière, M. Potet, T. Le, J. Bringer, H. Chabanne, and &lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Combining high-level and low-level approaches to evaluate software  implementations robustness against multiple fault injection attacks.&lt;/b&gt; &lt;em&gt;Foundations and Practice of Security - 7th International  Symposium, FPS 2014, Montreal, QC, Canada, November 3-5, 2014. Revised  Selected Papers&lt;/em&gt;, pages 92--111, 2014 &lt;a href="javascript:hideshow(document.getElementById('RPLBCP14'))" name="RPLBCP14"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/RPLBCP14.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="RPLBCP14" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;L. Rivière, M. Potet, T. Le, J. Bringer, H. Chabanne, and &lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Combining high-level and low-level approaches to evaluate software  implementations robustness against multiple fault injection attacks.&lt;/b&gt; &lt;em&gt;Foundations and Practice of Security - 7th International  Symposium, FPS 2014, Montreal, QC, Canada, November 3-5, 2014. Revised  Selected Papers&lt;/em&gt;, pages 92--111, 2014 &lt;a href="javascript:hideshow(document.getElementById('RPLBCP14'))" name="RPLBCP14"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/RPLBCP14.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="RPLBCP14" style="display: none;"&gt;
 @inproceedings{RPLBCP14,
   author = {Rivi{\`{e}}re, Lionel and
                Potet, Marie{-}Laure and
@@ -821,7 +821,7 @@
                Papers},
   pages = {92--111},
   year = {2014},
-  url = {https://maxime.puys.name/publications/pdf/RPLBCP14.pdf}
+  url = {https://maxime.puys.name/pdf/publications/RPLBCP14.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -829,7 +829,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PRBL14"&gt;2&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, L. Rivière, J. Bringer, and T. Le. &lt;b&gt;High-level simulation for multiple fault injection evaluation.&lt;/b&gt; &lt;em&gt;Data Privacy Management, Autonomous Spontaneous Security, and  Security Assurance - 9th International Workshop, DPM 2014, 7th  International Workshop, SETOP 2014, and 3rd International Workshop, QASA  2014, Wroclaw, Poland, September 10-11, 2014. Revised Selected Papers&lt;/em&gt;, pages  293--308, 2014 &lt;a href="javascript:hideshow(document.getElementById('PRBL14'))" name="PRBL14"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PRBL14.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PRBL14" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, L. Rivière, J. Bringer, and T. Le. &lt;b&gt;High-level simulation for multiple fault injection evaluation.&lt;/b&gt; &lt;em&gt;Data Privacy Management, Autonomous Spontaneous Security, and  Security Assurance - 9th International Workshop, DPM 2014, 7th  International Workshop, SETOP 2014, and 3rd International Workshop, QASA  2014, Wroclaw, Poland, September 10-11, 2014. Revised Selected Papers&lt;/em&gt;, pages  293--308, 2014 &lt;a href="javascript:hideshow(document.getElementById('PRBL14'))" name="PRBL14"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PRBL14.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PRBL14" style="display: none;"&gt;
 @inproceedings{PRBL14,
   author = {Puys, Maxime and
                Rivi{\`{e}}re, Lionel and
@@ -842,7 +842,7 @@
                Wroclaw, Poland, September 10-11, 2014. Revised Selected Papers},
   pages = {293--308},
   year = {2014},
-  url = {https://maxime.puys.name/publications/pdf/PRBL14.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PRBL14.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -850,7 +850,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PMPD14"&gt;1&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Potet, L. Mounier, &lt;u&gt;M. Puys&lt;/u&gt;, and L. Dureuil. &lt;b&gt;Lazart: A symbolic approach for evaluation the robustness of  secured codes against control flow injections.&lt;/b&gt; &lt;em&gt;Seventh IEEE International Conference on Software Testing,  Verification and Validation, ICST 2014, March 31 2014-April 4, 2014,  Cleveland, Ohio, USA (Core Rank A)&lt;/em&gt;, pages 213--222, 2014 &lt;a href="javascript:hideshow(document.getElementById('PMPD14'))" name="PMPD14"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PMPD14.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PMPD14" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Potet, L. Mounier, &lt;u&gt;M. Puys&lt;/u&gt;, and L. Dureuil. &lt;b&gt;Lazart: A symbolic approach for evaluation the robustness of  secured codes against control flow injections.&lt;/b&gt; &lt;em&gt;Seventh IEEE International Conference on Software Testing,  Verification and Validation, ICST 2014, March 31 2014-April 4, 2014,  Cleveland, Ohio, USA (Core Rank A)&lt;/em&gt;, pages 213--222, 2014 &lt;a href="javascript:hideshow(document.getElementById('PMPD14'))" name="PMPD14"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PMPD14.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PMPD14" style="display: none;"&gt;
 @inproceedings{PMPD14,
   author = {Potet, Marie{-}Laure and
                Mounier, Laurent and
@@ -863,7 +863,7 @@
                Ohio, {USA} (Core Rank A)},
   pages = {213--222},
   year = {2014},
-  url = {https://maxime.puys.name/publications/pdf/PMPD14.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PMPD14.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;h3&gt;French Peer-Reviewed Conferences with Proceedings&lt;/h3&gt;
@@ -872,7 +872,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PT22"&gt;8&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt; and P.-H. Thevenon. &lt;b&gt;PULSE - cybersécurité des systèmes industriels.&lt;/b&gt; &lt;em&gt;Rendez-Vous de la Recherche et de l'Enseignement de la  Sécurité des Systèmes d'Information, RESSI 2022, Chambon-sur-Lac,  France&lt;/em&gt;, 2022 &lt;a href="javascript:hideshow(document.getElementById('PT22'))" name="PT22"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PT22.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PT22" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt; and P.-H. Thevenon. &lt;b&gt;PULSE - cybersécurité des systèmes industriels.&lt;/b&gt; &lt;em&gt;Rendez-Vous de la Recherche et de l'Enseignement de la  Sécurité des Systèmes d'Information, RESSI 2022, Chambon-sur-Lac,  France&lt;/em&gt;, 2022 &lt;a href="javascript:hideshow(document.getElementById('PT22'))" name="PT22"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PT22.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PT22" style="display: none;"&gt;
 @inproceedings{PT22,
   author = {Puys, Maxime and
                Thevenon, Pierre-Henri},
@@ -881,7 +881,7 @@
                S{\'e}curit{\'e} des Syst{\`e}mes d'Information, RESSI 2022,
                Chambon-sur-Lac, France}},
   year = {2022},
-  url = {https://maxime.puys.name/publications/pdf/PT22.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PT22.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -889,7 +889,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="GPT20"&gt;7&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Gallissot, &lt;u&gt;M. Puys&lt;/u&gt;, and P.-H. Thevenon. &lt;b&gt;Wonder-Cloud, une plateforme pour l’analyse et l’émulation  de micrologiciels ainsi que la composition de pots de miels.&lt;/b&gt; &lt;em&gt;C&amp;amp;esar 2020 - Deceptive Security, Rennes, France&lt;/em&gt;, pages  1--8, 2020 &lt;a href="javascript:hideshow(document.getElementById('GPT20'))" name="GPT20"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/GPT20.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="GPT20" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Gallissot, &lt;u&gt;M. Puys&lt;/u&gt;, and P.-H. Thevenon. &lt;b&gt;Wonder-Cloud, une plateforme pour l’analyse et l’émulation  de micrologiciels ainsi que la composition de pots de miels.&lt;/b&gt; &lt;em&gt;C&amp;amp;esar 2020 - Deceptive Security, Rennes, France&lt;/em&gt;, pages  1--8, 2020 &lt;a href="javascript:hideshow(document.getElementById('GPT20'))" name="GPT20"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/GPT20.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="GPT20" style="display: none;"&gt;
 @inproceedings{GPT20,
   author = {Gallissot, Mathieu and Puys, Maxime and Thevenon, Pierre-Henri},
   title = {{Wonder-Cloud, une plateforme pour l’analyse et l’{\'e}mulation
@@ -897,7 +897,7 @@
   booktitle = {{C\&amp;amp;esar 2020 - Deceptive Security, Rennes, France}},
   pages = {1--8},
   year = {2020},
-  url = {https://maxime.puys.name/publications/pdf/GPT20.pdf}
+  url = {https://maxime.puys.name/pdf/publications/GPT20.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -905,7 +905,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="MPT19"&gt;6&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;S. Mocanu, &lt;u&gt;M. Puys&lt;/u&gt;, and P.-H. Thevenon. &lt;b&gt;An Open-Source Hardware-In-The-Loop Virtualization System for  Cybersecurity Studies of SCADA Systems.&lt;/b&gt; &lt;em&gt;C&amp;amp;esar 2019 - Virtualization and Cybersecurity, Rennes,  France&lt;/em&gt;, pages 1--16, 2019 &lt;a href="javascript:hideshow(document.getElementById('MPT19'))" name="MPT19"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/MPT19.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="MPT19" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;S. Mocanu, &lt;u&gt;M. Puys&lt;/u&gt;, and P.-H. Thevenon. &lt;b&gt;An Open-Source Hardware-In-The-Loop Virtualization System for  Cybersecurity Studies of SCADA Systems.&lt;/b&gt; &lt;em&gt;C&amp;amp;esar 2019 - Virtualization and Cybersecurity, Rennes,  France&lt;/em&gt;, pages 1--16, 2019 &lt;a href="javascript:hideshow(document.getElementById('MPT19'))" name="MPT19"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/MPT19.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="MPT19" style="display: none;"&gt;
 @inproceedings{MPT19,
   author = {Mocanu, St{\'e}phane and
                Puys, Maxime and
@@ -915,7 +915,7 @@
   booktitle = {{C\&amp;amp;esar 2019 - Virtualization and Cybersecurity, Rennes, France}},
   pages = {1-16},
   year = {2019},
-  url = {https://maxime.puys.name/publications/pdf/MPT19.pdf}
+  url = {https://maxime.puys.name/pdf/publications/MPT19.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -923,7 +923,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PT19"&gt;5&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt; and P.-H. Thevenon. &lt;b&gt;Les défis posés par la sécurisation de l'iot industriel.&lt;/b&gt; &lt;em&gt;Rendez-Vous de la Recherche et de l'Enseignement de la  Sécurité des Systèmes d'Information, RESSI 2019, Erquy, France&lt;/em&gt;, 2019 &lt;a href="javascript:hideshow(document.getElementById('PT19'))" name="PT19"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PT19.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PT19" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt; and P.-H. Thevenon. &lt;b&gt;Les défis posés par la sécurisation de l'iot industriel.&lt;/b&gt; &lt;em&gt;Rendez-Vous de la Recherche et de l'Enseignement de la  Sécurité des Systèmes d'Information, RESSI 2019, Erquy, France&lt;/em&gt;, 2019 &lt;a href="javascript:hideshow(document.getElementById('PT19'))" name="PT19"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PT19.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PT19" style="display: none;"&gt;
 @inproceedings{PT19,
   author = {Puys, Maxime and
                Thevenon, Pierre-Henri},
@@ -932,7 +932,7 @@
                S{\'e}curit{\'e} des Syst{\`e}mes d'Information, RESSI 2019,
                Erquy, France}},
   year = {2019},
-  url = {https://maxime.puys.name/publications/pdf/PT19.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PT19.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -940,7 +940,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PPR16b"&gt;4&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, M. Potet, and J. Roch. &lt;b&gt;Filtrage et vérification de flux métiers dans les  systèmes industriels.&lt;/b&gt; &lt;em&gt;Rendez-Vous de la Recherche et de l'Enseignement de la  Sécurité des Systèmes d'Information, RESSI 2016, Toulouse,  France&lt;/em&gt;, 2016 &lt;a href="javascript:hideshow(document.getElementById('PPR16b'))" name="PPR16b"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PPR16b.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PPR16b" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, M. Potet, and J. Roch. &lt;b&gt;Filtrage et vérification de flux métiers dans les  systèmes industriels.&lt;/b&gt; &lt;em&gt;Rendez-Vous de la Recherche et de l'Enseignement de la  Sécurité des Systèmes d'Information, RESSI 2016, Toulouse,  France&lt;/em&gt;, 2016 &lt;a href="javascript:hideshow(document.getElementById('PPR16b'))" name="PPR16b"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PPR16b.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PPR16b" style="display: none;"&gt;
 @inproceedings{PPR16b,
   author = {Puys, Maxime and
                Potet, Marie{-}Laure and
@@ -951,7 +951,7 @@
                S{\'e}curit{\'e} des Syst{\`e}mes d'Information, RESSI 2016,
                Toulouse, France}},
   year = {2016},
-  url = {https://maxime.puys.name/publications/pdf/PPR16b.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PPR16b.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -959,7 +959,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PPR16a"&gt;3&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, M. Potet, and J. Roch. &lt;b&gt;Génération systématique de scénarios d'attaques  contre des systèmes industriels.&lt;/b&gt; &lt;em&gt;Approches Formelles dans l'Assistance au Développement  de Logiciels, AFADL 2016, Besançon, France&lt;/em&gt;, 2016 &lt;a href="javascript:hideshow(document.getElementById('PPR16a'))" name="PPR16a"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PPR16a.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PPR16a" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;, M. Potet, and J. Roch. &lt;b&gt;Génération systématique de scénarios d'attaques  contre des systèmes industriels.&lt;/b&gt; &lt;em&gt;Approches Formelles dans l'Assistance au Développement  de Logiciels, AFADL 2016, Besançon, France&lt;/em&gt;, 2016 &lt;a href="javascript:hideshow(document.getElementById('PPR16a'))" name="PPR16a"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PPR16a.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PPR16a" style="display: none;"&gt;
 @inproceedings{PPR16a,
   author = {Puys, Maxime and
                Potet, Marie{-}Laure and
@@ -969,7 +969,7 @@
   booktitle = {{Approches Formelles dans l'Assistance au D{\'e}veloppement de
                Logiciels, AFADL 2016, Besan{\c c}on, France}},
   year = {2016},
-  url = {https://maxime.puys.name/publications/pdf/PPR16a.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PPR16a.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -977,7 +977,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PMPD14b"&gt;2&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Potet, L. Mounier, &lt;u&gt;M. Puys&lt;/u&gt;, and L. Dureuil. &lt;b&gt;Lazart: A symbolic approach for evaluation the robustness of  secured codes against control flow injections.&lt;/b&gt; &lt;em&gt;1er Colloque sur la Confiance Numérique en Auvergne,  Clermont-Ferrand, France&lt;/em&gt;, 2014 &lt;a href="javascript:hideshow(document.getElementById('PMPD14b'))" name="PMPD14b"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PMPD14.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PMPD14b" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Potet, L. Mounier, &lt;u&gt;M. Puys&lt;/u&gt;, and L. Dureuil. &lt;b&gt;Lazart: A symbolic approach for evaluation the robustness of  secured codes against control flow injections.&lt;/b&gt; &lt;em&gt;1er Colloque sur la Confiance Numérique en Auvergne,  Clermont-Ferrand, France&lt;/em&gt;, 2014 &lt;a href="javascript:hideshow(document.getElementById('PMPD14b'))" name="PMPD14b"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PMPD14.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PMPD14b" style="display: none;"&gt;
 @inproceedings{PMPD14b,
   author = {Potet, Marie{-}Laure and
                Mounier, Laurent and
@@ -988,7 +988,7 @@
   booktitle = {{1er Colloque sur la Confiance Num{\'e}rique en Auvergne,
                Clermont-Ferrand, France}},
   year = {2014},
-  url = {https://maxime.puys.name/publications/pdf/PMPD14.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PMPD14.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -996,7 +996,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="PMPD14a"&gt;1&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Potet, L. Mounier, &lt;u&gt;M. Puys&lt;/u&gt;, and L. Dureuil. &lt;b&gt;Lazart: A symbolic approach for evaluation the robustness of  secured codes against control flow injections.&lt;/b&gt; &lt;em&gt;Approches Formelles dans l'Assistance au Développement  de Logiciels, AFADL 2014, Paris, France&lt;/em&gt;, 2014 &lt;a href="javascript:hideshow(document.getElementById('PMPD14a'))" name="PMPD14a"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/publications/pdf/PMPD14.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PMPD14a" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Potet, L. Mounier, &lt;u&gt;M. Puys&lt;/u&gt;, and L. Dureuil. &lt;b&gt;Lazart: A symbolic approach for evaluation the robustness of  secured codes against control flow injections.&lt;/b&gt; &lt;em&gt;Approches Formelles dans l'Assistance au Développement  de Logiciels, AFADL 2014, Paris, France&lt;/em&gt;, 2014 &lt;a href="javascript:hideshow(document.getElementById('PMPD14a'))" name="PMPD14a"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/PMPD14.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="PMPD14a" style="display: none;"&gt;
 @inproceedings{PMPD14a,
   author = {Potet, Marie{-}Laure and
                Mounier, Laurent and
@@ -1007,7 +1007,7 @@
   booktitle = {{Approches Formelles dans l'Assistance au D{\'e}veloppement de
                Logiciels, AFADL 2014, Paris, France}},
   year = {2014},
-  url = {https://maxime.puys.name/publications/pdf/PMPD14.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PMPD14.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;h3&gt;Patents&lt;/h3&gt;
@@ -1041,7 +1041,44 @@
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-    </content><category term="30"></category></entry><entry><title>Links</title><link href="https://maxime.puys.name/links.html" rel="alternate"></link><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/links.html</id><content type="html">&lt;h3&gt;Research&lt;/h3&gt;
+    </content><category term="30"></category></entry><entry><title>Teaching</title><link href="https://maxime.puys.name/teaching.html" rel="alternate"></link><published>2025-03-24T00:00:00+01:00</published><updated>2025-03-24T00:00:00+01:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2025-03-24:/teaching.html</id><content type="html">&lt;p&gt;I mainly teach at IUT Clermont Auvergne and ISIMA, mostly in French.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;All my teaching material is available here, licensed under a &lt;a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.
+Permission is explicitly granted to copy, distribute and/or modify these document for educational purposes under the terms of the CC BY-NC-SA license.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;BUT 3A Symfony&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture 0 -- Administative basics, &lt;a href=""&gt;[Slides]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;BUT 3A Cybersecurity&lt;/h3&gt;
+&lt;h3&gt;ISIMA FISA3 Industrial Systems Cybersecurity&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href="https://en.wikibooks.org/wiki/LaTeX"&gt;LaTeX&lt;/a&gt;] LaTeX Wikibook.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="http://detexify.kirelabs.org/classify.html"&gt;Detexify&lt;/a&gt;] LaTeX symbol
+recognition.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="http://jabref.sourceforge.net/"&gt;JabRef&lt;/a&gt;] BibTeX reference manager.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Vim&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href="http://www.openvim.com/"&gt;Vim&lt;/a&gt;] Vim tutorial.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Scholar&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href="http://www-verimag.imag.fr/~perin/enseignement/Magistere/accueil/"&gt;MIG&lt;/a&gt;]
+Magistère en Informatique de Grenoble.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="http://cybersecurity.imag.fr/"&gt;M2 SAFE&lt;/a&gt;] Master of cybersecurity in
+Grenoble (formerly SAFE master).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Really Miscellaneous&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href="http://www.cdfalbertville.com/"&gt;CDF&lt;/a&gt;] Comité des fêtes de la ville
+d'Albertville.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="http://akwtg.asso.fr/"&gt;AKWTG&lt;/a&gt;] Académie de Kung fu Wushu et Taichi
+chuan de Grenoble.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align="center"&gt;
+    &lt;img src="images/wordcloud.png" /&gt;
+&lt;/p&gt;</content><category term="40"></category></entry><entry><title>Links</title><link href="https://maxime.puys.name/links.html" rel="alternate"></link><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/links.html</id><content type="html">&lt;h3&gt;Research&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;[&lt;a href="http://103.1.187.206/core/"&gt;Core&lt;/a&gt;] Core Conference ranking engine.&lt;/li&gt;
 &lt;li&gt;[&lt;a href="http://www.sherpa.ac.uk/romeo/"&gt;Sherpa/Romeo&lt;/a&gt;] Publisher copyright policies
@@ -1085,4 +1122,4 @@ chuan de Grenoble.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p align="center"&gt;
     &lt;img src="images/wordcloud.png" /&gt;
-&lt;/p&gt;</content><category term="40"></category></entry></feed>
+&lt;/p&gt;</content><category term="50"></category></entry></feed>
