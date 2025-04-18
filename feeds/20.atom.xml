@@ -31,11 +31,11 @@
                         &lt;td style="flex: 22%; text-align: right;"&gt;Teaching and Scientific Supervision&lt;/td&gt;
                         &lt;td style="flex: 78%;"&gt;
                             &lt;ul&gt;
-                                &lt;li&gt;1 defended Ph.D and 2 on-going&lt;/li&gt;
-                                &lt;li&gt;5 articles in international jourals&lt;/li&gt;
-                                &lt;li&gt;19 articles in international conferences&lt;/li&gt;
-                                &lt;li&gt;4 defendd MSc&lt;/li&gt;
-                                &lt;li&gt;Teaching Cybersecurity, UNIX and Web&lt;/li&gt;
+                                &lt;li&gt;2 defended Ph.D and 2 on-going&lt;/li&gt;
+                                &lt;li&gt;6 articles in international jourals&lt;/li&gt;
+                                &lt;li&gt;22 articles in international conferences&lt;/li&gt;
+                                &lt;li&gt;10 defended MSc&lt;/li&gt;
+                                &lt;li&gt;Teaching Cybersecurity, AI and Web&lt;/li&gt;
                             &lt;/ul&gt;
                         &lt;/td&gt;
                     &lt;/tr&gt;
@@ -49,7 +49,7 @@
                                 Since 2023
                         &lt;/td&gt;
                         &lt;td style="flex: 80%;"&gt;
-                            &lt;b&gt;Assistant Professor&lt;/b&gt;&lt;br /&gt;
+                            &lt;b&gt;Associate Professor&lt;/b&gt;&lt;br /&gt;
                             &lt;i class="fa-solid fa-location-dot"&gt;&lt;/i&gt;
                             Univ. Clermont Auvergne, France&lt;br /&gt;
                             Critical IoT Security, ML-based attack detection:
@@ -74,8 +74,6 @@
                             &lt;ul&gt;
                                 &lt;li&gt;IoT/SCADA device security assessment&lt;/li&gt;
                                 &lt;li&gt;Design of lightweight security solutions&lt;/li&gt;
-                                &lt;li&gt;CI/CD for developed product&lt;/li&gt;
-                                &lt;li&gt;Cybersecurity Consulting&lt;/li&gt;
                             &lt;/ul&gt;
                         &lt;/td&gt;
                     &lt;/tr&gt;
@@ -126,6 +124,14 @@
                                     ctx.fillStyle = "#2A70CC";
                                     ctx.fillRect(0, 0, canvas.width*100/100, canvas.height);
                                 &lt;/script&gt;
+                                PHP &lt;span style="float: right;"&gt;70%&lt;/span&gt;
+                                &lt;canvas id="php"&gt;&lt;/canvas&gt;&lt;br /&gt;
+                                &lt;script&gt;
+                                    var canvas = document.getElementById("php");
+                                    var ctx = canvas.getContext("2d");
+                                    ctx.fillStyle = "#2A70CC";
+                                    ctx.fillRect(0, 0, canvas.width*70/100, canvas.height);
+                                &lt;/script&gt;
                                 C &lt;span style="float: right;"&gt;100%&lt;/span&gt;
                                 &lt;canvas id="c"&gt;&lt;/canvas&gt;&lt;br /&gt;
                                 &lt;script&gt;
@@ -134,21 +140,13 @@
                                     ctx.fillStyle = "#2A70CC";
                                     ctx.fillRect(0, 0, canvas.width*100/100, canvas.height);
                                 &lt;/script&gt;
-                                Ocaml &lt;span style="float: right;"&gt;60%&lt;/span&gt;
-                                &lt;canvas id="ocaml"&gt;&lt;/canvas&gt;&lt;br /&gt;
+                                LUA &lt;span style="float: right;"&gt;30%&lt;/span&gt;
+                                &lt;canvas id="lua"&gt;&lt;/canvas&gt;&lt;br /&gt;
                                 &lt;script&gt;
-                                    var canvas = document.getElementById("ocaml");
+                                    var canvas = document.getElementById("lua");
                                     var ctx = canvas.getContext("2d");
                                     ctx.fillStyle = "#2A70CC";
-                                    ctx.fillRect(0, 0, canvas.width*60/100, canvas.height);
-                                &lt;/script&gt;
-                                ASM &lt;span style="float: right;"&gt;40%&lt;/span&gt;
-                                &lt;canvas id="asm"&gt;&lt;/canvas&gt;&lt;br /&gt;
-                                &lt;script&gt;
-                                    var canvas = document.getElementById("asm");
-                                    var ctx = canvas.getContext("2d");
-                                    ctx.fillStyle = "#2A70CC";
-                                    ctx.fillRect(0, 0, canvas.width*40/100, canvas.height);
+                                    ctx.fillRect(0, 0, canvas.width*30/100, canvas.height);
                                 &lt;/script&gt;
                         &lt;/td&gt;
                     &lt;/tr&gt;

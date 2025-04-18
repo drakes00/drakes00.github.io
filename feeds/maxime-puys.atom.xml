@@ -99,11 +99,11 @@
                         &lt;td style="flex: 22%; text-align: right;"&gt;Teaching and Scientific Supervision&lt;/td&gt;
                         &lt;td style="flex: 78%;"&gt;
                             &lt;ul&gt;
-                                &lt;li&gt;1 defended Ph.D and 2 on-going&lt;/li&gt;
-                                &lt;li&gt;5 articles in international jourals&lt;/li&gt;
-                                &lt;li&gt;19 articles in international conferences&lt;/li&gt;
-                                &lt;li&gt;4 defendd MSc&lt;/li&gt;
-                                &lt;li&gt;Teaching Cybersecurity, UNIX and Web&lt;/li&gt;
+                                &lt;li&gt;2 defended Ph.D and 2 on-going&lt;/li&gt;
+                                &lt;li&gt;6 articles in international jourals&lt;/li&gt;
+                                &lt;li&gt;22 articles in international conferences&lt;/li&gt;
+                                &lt;li&gt;10 defended MSc&lt;/li&gt;
+                                &lt;li&gt;Teaching Cybersecurity, AI and Web&lt;/li&gt;
                             &lt;/ul&gt;
                         &lt;/td&gt;
                     &lt;/tr&gt;
@@ -117,7 +117,7 @@
                                 Since 2023
                         &lt;/td&gt;
                         &lt;td style="flex: 80%;"&gt;
-                            &lt;b&gt;Assistant Professor&lt;/b&gt;&lt;br /&gt;
+                            &lt;b&gt;Associate Professor&lt;/b&gt;&lt;br /&gt;
                             &lt;i class="fa-solid fa-location-dot"&gt;&lt;/i&gt;
                             Univ. Clermont Auvergne, France&lt;br /&gt;
                             Critical IoT Security, ML-based attack detection:
@@ -142,8 +142,6 @@
                             &lt;ul&gt;
                                 &lt;li&gt;IoT/SCADA device security assessment&lt;/li&gt;
                                 &lt;li&gt;Design of lightweight security solutions&lt;/li&gt;
-                                &lt;li&gt;CI/CD for developed product&lt;/li&gt;
-                                &lt;li&gt;Cybersecurity Consulting&lt;/li&gt;
                             &lt;/ul&gt;
                         &lt;/td&gt;
                     &lt;/tr&gt;
@@ -194,6 +192,14 @@
                                     ctx.fillStyle = "#2A70CC";
                                     ctx.fillRect(0, 0, canvas.width*100/100, canvas.height);
                                 &lt;/script&gt;
+                                PHP &lt;span style="float: right;"&gt;70%&lt;/span&gt;
+                                &lt;canvas id="php"&gt;&lt;/canvas&gt;&lt;br /&gt;
+                                &lt;script&gt;
+                                    var canvas = document.getElementById("php");
+                                    var ctx = canvas.getContext("2d");
+                                    ctx.fillStyle = "#2A70CC";
+                                    ctx.fillRect(0, 0, canvas.width*70/100, canvas.height);
+                                &lt;/script&gt;
                                 C &lt;span style="float: right;"&gt;100%&lt;/span&gt;
                                 &lt;canvas id="c"&gt;&lt;/canvas&gt;&lt;br /&gt;
                                 &lt;script&gt;
@@ -202,21 +208,13 @@
                                     ctx.fillStyle = "#2A70CC";
                                     ctx.fillRect(0, 0, canvas.width*100/100, canvas.height);
                                 &lt;/script&gt;
-                                Ocaml &lt;span style="float: right;"&gt;60%&lt;/span&gt;
-                                &lt;canvas id="ocaml"&gt;&lt;/canvas&gt;&lt;br /&gt;
+                                LUA &lt;span style="float: right;"&gt;30%&lt;/span&gt;
+                                &lt;canvas id="lua"&gt;&lt;/canvas&gt;&lt;br /&gt;
                                 &lt;script&gt;
-                                    var canvas = document.getElementById("ocaml");
+                                    var canvas = document.getElementById("lua");
                                     var ctx = canvas.getContext("2d");
                                     ctx.fillStyle = "#2A70CC";
-                                    ctx.fillRect(0, 0, canvas.width*60/100, canvas.height);
-                                &lt;/script&gt;
-                                ASM &lt;span style="float: right;"&gt;40%&lt;/span&gt;
-                                &lt;canvas id="asm"&gt;&lt;/canvas&gt;&lt;br /&gt;
-                                &lt;script&gt;
-                                    var canvas = document.getElementById("asm");
-                                    var ctx = canvas.getContext("2d");
-                                    ctx.fillStyle = "#2A70CC";
-                                    ctx.fillRect(0, 0, canvas.width*40/100, canvas.height);
+                                    ctx.fillRect(0, 0, canvas.width*30/100, canvas.height);
                                 &lt;/script&gt;
                         &lt;/td&gt;
                     &lt;/tr&gt;
@@ -356,6 +354,25 @@
 
 
 &lt;td align="right" class="bibtexnumber"&gt;
+[&lt;a name="DMPT25"&gt;6&lt;/a&gt;]
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Da Silva, S. Mocanu, &lt;u&gt;M. Puys&lt;/u&gt;, and P.-H. Thevenon. &lt;b&gt;Safety-security convergence: Automation of iec 62443-3-2.&lt;/b&gt; &lt;em&gt;To appear in: Computers &amp;amp; Security, Elsevier (Rank Sciamago  Q1)&lt;/em&gt;, 2025. &lt;a href="javascript:hideshow(document.getElementById('DMPT25'))" name="DMPT25"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/DMPT25.pdf"&gt;[pdf]&lt;/a&gt;&lt;em&gt;&lt;/em&gt;&lt;pre id="DMPT25" style="display: none;"&gt;
+@article{DMPT25,
+  author = {Da Silva, Mike and
+               Mocanu, Stéphane and
+               Puys, Maxime and
+               Thevenon, Pierre-Henri},
+  title = {Safety-Security Convergence: Automation of IEC 62443-3-2},
+  journal = {To appear in: Computers \&amp;amp; Security, Elsevier (Rank Sciamago Q1)},
+  year = {2025},
+  url = {https://maxime.puys.name/pdf/publications/DMPT25.pdf},
+  ranking = {Sciamago},
+  rank = {Q1}
+}
+&lt;/pre&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
+
+
+&lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="TRDPPES22"&gt;5&lt;/a&gt;]
 &lt;/td&gt;&lt;td class="bibtexitem"&gt;P.-H. Thevenon, S. Riou, D.-M. Tran, &lt;u&gt;M. Puys&lt;/u&gt;, N. F. Polychronou, M. El Majihi,  and C. Sivelle. &lt;b&gt;iMRC: integrated monitoring &amp;amp; recovery component, a solution to  guarantee the security of embedded systems.&lt;/b&gt; &lt;em&gt;Journal of Internet Services and Information Security (JISIS)  (Rank Scimago Q3)&lt;/em&gt;, 13(1):4--32, 2022. &lt;a href="javascript:hideshow(document.getElementById('TRDPPES22'))" name="TRDPPES22"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/TRDPPES22.pdf"&gt;[pdf]&lt;/a&gt;&lt;em&gt;&lt;/em&gt;&lt;pre id="TRDPPES22" style="display: none;"&gt;
 @article{TRDPPES22,
@@ -374,7 +391,9 @@
   number = {1},
   pages = {4--32},
   year = {2022},
-  url = {https://maxime.puys.name/pdf/publications/TRDPPES22.pdf}
+  url = {https://maxime.puys.name/pdf/publications/TRDPPES22.pdf},
+  ranking = {Sciamago},
+  rank = {Q3}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -397,7 +416,9 @@
   number = {1},
   pages = {4--32},
   year = {2022},
-  url = {https://maxime.puys.name/pdf/publications/PTMGS22.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PTMGS22.pdf},
+  ranking = {Sciamago},
+  rank = {Q2}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -418,7 +439,9 @@
   number = {1},
   pages = {1--35},
   year = {2021},
-  url = {https://maxime.puys.name/pdf/publications/PTPB21a.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PTPB21a.pdf},
+  ranking = {Sciamago},
+  rank = {Q2}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -440,7 +463,9 @@
   number = {1},
   pages = {453--470},
   year = {2019},
-  url = {https://maxime.puys.name/pdf/publications/DPPLR18.pdf}
+  url = {https://maxime.puys.name/pdf/publications/DPPLR18.pdf},
+  ranking = {Sciamago},
+  rank = {Q1}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -461,11 +486,32 @@
   number = {1},
   pages = {51--70},
   year = {2017},
-  url = {https://maxime.puys.name/pdf/publications/DLOP17.pdf}
+  url = {https://maxime.puys.name/pdf/publications/DLOP17.pdf},
+  ranking = {Sciamago},
+  rank = {Q1}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;h3&gt;International Peer-Reviewed Conferences with Proceedings&lt;/h3&gt;
 &lt;table&gt;&lt;tr valign="top"&gt;
+
+
+&lt;td align="right" class="bibtexnumber"&gt;
+[&lt;a name="BLMP25"&gt;22&lt;/a&gt;]
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;A. Ben Hassen, P. Lafourcade, D. Mahmoud, and &lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Formal analysis of sdnsec: Attacks and corrections for payload, route  integrity and accountability.&lt;/b&gt; &lt;em&gt;To appear in: 20th ACM ASIA Conference on Computer and  Communications Security (ACM ASIACCS 2025, Rank Core A)&lt;/em&gt;, Hanoi, Vietnam &lt;a href="javascript:hideshow(document.getElementById('BLMP25'))" name="BLMP25"&gt;[bib]&lt;/a&gt;&lt;pre id="BLMP25" style="display: none;"&gt;
+@inproceedings{BLMP25,
+  title = {Formal Analysis of SDNsec: Attacks and Corrections for Payload,
+               Route Integrity and Accountability},
+  author = {Ben Hassen, Ayoub and Lafourcade, Pascal and Mahmoud, Dhekra and
+               Puys, Maxime},
+  booktitle = {To appear in: 20th ACM ASIA Conference on Computer and
+               Communications Security (ACM ASIACCS 2025, Rank Core A)},
+  address = {Hanoi, Vietnam},
+  year = {2025},
+  ranking = {Core},
+  rank = {A}
+}
+&lt;/pre&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
 
 
 &lt;td align="right" class="bibtexnumber"&gt;
@@ -510,7 +556,9 @@
                and Security, {ARES} 2023, Benevento, Italy, Aug. 29 – Sept. 1,
                2023 (Rank Core B)},
   year = {2023},
-  url = {https://maxime.puys.name/pdf/publications/DPTM23.pdf}
+  url = {https://maxime.puys.name/pdf/publications/DPTM23.pdf},
+  ranking = {Core},
+  rank = {B}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -528,7 +576,9 @@
                and Security, {ARES} 2023, Benevento, Italy, Aug. 29 – Sept. 1,
                2023 (Rank Core B)},
   year = {2023},
-  url = {https://maxime.puys.name/pdf/publications/DPTMN23.pdf}
+  url = {https://maxime.puys.name/pdf/publications/DPTMN23.pdf},
+  ranking = {Core},
+  rank = {B}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -562,7 +612,9 @@
   booktitle = {27th Nordic Conference on Secure IT Systems (NordSec), Reykjavik,
                Iceland, Nov. 30 -- Dec. 2, 2022 (Rank ERA C)},
   year = {2022},
-  url = {https://maxime.puys.name/pdf/publications/SDPLF22.pdf}
+  url = {https://maxime.puys.name/pdf/publications/SDPLF22.pdf},
+  ranking = {Core},
+  rank = {C}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -579,7 +631,9 @@
                Palermo, Italy, Sept, 1-3, 2021 (Rank Qualis B1)},
   pages = {355-362},
   year = {2021},
-  url = {https://maxime.puys.name/pdf/publications/PTPB21b.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PTPB21b.pdf},
+  ranking = {Qualis},
+  rank = {B1}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -598,7 +652,9 @@
                Qualis B4)},
   pages = {1--4},
   year = {2021},
-  url = {https://maxime.puys.name/pdf/publications/PTPB21c.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PTPB21c.pdf},
+  ranking = {Qualis},
+  rank = {B4}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -614,7 +670,9 @@
                {ARES} 2021, Vienna, Austria, August 17-20, 2021 (Rank Core B)},
   pages = {1--10},
   year = {2021},
-  url = {https://maxime.puys.name/pdf/publications/PTM21.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PTM21.pdf},
+  ranking = {Core},
+  rank = {B}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -632,7 +690,9 @@
                (Rank Qualis B3)},
   pages = {69--74},
   year = {2020},
-  url = {https://maxime.puys.name/pdf/publications/PKC20.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PKC20.pdf},
+  ranking = {Qualis},
+  rank = {B3}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -656,7 +716,9 @@
                  Proceedings (Rank Core B)},
   pages = {67--88},
   year = {2019},
-  url = {https://maxime.puys.name/pdf/publications/DLFLPP19.pdf}
+  url = {https://maxime.puys.name/pdf/publications/DLFLPP19.pdf},
+  ranking = {Core},
+  rank = {B}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -721,7 +783,9 @@
   pages = {55--66},
   year = {2017},
   note = {Best Student Paper Award},
-  url = {https://maxime.puys.name/pdf/publications/DPPLR17.pdf}
+  url = {https://maxime.puys.name/pdf/publications/DPPLR17.pdf},
+  ranking = {Core},
+  rank = {B}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -740,7 +804,9 @@
                Selected Papers (Rank Core C)},
   pages = {321--327},
   year = {2016},
-  url = {https://maxime.puys.name/pdf/publications/PRP16.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PRP16.pdf},
+  ranking = {Core},
+  rank = {C}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -758,7 +824,9 @@
                {SAFECOMP} 2016, Trondheim, Norway, September 21-23, 2016, Proceedings (Rank Core B)},
   pages = {67--75},
   year = {2016},
-  url = {https://maxime.puys.name/pdf/publications/PPL16.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PPL16.pdf},
+  ranking = {Core},
+  rank = {B}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -779,7 +847,9 @@
   pages = {61--72},
   year = {2016},
   note = {Best Paper Award},
-  url = {https://maxime.puys.name/pdf/publications/DLOP16.pdf}
+  url = {https://maxime.puys.name/pdf/publications/DLOP16.pdf},
+  ranking = {Core},
+  rank = {B}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -863,7 +933,9 @@
                Ohio, {USA} (Core Rank A)},
   pages = {213--222},
   year = {2014},
-  url = {https://maxime.puys.name/pdf/publications/PMPD14.pdf}
+  url = {https://maxime.puys.name/pdf/publications/PMPD14.pdf},
+  ranking = {Core},
+  rank = {A}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;h3&gt;French Peer-Reviewed Conferences with Proceedings&lt;/h3&gt;
