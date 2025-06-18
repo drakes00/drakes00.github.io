@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys - 50</title><link href="https://maxime.puys.name/" rel="alternate"></link><link href="https://maxime.puys.name/feeds/50.atom.xml" rel="self"></link><id>https://maxime.puys.name/</id><updated>2017-07-26T00:00:00+02:00</updated><subtitle>Maître de conférences / Associate Professor</subtitle><entry><title>Links</title><link href="https://maxime.puys.name/links.html" rel="alternate"></link><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/links.html</id><content type="html">&lt;h3&gt;Research&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;[&lt;a href="http://103.1.187.206/core/"&gt;Core&lt;/a&gt;] Core Conference ranking engine.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="http://www.sherpa.ac.uk/romeo/"&gt;Sherpa/Romeo&lt;/a&gt;] Publisher copyright policies
-&amp;amp; self-archiving.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="http://www-verimag.imag.fr/~potet/code-secu-activities.html"&gt;VERIMAG Secu&lt;/a&gt;]
-Code analysis for security evaluation in VERIMAG.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="http://gaelnomade.ujf-grenoble.fr/menu"&gt;G@el&lt;/a&gt;] Access to UJF library
-(restricted access).&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://portal.core.edu.au/conf-ranks/"&gt;Core&lt;/a&gt;] Core Conference Ranking Search Engine.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="http://www.conferenceranks.com/"&gt;Conference Ranks&lt;/a&gt;] Conference Ranking Search Engine.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://openpolicyfinder.jisc.ac.uk/"&gt;Sherpa/Romeo&lt;/a&gt;] Publisher Copyright Policies &amp;amp; Self-archiving.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://sec-deadlines.github.io/"&gt;Sec-deadlines&lt;/a&gt;] Security and Privacy Conference Deadlines.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://people.engr.tamu.edu/guofei/sec_conf_stat.htm"&gt;Guofei&lt;/a&gt;] Computer Security Conference Ranking and Statistic.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="http://jianying.space/conference-ranking.html"&gt;Jianying&lt;/a&gt;] Top Cyber Security Conferences Ranking.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://limos.fr/themes/3"&gt;LIMOS Secu&lt;/a&gt;] LIMOS Cybersecurity Team.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="http://www-verimag.imag.fr/~potet/code-secu-activities.html"&gt;VERIMAG Secu&lt;/a&gt;] Code Analysis for Security Evaluation in VERIMAG.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Free Software Contributions&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;[&lt;a href="https://github.com/FreeOpcUa/python-opcua"&gt;FreeOpcUa&lt;/a&gt;] OpcUa (industrial
-protocol) Python module.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="https://github.com/nccgroup/featherduster"&gt;FeatherDuster&lt;/a&gt;] Cryptanalysis
-Python module.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://github.com/drakes00/remake"&gt;ReMake&lt;/a&gt;] ReMake is a Python-based make-like tool.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://github.com/FreeOpcUa/python-opcua"&gt;FreeOpcUa&lt;/a&gt;] OpcUa (industrial protocol) Python module.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://github.com/nccgroup/featherduster"&gt;FeatherDuster&lt;/a&gt;] Cryptanalysis Python module.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;LaTeX&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;[&lt;a href="https://typst.app/"&gt;Typst&lt;/a&gt;] Typst is a markup-based typesetting system (LaTeX alternative).&lt;/li&gt;
 &lt;li&gt;[&lt;a href="https://en.wikibooks.org/wiki/LaTeX"&gt;LaTeX&lt;/a&gt;] LaTeX Wikibook.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="http://detexify.kirelabs.org/classify.html"&gt;Detexify&lt;/a&gt;] LaTeX symbol
-recognition.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="http://detexify.kirelabs.org/classify.html"&gt;Detexify&lt;/a&gt;] LaTeX symbol recognition.&lt;/li&gt;
 &lt;li&gt;[&lt;a href="http://jabref.sourceforge.net/"&gt;JabRef&lt;/a&gt;] BibTeX reference manager.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Vim&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;[&lt;a href="https://astronvim.com/"&gt;AstroNVim&lt;/a&gt;] Awesome Vim distribution.&lt;/li&gt;
 &lt;li&gt;[&lt;a href="http://www.openvim.com/"&gt;Vim&lt;/a&gt;] Vim tutorial.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Scholar&lt;/h3&gt;
@@ -42,5 +43,9 @@ d'Albertville.&lt;/li&gt;
 chuan de Grenoble.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p align="center"&gt;
-    &lt;img src="images/wordcloud.png" /&gt;
+  &lt;picture&gt;
+    &lt;source srcset="images/wordcloud-dark.png" media="(prefers-color-scheme: dark)"&gt;
+    &lt;source srcset="images/wordcloud-light.png" media="(prefers-color-scheme: light)"&gt;
+    &lt;img src="images/wordcloud-light.png" alt="Themed image"&gt;
+  &lt;/picture&gt;
 &lt;/p&gt;</content><category term="50"></category></entry></feed>

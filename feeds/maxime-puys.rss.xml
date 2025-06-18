@@ -333,20 +333,20 @@
         &lt;/div&gt;
     </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Wed, 26 Jul 2017 21:40:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2017-07-26:/cv.html</guid><category>20</category></item><item><title>Publications</title><link>https://maxime.puys.name/publications.html</link><description>
 &lt;div id="publications"&gt;
-&lt;h3&gt;Ph.D. Thesis&lt;/h3&gt;
+&lt;h3&gt;Thesis&lt;/h3&gt;
 &lt;table&gt;&lt;tr valign="top"&gt;
 
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="phdThesisMaximePuys"&gt;1&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Sécurité des systèmes industriels : filtrage  applicatif et recherche de scénarios d'attaques.&lt;/b&gt; &lt;em&gt;PhD thesis, Communauté Université Grenoble-Alpes&lt;/em&gt;, Feb.  2018. &lt;a href="javascript:hideshow(document.getElementById('phdThesisMaximePuys'))" name="phdThesisMaximePuys"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/phdThesisMaximePuys.pdf"&gt;[pdf]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/slidesPhdThesisMaximePuys.pdf"&gt;[slides]&lt;/a&gt;&lt;pre id="phdThesisMaximePuys" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Sécurité des systèmes industriels : filtrage  applicatif et recherche de scénarios d'attaques.&lt;/b&gt; &lt;em&gt;PhD thesis, Communauté Université Grenoble-Alpes&lt;/em&gt;, Feb.  2018. &lt;a href="javascript:hideshow(document.getElementById('phdThesisMaximePuys'))" name="phdThesisMaximePuys"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/phdThesis/phdThesisMaximePuys.pdf"&gt;[pdf]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/phdThesis/slidesPhdThesisMaximePuys.pdf"&gt;[slides]&lt;/a&gt;&lt;pre id="phdThesisMaximePuys" style="display: none;"&gt;
 @phdthesis{phdThesisMaximePuys,
   author = {Maxime Puys},
   title = {S{\'e}curit{\'e} des syst{\`e}mes industriels : filtrage applicatif et recherche de sc{\'e}narios d'attaques},
   school = {Communaut{\'e} Universit{\'e} Grenoble{-}Alpes},
   year = {2018},
   month = {Feb.},
-  url = {https://maxime.puys.name/pdf/publications/phdThesisMaximePuys.pdf}
+  url = {https://maxime.puys.name/pdf/publications/phdThesis/phdThesisMaximePuys.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;h3&gt;International Peer-Reviewed Journals&lt;/h3&gt;
@@ -497,7 +497,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="BLMP25"&gt;22&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;A. Ben Hassen, P. Lafourcade, D. Mahmoud, and &lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Formal analysis of sdnsec: Attacks and corrections for payload, route  integrity and accountability.&lt;/b&gt; &lt;em&gt;To appear in: 20th ACM ASIA Conference on Computer and  Communications Security (ACM ASIACCS 2025, Rank Core A)&lt;/em&gt;, Hanoi, Vietnam &lt;a href="javascript:hideshow(document.getElementById('BLMP25'))" name="BLMP25"&gt;[bib]&lt;/a&gt;&lt;pre id="BLMP25" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;A. Ben Hassen, P. Lafourcade, D. Mahmoud, and &lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Formal analysis of sdnsec: Attacks and corrections for payload, route  integrity and accountability.&lt;/b&gt; &lt;em&gt;To appear in: 20th ACM ASIA Conference on Computer and  Communications Security (ACM ASIACCS 2025, Rank Core A)&lt;/em&gt;, Hanoi, Vietnam &lt;a href="javascript:hideshow(document.getElementById('BLMP25'))" name="BLMP25"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/BLMP25.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="BLMP25" style="display: none;"&gt;
 @inproceedings{BLMP25,
   title = {Formal Analysis of SDNsec: Attacks and Corrections for Payload,
                Route Integrity and Accountability},
@@ -508,7 +508,8 @@
   address = {Hanoi, Vietnam},
   year = {2025},
   ranking = {Core},
-  rank = {A}
+  rank = {A},
+  url = {https://maxime.puys.name/pdf/publications/BLMP25.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
@@ -1141,30 +1142,31 @@ Permission is explicitly granted to copy, distribute and/or modify these documen
 &lt;li&gt;Lecture 5 -- MODBUS protocol, &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/lectures/5/cours_seciiot_3a_5.pdf"&gt;[Slides]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/labs/5/lab5.md"&gt;[Lab5]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Mon, 24 Mar 2025 00:00:00 +0100</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2025-03-24:/teaching.html</guid><category>40</category></item><item><title>Links</title><link>https://maxime.puys.name/links.html</link><description>&lt;h3&gt;Research&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;[&lt;a href="http://103.1.187.206/core/"&gt;Core&lt;/a&gt;] Core Conference ranking engine.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="http://www.sherpa.ac.uk/romeo/"&gt;Sherpa/Romeo&lt;/a&gt;] Publisher copyright policies
-&amp;amp; self-archiving.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="http://www-verimag.imag.fr/~potet/code-secu-activities.html"&gt;VERIMAG Secu&lt;/a&gt;]
-Code analysis for security evaluation in VERIMAG.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="http://gaelnomade.ujf-grenoble.fr/menu"&gt;G@el&lt;/a&gt;] Access to UJF library
-(restricted access).&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://portal.core.edu.au/conf-ranks/"&gt;Core&lt;/a&gt;] Core Conference Ranking Search Engine.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="http://www.conferenceranks.com/"&gt;Conference Ranks&lt;/a&gt;] Conference Ranking Search Engine.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://openpolicyfinder.jisc.ac.uk/"&gt;Sherpa/Romeo&lt;/a&gt;] Publisher Copyright Policies &amp;amp; Self-archiving.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://sec-deadlines.github.io/"&gt;Sec-deadlines&lt;/a&gt;] Security and Privacy Conference Deadlines.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://people.engr.tamu.edu/guofei/sec_conf_stat.htm"&gt;Guofei&lt;/a&gt;] Computer Security Conference Ranking and Statistic.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="http://jianying.space/conference-ranking.html"&gt;Jianying&lt;/a&gt;] Top Cyber Security Conferences Ranking.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://limos.fr/themes/3"&gt;LIMOS Secu&lt;/a&gt;] LIMOS Cybersecurity Team.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="http://www-verimag.imag.fr/~potet/code-secu-activities.html"&gt;VERIMAG Secu&lt;/a&gt;] Code Analysis for Security Evaluation in VERIMAG.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Free Software Contributions&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;[&lt;a href="https://github.com/FreeOpcUa/python-opcua"&gt;FreeOpcUa&lt;/a&gt;] OpcUa (industrial
-protocol) Python module.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="https://github.com/nccgroup/featherduster"&gt;FeatherDuster&lt;/a&gt;] Cryptanalysis
-Python module.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://github.com/drakes00/remake"&gt;ReMake&lt;/a&gt;] ReMake is a Python-based make-like tool.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://github.com/FreeOpcUa/python-opcua"&gt;FreeOpcUa&lt;/a&gt;] OpcUa (industrial protocol) Python module.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://github.com/nccgroup/featherduster"&gt;FeatherDuster&lt;/a&gt;] Cryptanalysis Python module.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;LaTeX&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;[&lt;a href="https://typst.app/"&gt;Typst&lt;/a&gt;] Typst is a markup-based typesetting system (LaTeX alternative).&lt;/li&gt;
 &lt;li&gt;[&lt;a href="https://en.wikibooks.org/wiki/LaTeX"&gt;LaTeX&lt;/a&gt;] LaTeX Wikibook.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="http://detexify.kirelabs.org/classify.html"&gt;Detexify&lt;/a&gt;] LaTeX symbol
-recognition.&lt;/li&gt;
+&lt;li&gt;[&lt;a href="http://detexify.kirelabs.org/classify.html"&gt;Detexify&lt;/a&gt;] LaTeX symbol recognition.&lt;/li&gt;
 &lt;li&gt;[&lt;a href="http://jabref.sourceforge.net/"&gt;JabRef&lt;/a&gt;] BibTeX reference manager.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Vim&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;[&lt;a href="https://astronvim.com/"&gt;AstroNVim&lt;/a&gt;] Awesome Vim distribution.&lt;/li&gt;
 &lt;li&gt;[&lt;a href="http://www.openvim.com/"&gt;Vim&lt;/a&gt;] Vim tutorial.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Scholar&lt;/h3&gt;
@@ -1182,5 +1184,9 @@ d'Albertville.&lt;/li&gt;
 chuan de Grenoble.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p align="center"&gt;
-    &lt;img src="images/wordcloud.png" /&gt;
+  &lt;picture&gt;
+    &lt;source srcset="images/wordcloud-dark.png" media="(prefers-color-scheme: dark)"&gt;
+    &lt;source srcset="images/wordcloud-light.png" media="(prefers-color-scheme: light)"&gt;
+    &lt;img src="images/wordcloud-light.png" alt="Themed image"&gt;
+  &lt;/picture&gt;
 &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Wed, 26 Jul 2017 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2017-07-26:/links.html</guid><category>50</category></item></channel></rss>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys - 30</title><link href="https://maxime.puys.name/" rel="alternate"></link><link href="https://maxime.puys.name/feeds/30.atom.xml" rel="self"></link><id>https://maxime.puys.name/</id><updated>2017-07-25T21:40:00+02:00</updated><subtitle>Maître de conférences / Associate Professor</subtitle><entry><title>Publications</title><link href="https://maxime.puys.name/publications.html" rel="alternate"></link><published>2017-07-25T21:40:00+02:00</published><updated>2017-07-25T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-25:/publications.html</id><content type="html">
 &lt;div id="publications"&gt;
-&lt;h3&gt;Ph.D. Thesis&lt;/h3&gt;
+&lt;h3&gt;Thesis&lt;/h3&gt;
 &lt;table&gt;&lt;tr valign="top"&gt;
 
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="phdThesisMaximePuys"&gt;1&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Sécurité des systèmes industriels : filtrage  applicatif et recherche de scénarios d'attaques.&lt;/b&gt; &lt;em&gt;PhD thesis, Communauté Université Grenoble-Alpes&lt;/em&gt;, Feb.  2018. &lt;a href="javascript:hideshow(document.getElementById('phdThesisMaximePuys'))" name="phdThesisMaximePuys"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/phdThesisMaximePuys.pdf"&gt;[pdf]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/slidesPhdThesisMaximePuys.pdf"&gt;[slides]&lt;/a&gt;&lt;pre id="phdThesisMaximePuys" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Sécurité des systèmes industriels : filtrage  applicatif et recherche de scénarios d'attaques.&lt;/b&gt; &lt;em&gt;PhD thesis, Communauté Université Grenoble-Alpes&lt;/em&gt;, Feb.  2018. &lt;a href="javascript:hideshow(document.getElementById('phdThesisMaximePuys'))" name="phdThesisMaximePuys"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/phdThesis/phdThesisMaximePuys.pdf"&gt;[pdf]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/phdThesis/slidesPhdThesisMaximePuys.pdf"&gt;[slides]&lt;/a&gt;&lt;pre id="phdThesisMaximePuys" style="display: none;"&gt;
 @phdthesis{phdThesisMaximePuys,
   author = {Maxime Puys},
   title = {S{\'e}curit{\'e} des syst{\`e}mes industriels : filtrage applicatif et recherche de sc{\'e}narios d'attaques},
   school = {Communaut{\'e} Universit{\'e} Grenoble{-}Alpes},
   year = {2018},
   month = {Feb.},
-  url = {https://maxime.puys.name/pdf/publications/phdThesisMaximePuys.pdf}
+  url = {https://maxime.puys.name/pdf/publications/phdThesis/phdThesisMaximePuys.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;h3&gt;International Peer-Reviewed Journals&lt;/h3&gt;
@@ -165,7 +165,7 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="BLMP25"&gt;22&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;A. Ben Hassen, P. Lafourcade, D. Mahmoud, and &lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Formal analysis of sdnsec: Attacks and corrections for payload, route  integrity and accountability.&lt;/b&gt; &lt;em&gt;To appear in: 20th ACM ASIA Conference on Computer and  Communications Security (ACM ASIACCS 2025, Rank Core A)&lt;/em&gt;, Hanoi, Vietnam &lt;a href="javascript:hideshow(document.getElementById('BLMP25'))" name="BLMP25"&gt;[bib]&lt;/a&gt;&lt;pre id="BLMP25" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;A. Ben Hassen, P. Lafourcade, D. Mahmoud, and &lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Formal analysis of sdnsec: Attacks and corrections for payload, route  integrity and accountability.&lt;/b&gt; &lt;em&gt;To appear in: 20th ACM ASIA Conference on Computer and  Communications Security (ACM ASIACCS 2025, Rank Core A)&lt;/em&gt;, Hanoi, Vietnam &lt;a href="javascript:hideshow(document.getElementById('BLMP25'))" name="BLMP25"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/BLMP25.pdf"&gt;[pdf]&lt;/a&gt;&lt;pre id="BLMP25" style="display: none;"&gt;
 @inproceedings{BLMP25,
   title = {Formal Analysis of SDNsec: Attacks and Corrections for Payload,
                Route Integrity and Accountability},
@@ -176,7 +176,8 @@
   address = {Hanoi, Vietnam},
   year = {2025},
   ranking = {Core},
-  rank = {A}
+  rank = {A},
+  url = {https://maxime.puys.name/pdf/publications/BLMP25.pdf}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
