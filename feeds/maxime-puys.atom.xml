@@ -550,14 +550,15 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="DPTM23"&gt;19&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Da Silva, &lt;u&gt;M. Puys&lt;/u&gt;, P.-H. Thevenon, and S. Mocanu. &lt;b&gt;Plc logic-based cybersecurity risks identification for ics.&lt;/b&gt; &lt;em&gt;The 18th International Conference on Availability,  Reliability and Security, ARES 2023, Benevento, Italy, Aug. 29 – Sept. 1,  2023 (Rank Core B)&lt;/em&gt;, 2023 &lt;a href="javascript:hideshow(document.getElementById('DPTM23'))" name="DPTM23"&gt;[bib]&lt;/a&gt; &lt;a href="https://hal.science/hal-04165414v1"&gt;[pdf]&lt;/a&gt;&lt;pre id="DPTM23" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Da Silva, &lt;u&gt;M. Puys&lt;/u&gt;, P.-H. Thevenon, and S. Mocanu. &lt;b&gt;Plc logic-based cybersecurity risks identification for ics.&lt;/b&gt; &lt;em&gt;The 18th International Conference on Availability,  Reliability and Security, ARES 2023 (Rank Core B) - Workshop on  Cybersecurity in Industry 4.0 (SecIndustry 2023), Benevento, Italy, Aug. 29  – Sept. 1, 2023&lt;/em&gt;, 2023 &lt;a href="javascript:hideshow(document.getElementById('DPTM23'))" name="DPTM23"&gt;[bib]&lt;/a&gt; &lt;a href="https://hal.science/hal-04165414v1"&gt;[pdf]&lt;/a&gt;&lt;pre id="DPTM23" style="display: none;"&gt;
 @inproceedings{DPTM23,
   title = {PLC Logic-Based Cybersecurity Risks Identification for ICS},
   author = {Da Silva, Mike and Puys, Maxime and Thevenon, Pierre-Henri and
                Mocanu, St\'{e}phane},
   booktitle = {The 18th International Conference on Availability, Reliability
-               and Security, {ARES} 2023, Benevento, Italy, Aug. 29 – Sept. 1,
-               2023 (Rank Core B)},
+               and Security, {ARES} 2023 (Rank Core B) - Workshop on
+               Cybersecurity in Industry 4.0 ({SecIndustry} 2023), Benevento,
+               Italy, Aug. 29 – Sept. 1, 2023},
   year = {2023},
   url = {https://hal.science/hal-04165414v1},
   ranking = {Core},
@@ -569,15 +570,16 @@
 
 &lt;td align="right" class="bibtexnumber"&gt;
 [&lt;a name="DPTMN23"&gt;18&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Da Silva, &lt;u&gt;M. Puys&lt;/u&gt;, P.-H. Thevenon, S. Mocanu, and N. Nkawa. &lt;b&gt;Automated ics template for stride microsoft threat modeling tool.&lt;/b&gt; &lt;em&gt;The 18th International Conference on Availability,  Reliability and Security, ARES 2023, Benevento, Italy, Aug. 29 – Sept. 1,  2023 (Rank Core B)&lt;/em&gt;, 2023 &lt;a href="javascript:hideshow(document.getElementById('DPTMN23'))" name="DPTMN23"&gt;[bib]&lt;/a&gt; &lt;a href="https://hal.science/hal-04165419v1"&gt;[pdf]&lt;/a&gt;&lt;pre id="DPTMN23" style="display: none;"&gt;
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Da Silva, &lt;u&gt;M. Puys&lt;/u&gt;, P.-H. Thevenon, S. Mocanu, and N. Nkawa. &lt;b&gt;Automated ics template for stride microsoft threat modeling tool.&lt;/b&gt; &lt;em&gt;The 18th International Conference on Availability,  Reliability and Security, ARES 2023 (Rank Core B) - Workshop on  Cybersecurity in Industry 4.0 (SecIndustry 2023), Benevento, Italy, Aug. 29  – Sept. 1, 2023&lt;/em&gt;, 2023 &lt;a href="javascript:hideshow(document.getElementById('DPTMN23'))" name="DPTMN23"&gt;[bib]&lt;/a&gt; &lt;a href="https://hal.science/hal-04165419v1"&gt;[pdf]&lt;/a&gt;&lt;pre id="DPTMN23" style="display: none;"&gt;
 @inproceedings{DPTMN23,
   title = {Automated ICS template for STRIDE Microsoft Threat Modeling
                Tool},
   author = {Da Silva, Mike and Puys, Maxime and Thevenon, Pierre-Henri and
                Mocanu, St\'{e}phane and Nkawa, Nelson},
   booktitle = {The 18th International Conference on Availability, Reliability
-               and Security, {ARES} 2023, Benevento, Italy, Aug. 29 – Sept. 1,
-               2023 (Rank Core B)},
+               and Security, {ARES} 2023 (Rank Core B) - Workshop on
+               Cybersecurity in Industry 4.0 ({SecIndustry} 2023), Benevento,
+               Italy, Aug. 29 – Sept. 1, 2023},
   year = {2023},
   url = {https://hal.science/hal-04165419v1},
   ranking = {Core},
