@@ -57,8 +57,6 @@
                                 &lt;li&gt;Industrial Control Systems / SCADA&lt;/li&gt;
                                 &lt;li&gt;IoT and Network Cybersecurity&lt;/li&gt;
                                 &lt;li&gt;ML-based attack detection&lt;/li&gt;
-                                &lt;li&gt;Supervised and unsupervised ML&lt;/li&gt;
-                                &lt;li&gt;Embedded ML&lt;/li&gt;
                             &lt;/ul&gt;
                         &lt;/td&gt;
                     &lt;/tr&gt;
@@ -114,7 +112,7 @@
                         &lt;/td&gt;
                     &lt;/tr&gt;
                     &lt;tr&gt;
-                        &lt;td&gt;Programming&lt;/td&gt;
+                        &lt;td&gt;Development&lt;/td&gt;
                         &lt;td&gt;
                                 Python &lt;span style="float: right;"&gt;100%&lt;/span&gt;
                                 &lt;canvas id="python"&gt;&lt;/canvas&gt;&lt;br /&gt;
@@ -132,13 +130,13 @@
                                     ctx.fillStyle = "#2A70CC";
                                     ctx.fillRect(0, 0, canvas.width*70/100, canvas.height);
                                 &lt;/script&gt;
-                                C &lt;span style="float: right;"&gt;100%&lt;/span&gt;
+                                C &lt;span style="float: right;"&gt;70%&lt;/span&gt;
                                 &lt;canvas id="c"&gt;&lt;/canvas&gt;&lt;br /&gt;
                                 &lt;script&gt;
                                     var canvas = document.getElementById("c");
                                     var ctx = canvas.getContext("2d");
                                     ctx.fillStyle = "#2A70CC";
-                                    ctx.fillRect(0, 0, canvas.width*100/100, canvas.height);
+                                    ctx.fillRect(0, 0, canvas.width*70/100, canvas.height);
                                 &lt;/script&gt;
                                 LUA &lt;span style="float: right;"&gt;30%&lt;/span&gt;
                                 &lt;canvas id="lua"&gt;&lt;/canvas&gt;&lt;br /&gt;

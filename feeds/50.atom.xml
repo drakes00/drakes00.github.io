@@ -1,51 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys - 50</title><link href="https://maxime.puys.name/" rel="alternate"></link><link href="https://maxime.puys.name/feeds/50.atom.xml" rel="self"></link><id>https://maxime.puys.name/</id><updated>2017-07-26T00:00:00+02:00</updated><subtitle>Maître de conférences / Associate Professor</subtitle><entry><title>Links</title><link href="https://maxime.puys.name/links.html" rel="alternate"></link><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/links.html</id><content type="html">&lt;h3&gt;Research&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys - 50</title><link href="https://maxime.puys.name/" rel="alternate"></link><link href="https://maxime.puys.name/feeds/50.atom.xml" rel="self"></link><id>https://maxime.puys.name/</id><updated>2025-03-24T00:00:00+01:00</updated><subtitle>Maître de conférences / Associate Professor</subtitle><entry><title>Teaching</title><link href="https://maxime.puys.name/teaching.html" rel="alternate"></link><published>2025-03-24T00:00:00+01:00</published><updated>2025-03-24T00:00:00+01:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2025-03-24:/teaching.html</id><content type="html">&lt;p&gt;I mainly teach at IUT Clermont Auvergne and ISIMA, mostly in French.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;All my teaching material is available here, licensed under a &lt;a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.
+Permission is explicitly granted to copy, distribute and/or modify these document for educational purposes under the terms of the CC BY-NC-SA license.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;BUT 3A Symfony&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;[&lt;a href="https://portal.core.edu.au/conf-ranks/"&gt;Core&lt;/a&gt;] Core Conference Ranking Search Engine.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="http://www.conferenceranks.com/"&gt;Conference Ranks&lt;/a&gt;] Conference Ranking Search Engine.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="https://openpolicyfinder.jisc.ac.uk/"&gt;Sherpa/Romeo&lt;/a&gt;] Publisher Copyright Policies &amp;amp; Self-archiving.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="https://sec-deadlines.github.io/"&gt;Sec-deadlines&lt;/a&gt;] Security and Privacy Conference Deadlines.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="https://people.engr.tamu.edu/guofei/sec_conf_stat.htm"&gt;Guofei&lt;/a&gt;] Computer Security Conference Ranking and Statistic.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="http://jianying.space/conference-ranking.html"&gt;Jianying&lt;/a&gt;] Top Cyber Security Conferences Ranking.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="https://limos.fr/themes/3"&gt;LIMOS Secu&lt;/a&gt;] LIMOS Cybersecurity Team.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="http://www-verimag.imag.fr/~potet/code-secu-activities.html"&gt;VERIMAG Secu&lt;/a&gt;] Code Analysis for Security Evaluation in VERIMAG.&lt;/li&gt;
+&lt;li&gt;Lecture 0 -- Administative basics, &lt;a href="https://maxime.puys.name/pdf/teaching/but_3a_symfony/lectures/0/cours_symfony_3a_0.pdf"&gt;[Slides]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lecture 1 -- Introduction, &lt;a href="https://maxime.puys.name/pdf/teaching/but_3a_symfony/lectures/1/cours_symfony_3a_1.pdf"&gt;[Slides]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/teaching/but_3a_symfony/labs/1/lab1.md"&gt;[Lab1]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lecture 2 -- Routing, Services, &lt;a href="https://maxime.puys.name/pdf/teaching/but_3a_symfony/lectures/2/cours_symfony_3a_2.pdf"&gt;[Slides]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/teaching/but_3a_symfony/labs/2/lab2.md"&gt;[Lab2]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lecture 3 -- Doctrine, Twig, &lt;a href="https://maxime.puys.name/pdf/teaching/but_3a_symfony/lectures/3/cours_symfony_3a_3.pdf"&gt;[Slides]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/teaching/but_3a_symfony/labs/3/lab3_doctrine.md"&gt;[Lab3.1]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/teaching/but_3a_symfony/labs/3/lab3_twig.md"&gt;[Lab3.2]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lecture 4 -- Microservices, API platform, &lt;a href="https://maxime.puys.name/pdf/teaching/but_3a_symfony/lectures/4/cours_symfony_3a_4.pdf"&gt;[Slides]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/teaching/but_3a_symfony/labs/4/lab4.md"&gt;[Lab4]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lecture 5 -- Symfony Security, &lt;a href="https://maxime.puys.name/pdf/teaching/but_3a_symfony/lectures/5/cours_symfony_3a_5.pdf"&gt;[Slides]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/teaching/but_3a_symfony/labs/5/lab5.md"&gt;[Lab5]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Free Software Contributions&lt;/h3&gt;
+&lt;h3&gt;BUT 3A Cybersecurity&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;[&lt;a href="https://github.com/drakes00/remake"&gt;ReMake&lt;/a&gt;] ReMake is a Python-based make-like tool.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="https://github.com/FreeOpcUa/python-opcua"&gt;FreeOpcUa&lt;/a&gt;] OpcUa (industrial protocol) Python module.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="https://github.com/nccgroup/featherduster"&gt;FeatherDuster&lt;/a&gt;] Cryptanalysis Python module.&lt;/li&gt;
+&lt;li&gt;All ressources are available &lt;a href="https://sancy.iut.uca.fr/~lafourcade/3A-Securite.html"&gt;here&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;LaTeX&lt;/h3&gt;
+&lt;h3&gt;ISIMA FISA3 Industrial Systems Cybersecurity&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;[&lt;a href="https://typst.app/"&gt;Typst&lt;/a&gt;] Typst is a markup-based typesetting system (LaTeX alternative).&lt;/li&gt;
-&lt;li&gt;[&lt;a href="https://en.wikibooks.org/wiki/LaTeX"&gt;LaTeX&lt;/a&gt;] LaTeX Wikibook.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="http://detexify.kirelabs.org/classify.html"&gt;Detexify&lt;/a&gt;] LaTeX symbol recognition.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="http://jabref.sourceforge.net/"&gt;JabRef&lt;/a&gt;] BibTeX reference manager.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Vim&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;[&lt;a href="https://astronvim.com/"&gt;AstroNVim&lt;/a&gt;] Awesome Vim distribution.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="http://www.openvim.com/"&gt;Vim&lt;/a&gt;] Vim tutorial.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Scholar&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;[&lt;a href="http://www-verimag.imag.fr/~perin/enseignement/Magistere/accueil/"&gt;MIG&lt;/a&gt;]
-Magistère en Informatique de Grenoble.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="http://cybersecurity.imag.fr/"&gt;M2 SAFE&lt;/a&gt;] Master of cybersecurity in
-Grenoble (formerly SAFE master).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Really Miscellaneous&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;[&lt;a href="http://www.cdfalbertville.com/"&gt;CDF&lt;/a&gt;] Comité des fêtes de la ville
-d'Albertville.&lt;/li&gt;
-&lt;li&gt;[&lt;a href="http://akwtg.asso.fr/"&gt;AKWTG&lt;/a&gt;] Académie de Kung fu Wushu et Taichi
-chuan de Grenoble.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p align="center"&gt;
-  &lt;picture&gt;
-    &lt;source srcset="images/wordcloud-dark.png" media="(prefers-color-scheme: dark)"&gt;
-    &lt;source srcset="images/wordcloud-light.png" media="(prefers-color-scheme: light)"&gt;
-    &lt;img src="images/wordcloud-light.png" alt="Themed image"&gt;
-  &lt;/picture&gt;
-&lt;/p&gt;</content><category term="50"></category></entry></feed>
+&lt;li&gt;Lecture 0 -- Administative basics, &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/lectures/0/cours_seciiot_3a_0.pdf"&gt;[Slides]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lecture 1 -- Introduction basics, &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/lectures/1/cours_seciiot_3a_1.pdf"&gt;[Slides]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lecture 2 -- Industrial Systems Architectures, &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/lectures/2/cours_seciiot_3a_2.pdf"&gt;[Slides]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lecture 3 -- Safety/Security Risk Analyzes, &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/lectures/3/cours_seciiot_3a_3.pdf"&gt;[Slides]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lecture 4 -- CAN buses, &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/lectures/4/cours_seciiot_3a_4.pdf"&gt;[Slides]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/labs/4/lab4.md"&gt;[Lab4]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lecture 5 -- MODBUS protocol, &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/lectures/5/cours_seciiot_3a_5.pdf"&gt;[Slides]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/labs/5/lab5.md"&gt;[Lab5]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="50"></category></entry></feed>

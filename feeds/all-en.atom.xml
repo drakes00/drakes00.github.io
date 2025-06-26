@@ -125,8 +125,6 @@
                                 &lt;li&gt;Industrial Control Systems / SCADA&lt;/li&gt;
                                 &lt;li&gt;IoT and Network Cybersecurity&lt;/li&gt;
                                 &lt;li&gt;ML-based attack detection&lt;/li&gt;
-                                &lt;li&gt;Supervised and unsupervised ML&lt;/li&gt;
-                                &lt;li&gt;Embedded ML&lt;/li&gt;
                             &lt;/ul&gt;
                         &lt;/td&gt;
                     &lt;/tr&gt;
@@ -182,7 +180,7 @@
                         &lt;/td&gt;
                     &lt;/tr&gt;
                     &lt;tr&gt;
-                        &lt;td&gt;Programming&lt;/td&gt;
+                        &lt;td&gt;Development&lt;/td&gt;
                         &lt;td&gt;
                                 Python &lt;span style="float: right;"&gt;100%&lt;/span&gt;
                                 &lt;canvas id="python"&gt;&lt;/canvas&gt;&lt;br /&gt;
@@ -200,13 +198,13 @@
                                     ctx.fillStyle = "#2A70CC";
                                     ctx.fillRect(0, 0, canvas.width*70/100, canvas.height);
                                 &lt;/script&gt;
-                                C &lt;span style="float: right;"&gt;100%&lt;/span&gt;
+                                C &lt;span style="float: right;"&gt;70%&lt;/span&gt;
                                 &lt;canvas id="c"&gt;&lt;/canvas&gt;&lt;br /&gt;
                                 &lt;script&gt;
                                     var canvas = document.getElementById("c");
                                     var ctx = canvas.getContext("2d");
                                     ctx.fillStyle = "#2A70CC";
-                                    ctx.fillRect(0, 0, canvas.width*100/100, canvas.height);
+                                    ctx.fillRect(0, 0, canvas.width*70/100, canvas.height);
                                 &lt;/script&gt;
                                 LUA &lt;span style="float: right;"&gt;30%&lt;/span&gt;
                                 &lt;canvas id="lua"&gt;&lt;/canvas&gt;&lt;br /&gt;
@@ -1120,7 +1118,229 @@
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-    </content><category term="30"></category></entry><entry><title>Teaching</title><link href="https://maxime.puys.name/teaching.html" rel="alternate"></link><published>2025-03-24T00:00:00+01:00</published><updated>2025-03-24T00:00:00+01:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2025-03-24:/teaching.html</id><content type="html">&lt;p&gt;I mainly teach at IUT Clermont Auvergne and ISIMA, mostly in French.&lt;/p&gt;
+    </content><category term="30"></category></entry><entry><title>Overview of my Research Topics</title><link href="https://maxime.puys.name/research.html" rel="alternate"></link><published>2017-07-26T21:40:00+02:00</published><updated>2017-07-26T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/research.html</id><content type="html">
+        &lt;p&gt;My research focuses on the cybersecurity of industrial and critical
+        Internet of Things (IoT) (ICS, medical devices, connected vehicles,
+        smart cities). The goal is to analyze how cyberattacks compromise the
+        safety of these systems, meaning their reliable and safe operation.&lt;/p&gt;
+
+        &lt;p&gt;With the rise of Industry 4.0, IoT is expanding into critical
+        domains, increasing cyberattacks (e.g., Stuxnet, Mirai). These systems,
+        unlike classical IT systems, prioritize process availability and
+        safety. The major challenge is the joint study of safety and and
+        security, often interconnected and potentially antagonistic, especially
+        since current tools rarely manage them together due to combinatorial
+        complexity.&lt;/p&gt;
+
+        &lt;p&gt;My research areas are:&lt;/p&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Industrial and critical IoT security:&lt;/strong&gt; Analysis
+            of industrial IoT vulnerabilities and development of
+            safety-security risk analysis methods, including digital
+            twins.&lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Formal verification of industrial protocols:&lt;/strong&gt;
+            Validation that industrial protocols ensure secrecy,
+            authentication, and integrity against intrusions through formal
+            verification.&lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Host intrusion detection in embedded systems:&lt;/strong&gt;
+            Development of machine learning-based mechanisms to detect
+            microarchitectural attacks.&lt;/li&gt;
+        &lt;/ul&gt;
+    </content><category term="40"></category></entry><entry><title>Student Supervision</title><link href="https://maxime.puys.name/research-students.html" rel="alternate"></link><published>2017-07-26T21:40:00+02:00</published><updated>2017-07-26T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/research-students.html</id><content type="html">
+        I generally supervise many student projects each year (about 5 to 10
+        students each year) for various subjects and at various levels. Here are
+        the Ph.D students and Master 2 students I supervised.
+
+        &lt;h3&gt;Ph.D Students&lt;/h3&gt;
+
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;2019 - 2022:&lt;/strong&gt; Nikolaos Foivos Polychronou&lt;/li&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;strong&gt;Title:&lt;/strong&gt; &amp;quot;Detection of Micro-Architectural Attacks in Resource-Limited Devices with a Local-Remote Security Mechanism&amp;quot;&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Defended on:&lt;/strong&gt; &amp;quot;2023-01-16&amp;quot;&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Prepared in:&lt;/strong&gt; &amp;quot;CEA-LETI, Grenoble, France&amp;quot;&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;University:&lt;/strong&gt; &amp;quot;Univ. Grenoble Alpes&amp;quot;&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; &amp;quot;CEA-LETI&amp;quot;&lt;/li&gt;
+            &lt;table class="jury-table"&gt;
+                &lt;tr&gt;
+                    &lt;td class="jury-label"&gt;Jury:&lt;/td&gt;
+                    &lt;td class="jury-details"&gt;
+                        Guy Gogniat, Prof. Université Bretagne Sud, &lt;em&gt;Reviewer&lt;/em&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;/td&gt;                     &lt;td class="jury-details"&gt;
+                            Lilian Bossuet, Prof. Université Jean Monnet, &lt;em&gt;Reviewer&lt;/em&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;/td&gt;                     &lt;td class="jury-details"&gt;
+                            Laure Gonnord, Prof. Grenoble INP, &lt;em&gt;Examiner&lt;/em&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;/td&gt;                     &lt;td class="jury-details"&gt;
+                            Gilles Sassatelli, DR CNRS/Université of Montpellier, &lt;em&gt;President&lt;/em&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;/td&gt;                     &lt;td class="jury-details"&gt;
+                            Vincent Beroulle, Prof. Grenoble INP, &lt;em&gt;Supervisor&lt;/em&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;/td&gt;                     &lt;td class="jury-details"&gt;
+                            Pierre-Henri Thevenon, CEA-LETI, &lt;em&gt;Advisor&lt;/em&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;/td&gt;                     &lt;td class="jury-details"&gt;
+                            &lt;u&gt;Maxime Puys&lt;/u&gt;, CEA-LETI, &lt;em&gt;Advisor&lt;/em&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+            &lt;/ul&gt;
+        &lt;/ul&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;2021 - 2024:&lt;/strong&gt; Mike Da Silva&lt;/li&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;strong&gt;Title:&lt;/strong&gt; &amp;quot;Safety-Security Convergence of Industrial Control Systems: Cybersecurity Risk Assessment for System Safety&amp;quot;&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Defended on:&lt;/strong&gt; &amp;quot;2024-10-15&amp;quot;&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Prepared in:&lt;/strong&gt; &amp;quot;CEA-LETI, Grenoble, France&amp;quot;&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;University:&lt;/strong&gt; &amp;quot;Univ. Grenoble Alpes&amp;quot;&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; &amp;quot;CEA-LETI&amp;quot;&lt;/li&gt;
+            &lt;table class="jury-table"&gt;
+                &lt;tr&gt;
+                    &lt;td class="jury-label"&gt;Jury:&lt;/td&gt;
+                    &lt;td class="jury-details"&gt;
+                        Vincent Nicomette, Prof. INSA de Toulouse, &lt;em&gt;Reviewer&lt;/em&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;/td&gt;                     &lt;td class="jury-details"&gt;
+                            Nga Nguyen, Associate Prof. ESILV, &lt;em&gt;Reviewer&lt;/em&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;/td&gt;                     &lt;td class="jury-details"&gt;
+                            Pascal Lafourcade, Prof. University Clermont Auvergne, &lt;em&gt;Examiner&lt;/em&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;/td&gt;                     &lt;td class="jury-details"&gt;
+                            Marie-Laure Potet, Prof. University Grenoble Alpes, &lt;em&gt;President&lt;/em&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;/td&gt;                     &lt;td class="jury-details"&gt;
+                            Stéphane Mocanu, Associate Prof. Grenoble INP, &lt;em&gt;Supervisor&lt;/em&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;/td&gt;                     &lt;td class="jury-details"&gt;
+                            Pierre-Henri Thevenon, CEA-LETI, &lt;em&gt;Advisor&lt;/em&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;/td&gt;                     &lt;td class="jury-details"&gt;
+                            &lt;u&gt;Maxime Puys&lt;/u&gt;, Associate Prof. University Clermont Auvergne, &lt;em&gt;Advisor&lt;/em&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+            &lt;/ul&gt;
+        &lt;/ul&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Since 2023:&lt;/strong&gt; Zoé Lagache&lt;/li&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;strong&gt;Title:&lt;/strong&gt; &amp;quot;Automatic Restauration of Embedded Linux Systems&amp;quot;&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Prepared in:&lt;/strong&gt; &amp;quot;CEA-LETI, Grenoble, France&amp;quot;&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;University:&lt;/strong&gt; &amp;quot;Univ. Grenoble Alpes&amp;quot;&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; &amp;quot;CEA-LETI&amp;quot;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/ul&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Since 2024:&lt;/strong&gt; Florent Durecu&lt;/li&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;strong&gt;Title:&lt;/strong&gt; &amp;quot;Intrusion Detection and Protection in Networks using QoS based AI&amp;quot;&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Prepared in:&lt;/strong&gt; &amp;quot;LIMOS, Clermont-Ferrand, France&amp;quot;&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;University:&lt;/strong&gt; &amp;quot;Univ. Clermont Auvergne&amp;quot;&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; &amp;quot;Programme DATA, I-SITE CLERMONT CAP 20-25, Université Clermont Auvergne&amp;quot;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/ul&gt;
+
+        &lt;h3&gt;Master 2 Students&lt;/h3&gt;
+
+        &lt;ul&gt;
+            &lt;li&gt;
+                &lt;em&gt;2025:&lt;/em&gt; Shrey Mukund &lt;br&gt;
+                &lt;em&gt;Title:&lt;/em&gt; &amp;quot;Formal Verification of PAKE Protocols&amp;quot; &lt;br&gt;
+                &lt;em&gt;University:&lt;/em&gt; Université Clermont Auvergne &lt;br&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;ul&gt;
+            &lt;li&gt;
+                &lt;em&gt;2024:&lt;/em&gt; Steve Durand Nouyep Noundjio &lt;br&gt;
+                &lt;em&gt;Title:&lt;/em&gt; &amp;quot;Security of RAG Architectures&amp;quot; &lt;br&gt;
+                &lt;em&gt;University:&lt;/em&gt; Université Clermont Auvergne &lt;br&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;ul&gt;
+            &lt;li&gt;
+                &lt;em&gt;2024:&lt;/em&gt; Etienne Loizeau &lt;br&gt;
+                &lt;em&gt;Title:&lt;/em&gt; &amp;quot;Security of RTK Protocols&amp;quot; &lt;br&gt;
+                &lt;em&gt;University:&lt;/em&gt; Université de Rennes &lt;br&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;ul&gt;
+            &lt;li&gt;
+                &lt;em&gt;2024:&lt;/em&gt; Ayoub Ben Hassen &lt;br&gt;
+                &lt;em&gt;Title:&lt;/em&gt; &amp;quot;Security of Resilience Protocols for Networks&amp;quot; &lt;br&gt;
+                &lt;em&gt;University:&lt;/em&gt; Sup'Com Tunisia &lt;br&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;ul&gt;
+            &lt;li&gt;
+                &lt;em&gt;2024:&lt;/em&gt; Mohammed Sghiouri &lt;br&gt;
+                &lt;em&gt;Title:&lt;/em&gt; &amp;quot;Comparative Study of Existing Datasets in Network Intrusion Detection&amp;quot; &lt;br&gt;
+                &lt;em&gt;University:&lt;/em&gt; Université Clermont Auvergne &lt;br&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;ul&gt;
+            &lt;li&gt;
+                &lt;em&gt;2024:&lt;/em&gt; Florian Kamsu Kom &lt;br&gt;
+                &lt;em&gt;Title:&lt;/em&gt; &amp;quot;Network Intrusion Detection from Simulation based Datasets&amp;quot; &lt;br&gt;
+                &lt;em&gt;University:&lt;/em&gt; Université Clermont Auvergne &lt;br&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;ul&gt;
+            &lt;li&gt;
+                &lt;em&gt;2023:&lt;/em&gt; Ulysse Vincenti &lt;br&gt;
+                &lt;em&gt;Title:&lt;/em&gt; &amp;quot;Intrusion Detection Techniques from System Calls for IoT Platforms&amp;quot; &lt;br&gt;
+                &lt;em&gt;University:&lt;/em&gt; Centrale Supelec / ECE Paris &lt;br&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;ul&gt;
+            &lt;li&gt;
+                &lt;em&gt;2021:&lt;/em&gt; Lorys Debbah &lt;br&gt;
+                &lt;em&gt;Title:&lt;/em&gt; &amp;quot;Cryptographic Primitives Abstraction Layers Generation&amp;quot; &lt;br&gt;
+                &lt;em&gt;University:&lt;/em&gt; Univ. Grenoble Alpes &lt;br&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;ul&gt;
+            &lt;li&gt;
+                &lt;em&gt;2020:&lt;/em&gt; Camille Sivelle &lt;br&gt;
+                &lt;em&gt;Title:&lt;/em&gt; &amp;quot;Automatic Generation of Cryptographic Protocols Implementations&amp;quot; &lt;br&gt;
+                &lt;em&gt;University:&lt;/em&gt; Univ. of Lorraine &lt;br&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;ul&gt;
+            &lt;li&gt;
+                &lt;em&gt;2017:&lt;/em&gt; Abdelaziz Khaled &lt;br&gt;
+                &lt;em&gt;Title:&lt;/em&gt; &amp;quot;Automated Translation of Specifications for Research of Attack Scenarios&amp;quot; &lt;br&gt;
+                &lt;em&gt;University:&lt;/em&gt; Univ. of Troyes &lt;br&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+    </content><category term="41"></category></entry><entry><title>Teaching</title><link href="https://maxime.puys.name/teaching.html" rel="alternate"></link><published>2025-03-24T00:00:00+01:00</published><updated>2025-03-24T00:00:00+01:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2025-03-24:/teaching.html</id><content type="html">&lt;p&gt;I mainly teach at IUT Clermont Auvergne and ISIMA, mostly in French.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;All my teaching material is available here, licensed under a &lt;a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.
 Permission is explicitly granted to copy, distribute and/or modify these document for educational purposes under the terms of the CC BY-NC-SA license.&lt;/p&gt;
@@ -1146,7 +1366,7 @@ Permission is explicitly granted to copy, distribute and/or modify these documen
 &lt;li&gt;Lecture 3 -- Safety/Security Risk Analyzes, &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/lectures/3/cours_seciiot_3a_3.pdf"&gt;[Slides]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Lecture 4 -- CAN buses, &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/lectures/4/cours_seciiot_3a_4.pdf"&gt;[Slides]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/labs/4/lab4.md"&gt;[Lab4]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Lecture 5 -- MODBUS protocol, &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/lectures/5/cours_seciiot_3a_5.pdf"&gt;[Slides]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/labs/5/lab5.md"&gt;[Lab5]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="40"></category></entry><entry><title>Links</title><link href="https://maxime.puys.name/links.html" rel="alternate"></link><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/links.html</id><content type="html">&lt;h3&gt;Research&lt;/h3&gt;
+&lt;/ul&gt;</content><category term="50"></category></entry><entry><title>Links</title><link href="https://maxime.puys.name/links.html" rel="alternate"></link><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/links.html</id><content type="html">&lt;h3&gt;Research&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;[&lt;a href="https://portal.core.edu.au/conf-ranks/"&gt;Core&lt;/a&gt;] Core Conference Ranking Search Engine.&lt;/li&gt;
 &lt;li&gt;[&lt;a href="http://www.conferenceranks.com/"&gt;Conference Ranks&lt;/a&gt;] Conference Ranking Search Engine.&lt;/li&gt;
@@ -1195,4 +1415,4 @@ chuan de Grenoble.&lt;/li&gt;
     &lt;source srcset="images/wordcloud-light.png" media="(prefers-color-scheme: light)"&gt;
     &lt;img src="images/wordcloud-light.png" alt="Themed image"&gt;
   &lt;/picture&gt;
-&lt;/p&gt;</content><category term="50"></category></entry></feed>
+&lt;/p&gt;</content><category term="60"></category></entry></feed>
