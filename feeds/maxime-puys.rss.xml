@@ -331,13 +331,19 @@
         &lt;/div&gt;
     </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Puys</dc:creator><pubDate>Wed, 26 Jul 2017 21:40:00 +0200</pubDate><guid isPermaLink="false">tag:maxime.puys.name,2017-07-26:/cv.html</guid><category>20</category></item><item><title>Publications</title><link>https://maxime.puys.name/publications.html</link><description>
 &lt;div id="publications"&gt;
-&lt;h3&gt;Thesis&lt;/h3&gt;
+&lt;h3&gt;Theses&lt;/h3&gt;
 &lt;table&gt;&lt;tr valign="top"&gt;
 
 
 &lt;td align="right" class="bibtexnumber"&gt;
-[&lt;a name="phdThesisMaximePuys"&gt;1&lt;/a&gt;]
-&lt;/td&gt;&lt;td class="bibtexitem"&gt;&lt;u&gt;M. Puys&lt;/u&gt;. &lt;b&gt;Sécurité des systèmes industriels : filtrage  applicatif et recherche de scénarios d'attaques.&lt;/b&gt; &lt;em&gt;PhD thesis, Communauté Université Grenoble-Alpes&lt;/em&gt;, Feb.  2018. &lt;a href="javascript:hideshow(document.getElementById('phdThesisMaximePuys'))" name="phdThesisMaximePuys"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/phdThesis/phdThesisMaximePuys.pdf"&gt;[pdf]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/phdThesis/slidesPhdThesisMaximePuys.pdf"&gt;[slides]&lt;/a&gt;&lt;pre id="phdThesisMaximePuys" style="display: none;"&gt;
+[&lt;a name="phdThesisMaximePuys"&gt;2&lt;/a&gt;]
+&lt;/td&gt;&lt;td class="bibtexitem"&gt; &lt;b&gt;&lt;/b&gt;,  &lt;a href="javascript:hideshow(document.getElementById('phdThesisMaximePuys'))" name="phdThesisMaximePuys"&gt;[bib]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/phdThesis/phdThesisMaximePuys.pdf"&gt;[pdf]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/publications/phdThesis/slidesPhdThesisMaximePuys.pdf"&gt;[slides]&lt;/a&gt;
+M. Puys.
+ &lt;em&gt;Sécurité des systèmes industriels : filtrage
+  applicatif et recherche de scénarios d'attaques&lt;/em&gt;.
+ PhD thesis, Communauté Université Grenoble-Alpes, Feb.
+  2018.
+&lt;pre id="phdThesisMaximePuys" style="display: none;"&gt;
 @phdthesis{phdThesisMaximePuys,
   author = {Maxime Puys},
   title = {S{\'e}curit{\'e} des syst{\`e}mes industriels : filtrage applicatif et recherche de sc{\'e}narios d'attaques},
@@ -345,6 +351,28 @@
   year = {2018},
   month = {Feb.},
   url = {https://maxime.puys.name/pdf/publications/phdThesis/phdThesisMaximePuys.pdf}
+}
+&lt;/pre&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
+
+
+&lt;td align="right" class="bibtexnumber"&gt;
+[&lt;a name="masterThesisMaximePuys"&gt;1&lt;/a&gt;]
+&lt;/td&gt;&lt;td class="bibtexitem"&gt; &lt;b&gt;&lt;/b&gt;,  &lt;a href="javascript:hideshow(document.getElementById('masterThesisMaximePuys'))" name="masterThesisMaximePuys"&gt;[bib]&lt;/a&gt;
+M. Puys.
+ Sécurité des cartes à puce, simulation d'attaques par fautes et
+  analyses statiques.
+ Master's thesis, Communauté Université Grenoble-Alpes, Jul.
+  2014.
+ Confidential industry.
+&lt;pre id="masterThesisMaximePuys" style="display: none;"&gt;
+@mastersthesis{masterThesisMaximePuys,
+  author = {Maxime Puys},
+  title = {Sécurité des cartes à puce, simulation d'attaques par fautes et analyses statiques},
+  school = {Communaut{\'e} Universit{\'e} Grenoble{-}Alpes},
+  year = {2014},
+  month = {Jul.},
+  note = {Confidential industry.}
 }
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;h3&gt;International Peer-Reviewed Journals&lt;/h3&gt;
@@ -945,6 +973,44 @@
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;h3&gt;French Peer-Reviewed Conferences with Proceedings&lt;/h3&gt;
 &lt;table&gt;&lt;tr valign="top"&gt;
+
+
+&lt;td align="right" class="bibtexnumber"&gt;
+[&lt;a name="LTPA23"&gt;10&lt;/a&gt;]
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;Z. Lagache, P.-H. Thevenon, &lt;u&gt;M. Puys&lt;/u&gt;, and O. Aktouf. &lt;b&gt;Convergence sûreté-sécurité des systèmes de contrôle  industriel.&lt;/b&gt; &lt;em&gt;Rendez-Vous de la Recherche et de l'Enseignement de la  Sécurité des Systèmes d'Information, RESSI 2023,  Neuvy-sur-Barangeon, France&lt;/em&gt;, 2023 &lt;a href="javascript:hideshow(document.getElementById('LTPA23'))" name="LTPA23"&gt;[bib]&lt;/a&gt; &lt;a href="https://hal.science/hal-05124436v1"&gt;[pdf]&lt;/a&gt;&lt;pre id="LTPA23" style="display: none;"&gt;
+@inproceedings{LTPA23,
+  author = {Lagache, Zo{\'e} and
+               Thevenon, Pierre-Henri and
+               Puys, Maxime and
+               Aktouf, {Oum-El-Kheir}},
+  title = {Convergence sûreté-sécurité des Systèmes de Contrôle Industriel},
+  booktitle = {{Rendez-Vous de la Recherche et de l'Enseignement de la
+               S{\'e}curit{\'e} des Syst{\`e}mes d'Information, RESSI 2023,
+               Neuvy-sur-Barangeon, France}},
+  year = {2023},
+  url = {https://hal.science/hal-05124436v1}
+}
+&lt;/pre&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
+
+
+&lt;td align="right" class="bibtexnumber"&gt;
+[&lt;a name="DTPM23"&gt;9&lt;/a&gt;]
+&lt;/td&gt;&lt;td class="bibtexitem"&gt;M. Da Silva, P.-H. Thevenon, &lt;u&gt;M. Puys&lt;/u&gt;, and S. Mocanu. &lt;b&gt;Convergence sûreté-sécurité des systèmes de contrôle  industriel.&lt;/b&gt; &lt;em&gt;Rendez-Vous de la Recherche et de l'Enseignement de la  Sécurité des Systèmes d'Information, RESSI 2023,  Neuvy-sur-Barangeon, France&lt;/em&gt;, 2023 &lt;a href="javascript:hideshow(document.getElementById('DTPM23'))" name="DTPM23"&gt;[bib]&lt;/a&gt; &lt;a href="https://hal.science/hal-05124406v1"&gt;[pdf]&lt;/a&gt;&lt;pre id="DTPM23" style="display: none;"&gt;
+@inproceedings{DTPM23,
+  author = {Da Silva, Mike and
+               Thevenon, Pierre-Henri and
+               Puys, Maxime and
+               Mocanu, St{\'e}phane},
+  title = {Convergence sûreté-sécurité des Systèmes de Contrôle Industriel},
+  booktitle = {{Rendez-Vous de la Recherche et de l'Enseignement de la
+               S{\'e}curit{\'e} des Syst{\`e}mes d'Information, RESSI 2023,
+               Neuvy-sur-Barangeon, France}},
+  year = {2023},
+  url = {https://hal.science/hal-05124406v1}
+}
+&lt;/pre&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr valign="top"&gt;
 
 
 &lt;td align="right" class="bibtexnumber"&gt;
