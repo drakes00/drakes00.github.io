@@ -1,6 +1,6 @@
 [submodule "pdf/teaching/but_3a_symfony"]
 	path = pdf/teaching/but_3a_symfony
-	url = https://codefirst.iut.uca.fr/git/R5.A.05-Symfony/ressources-etu.git
+	url = https://gitlab.limos.fr/mapuys-teaching/r5.a.05-symfony
 [submodule "pdf/teaching/isima_3a_seciiot"]
 	path = pdf/teaching/isima_3a_seciiot
 	url = https://gitlab.isima.fr/mapuys/fisa3-seciiot.git
