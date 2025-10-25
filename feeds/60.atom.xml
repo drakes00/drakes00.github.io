@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys - 60</title><link href="https://maxime.puys.name/" rel="alternate"></link><link href="https://maxime.puys.name/feeds/60.atom.xml" rel="self"></link><id>https://maxime.puys.name/</id><updated>2017-07-26T00:00:00+02:00</updated><subtitle>Maître de conférences / Associate Professor</subtitle><entry><title>Links</title><link href="https://maxime.puys.name/links.html" rel="alternate"></link><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/links.html</id><content type="html">&lt;h3&gt;Research&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys - 60</title><link href="https://maxime.puys.name/" rel="alternate"/><link href="https://maxime.puys.name/feeds/60.atom.xml" rel="self"/><id>https://maxime.puys.name/</id><updated>2017-07-26T00:00:00+02:00</updated><subtitle>Maître de conférences / Associate Professor</subtitle><entry><title>Links</title><link href="https://maxime.puys.name/links.html" rel="alternate"/><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/links.html</id><content type="html">&lt;h3&gt;Research&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;[&lt;a href="https://portal.core.edu.au/conf-ranks/"&gt;Core&lt;/a&gt;] Core Conference Ranking Search Engine.&lt;/li&gt;
 &lt;li&gt;[&lt;a href="http://www.conferenceranks.com/"&gt;Conference Ranks&lt;/a&gt;] Conference Ranking Search Engine.&lt;/li&gt;
@@ -48,4 +48,4 @@ chuan de Grenoble.&lt;/li&gt;
     &lt;source srcset="images/wordcloud-light.png" media="(prefers-color-scheme: light)"&gt;
     &lt;img src="images/wordcloud-light.png" alt="Themed image"&gt;
   &lt;/picture&gt;
-&lt;/p&gt;</content><category term="60"></category></entry></feed>
+&lt;/p&gt;</content><category term="60"/></entry></feed>

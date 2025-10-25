@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys - 41</title><link href="https://maxime.puys.name/" rel="alternate"></link><link href="https://maxime.puys.name/feeds/41.atom.xml" rel="self"></link><id>https://maxime.puys.name/</id><updated>2017-07-26T21:40:00+02:00</updated><subtitle>Maître de conférences / Associate Professor</subtitle><entry><title>Student Supervision</title><link href="https://maxime.puys.name/research-students.html" rel="alternate"></link><published>2017-07-26T21:40:00+02:00</published><updated>2017-07-26T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/research-students.html</id><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys - 41</title><link href="https://maxime.puys.name/" rel="alternate"/><link href="https://maxime.puys.name/feeds/41.atom.xml" rel="self"/><id>https://maxime.puys.name/</id><updated>2017-07-26T21:40:00+02:00</updated><subtitle>Maître de conférences / Associate Professor</subtitle><entry><title>Student Supervision</title><link href="https://maxime.puys.name/research-students.html" rel="alternate"/><published>2017-07-26T21:40:00+02:00</published><updated>2017-07-26T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/research-students.html</id><content type="html">
         I generally supervise many student projects each year (about 5 to 10
         students each year) for various subjects and at various levels. Here are
         the Ph.D students and Master 2 students I supervised.
@@ -202,4 +202,4 @@
                 &lt;strong&gt;University:&lt;/strong&gt; Univ. of Troyes &lt;br&gt;
             &lt;/li&gt;
         &lt;/ul&gt;
-    </content><category term="41"></category></entry></feed>
+    </content><category term="41"/></entry></feed>

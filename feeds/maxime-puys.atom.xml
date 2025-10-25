@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys - Maxime Puys</title><link href="https://maxime.puys.name/" rel="alternate"></link><link href="https://maxime.puys.name/feeds/maxime-puys.atom.xml" rel="self"></link><id>https://maxime.puys.name/</id><updated>2025-03-24T00:00:00+01:00</updated><subtitle>Maître de conférences / Associate Professor</subtitle><entry><title>Me</title><link href="https://maxime.puys.name/me.html" rel="alternate"></link><published>2012-07-09T22:28:00+02:00</published><updated>2012-07-09T22:28:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2012-07-09:/me.html</id><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys - Maxime Puys</title><link href="https://maxime.puys.name/" rel="alternate"/><link href="https://maxime.puys.name/feeds/maxime-puys.atom.xml" rel="self"/><id>https://maxime.puys.name/</id><updated>2025-03-24T00:00:00+01:00</updated><subtitle>Maître de conférences / Associate Professor</subtitle><entry><title>Me</title><link href="https://maxime.puys.name/me.html" rel="alternate"/><published>2012-07-09T22:28:00+02:00</published><updated>2012-07-09T22:28:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2012-07-09:/me.html</id><content type="html">
         &lt;div style="position: relative; text-align: center;"&gt;
             &lt;div style="float: left; width: 30%; position: absolute; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-0%, -50%);"&gt;
                 &lt;img src="images/id.png" alt="Photo" style="border: 1px solid black; width:100%; max-width: 300px;" /&gt;
@@ -67,7 +67,7 @@
                 &lt;/table&gt;
             &lt;/div&gt;
         &lt;/div&gt;
-    </content><category term="10"></category></entry><entry><title>Curriculum Vitæ</title><link href="https://maxime.puys.name/cv.html" rel="alternate"></link><published>2017-07-26T21:40:00+02:00</published><updated>2017-07-26T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/cv.html</id><content type="html">
+    </content><category term="10"/></entry><entry><title>Curriculum Vitæ</title><link href="https://maxime.puys.name/cv.html" rel="alternate"/><published>2017-07-26T21:40:00+02:00</published><updated>2017-07-26T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/cv.html</id><content type="html">
         &lt;div class="cvcontainer"&gt;
             &lt;div style="flex:56%;"&gt;
                 &lt;!-- Fields of Expertise --&gt;
@@ -329,7 +329,7 @@
                 &lt;/table&gt;
             &lt;/div&gt;
         &lt;/div&gt;
-    </content><category term="20"></category></entry><entry><title>Publications</title><link href="https://maxime.puys.name/publications.html" rel="alternate"></link><published>2017-07-25T21:40:00+02:00</published><updated>2017-07-25T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-25:/publications.html</id><content type="html">
+    </content><category term="20"/></entry><entry><title>Publications</title><link href="https://maxime.puys.name/publications.html" rel="alternate"/><published>2017-07-25T21:40:00+02:00</published><updated>2017-07-25T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-25:/publications.html</id><content type="html">
 &lt;div id="publications"&gt;
 &lt;h3&gt;Theses&lt;/h3&gt;
 &lt;table&gt;&lt;tr valign="top"&gt;
@@ -1235,7 +1235,7 @@ N. Polychronou, P.-H. Thevenon, M. Puys, and V. Beroulle.
 &lt;/pre&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-    </content><category term="30"></category></entry><entry><title>Overview of my Research Topics</title><link href="https://maxime.puys.name/research.html" rel="alternate"></link><published>2017-07-26T21:40:00+02:00</published><updated>2017-07-26T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/research.html</id><content type="html">
+    </content><category term="30"/></entry><entry><title>Overview of my Research Topics</title><link href="https://maxime.puys.name/research.html" rel="alternate"/><published>2017-07-26T21:40:00+02:00</published><updated>2017-07-26T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/research.html</id><content type="html">
         &lt;p&gt;My research focuses on the cybersecurity of industrial and critical
         Internet of Things (IoT) (ICS, medical devices, connected vehicles,
         smart cities). The goal is to analyze how cyberattacks compromise the
@@ -1263,7 +1263,7 @@ N. Polychronou, P.-H. Thevenon, M. Puys, and V. Beroulle.
             Development of machine learning-based mechanisms to detect
             microarchitectural attacks.&lt;/li&gt;
         &lt;/ul&gt;
-    </content><category term="40"></category></entry><entry><title>Student Supervision</title><link href="https://maxime.puys.name/research-students.html" rel="alternate"></link><published>2017-07-26T21:40:00+02:00</published><updated>2017-07-26T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/research-students.html</id><content type="html">
+    </content><category term="40"/></entry><entry><title>Student Supervision</title><link href="https://maxime.puys.name/research-students.html" rel="alternate"/><published>2017-07-26T21:40:00+02:00</published><updated>2017-07-26T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/research-students.html</id><content type="html">
         I generally supervise many student projects each year (about 5 to 10
         students each year) for various subjects and at various levels. Here are
         the Ph.D students and Master 2 students I supervised.
@@ -1466,7 +1466,7 @@ N. Polychronou, P.-H. Thevenon, M. Puys, and V. Beroulle.
                 &lt;strong&gt;University:&lt;/strong&gt; Univ. of Troyes &lt;br&gt;
             &lt;/li&gt;
         &lt;/ul&gt;
-    </content><category term="41"></category></entry><entry><title>Teaching</title><link href="https://maxime.puys.name/teaching.html" rel="alternate"></link><published>2025-03-24T00:00:00+01:00</published><updated>2025-03-24T00:00:00+01:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2025-03-24:/teaching.html</id><content type="html">&lt;p&gt;I mainly teach at IUT Clermont Auvergne and ISIMA, mostly in French.&lt;/p&gt;
+    </content><category term="41"/></entry><entry><title>Teaching</title><link href="https://maxime.puys.name/teaching.html" rel="alternate"/><published>2025-03-24T00:00:00+01:00</published><updated>2025-03-24T00:00:00+01:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2025-03-24:/teaching.html</id><content type="html">&lt;p&gt;I mainly teach at IUT Clermont Auvergne and ISIMA, mostly in French.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;All my teaching material is available here, licensed under a &lt;a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.
 Permission is explicitly granted to copy, distribute and/or modify these document for educational purposes under the terms of the CC BY-NC-SA license.&lt;/p&gt;
@@ -1492,7 +1492,7 @@ Permission is explicitly granted to copy, distribute and/or modify these documen
 &lt;li&gt;Lecture 3 -- Safety/Security Risk Analyzes, &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/lectures/3/cours_seciiot_3a_3.pdf"&gt;[Slides]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Lecture 4 -- CAN buses, &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/lectures/4/cours_seciiot_3a_4.pdf"&gt;[Slides]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/labs/4/lab4.md"&gt;[Lab4]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Lecture 5 -- MODBUS protocol, &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/lectures/5/cours_seciiot_3a_5.pdf"&gt;[Slides]&lt;/a&gt; &lt;a href="https://maxime.puys.name/pdf/teaching/isima_3a_seciiot/labs/5/lab5.md"&gt;[Lab5]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="50"></category></entry><entry><title>Links</title><link href="https://maxime.puys.name/links.html" rel="alternate"></link><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/links.html</id><content type="html">&lt;h3&gt;Research&lt;/h3&gt;
+&lt;/ul&gt;</content><category term="50"/></entry><entry><title>Links</title><link href="https://maxime.puys.name/links.html" rel="alternate"/><published>2017-07-26T00:00:00+02:00</published><updated>2017-07-26T00:00:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/links.html</id><content type="html">&lt;h3&gt;Research&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;[&lt;a href="https://portal.core.edu.au/conf-ranks/"&gt;Core&lt;/a&gt;] Core Conference Ranking Search Engine.&lt;/li&gt;
 &lt;li&gt;[&lt;a href="http://www.conferenceranks.com/"&gt;Conference Ranks&lt;/a&gt;] Conference Ranking Search Engine.&lt;/li&gt;
@@ -1541,4 +1541,4 @@ chuan de Grenoble.&lt;/li&gt;
     &lt;source srcset="images/wordcloud-light.png" media="(prefers-color-scheme: light)"&gt;
     &lt;img src="images/wordcloud-light.png" alt="Themed image"&gt;
   &lt;/picture&gt;
-&lt;/p&gt;</content><category term="60"></category></entry></feed>
+&lt;/p&gt;</content><category term="60"/></entry></feed>

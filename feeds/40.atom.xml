@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys - 40</title><link href="https://maxime.puys.name/" rel="alternate"></link><link href="https://maxime.puys.name/feeds/40.atom.xml" rel="self"></link><id>https://maxime.puys.name/</id><updated>2017-07-26T21:40:00+02:00</updated><subtitle>Maître de conférences / Associate Professor</subtitle><entry><title>Overview of my Research Topics</title><link href="https://maxime.puys.name/research.html" rel="alternate"></link><published>2017-07-26T21:40:00+02:00</published><updated>2017-07-26T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/research.html</id><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Maxime Puys - 40</title><link href="https://maxime.puys.name/" rel="alternate"/><link href="https://maxime.puys.name/feeds/40.atom.xml" rel="self"/><id>https://maxime.puys.name/</id><updated>2017-07-26T21:40:00+02:00</updated><subtitle>Maître de conférences / Associate Professor</subtitle><entry><title>Overview of my Research Topics</title><link href="https://maxime.puys.name/research.html" rel="alternate"/><published>2017-07-26T21:40:00+02:00</published><updated>2017-07-26T21:40:00+02:00</updated><author><name>Maxime Puys</name></author><id>tag:maxime.puys.name,2017-07-26:/research.html</id><content type="html">
         &lt;p&gt;My research focuses on the cybersecurity of industrial and critical
         Internet of Things (IoT) (ICS, medical devices, connected vehicles,
         smart cities). The goal is to analyze how cyberattacks compromise the
@@ -27,4 +27,4 @@
             Development of machine learning-based mechanisms to detect
             microarchitectural attacks.&lt;/li&gt;
         &lt;/ul&gt;
-    </content><category term="40"></category></entry></feed>
+    </content><category term="40"/></entry></feed>
