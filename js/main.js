@@ -10,8 +10,6 @@
 
 		// Nav.
 			var $nav_a = $('aside a');
-            console.log("hello");
-            console.log($nav_a);
 
 			// Scrolly-fy links.
 				$nav_a
