@@ -4,55 +4,37 @@
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="HandheldFriendly" content="True" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <meta name="robots" content="index, follow" />
 
+  <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet/less" type="text/css" href="https://maxime.puys.name/theme/stylesheet/style.less">
-    <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.5.1/less.min.js" type="text/javascript"></script>
+  <!-- 🎨 Main Styles (LESS in dev mode, precompiled CSS in production) -->
+    <link rel="stylesheet/less" type="text/css" href="https://maxime.puys.name/theme/stylesheet/site.less">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/less.js/4.2.0/less.min.js"></script>
+    <script>less.env = "development"; less.watch();</script>
 
-    <link id="dark-theme-style" rel="stylesheet" type="text/css"
-          media="(prefers-color-scheme: dark)"
-    href="https://maxime.puys.name/theme/stylesheet/dark-theme.min.css">
+  <!-- 💡 Syntax highlighting -->
+  <link rel="stylesheet" href="https://maxime.puys.name/theme/pygments/solarized-light.min.css" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+  <link rel="stylesheet" href="https://maxime.puys.name/theme/pygments/solarized-dark.min.css" media="(prefers-color-scheme: dark)">
 
-    <link id="pygments-dark-theme" rel="stylesheet" type="text/css"
-              media="(prefers-color-scheme: dark)"
-          href="https://maxime.puys.name/theme/pygments/solarized-dark.min.css">
-    <link id="pygments-light-theme" rel="stylesheet" type="text/css"
-              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          href="https://maxime.puys.name/theme/pygments/solarized-light.min.css">
+  <!-- 🌐 Font Awesome CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
+  <!-- 🔧 Custom CSS (optional overrides beyond LESS) -->
+  <link rel="stylesheet" href="css/custom.css">
 
+  <!-- 🧩 Feeds -->
 
-  <link rel="stylesheet" type="text/css" href="https://maxime.puys.name/css/all.css">
-  <!--
-  <link rel="stylesheet" type="text/css" href="https://maxime.puys.name/theme/font-awesome/css/fontawesome.css">
-  <link rel="stylesheet" type="text/css" href="https://maxime.puys.name/theme/font-awesome/css/brands.css">
-  <link rel="stylesheet" type="text/css" href="https://maxime.puys.name/theme/font-awesome/css/solid.css">
-  -->
-
-  <link rel="stylesheet" type="text/css" href="https://maxime.puys.name/css/custom.css">
-
-
-
-    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+  <!-- 🔖 Favicon -->
     <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
 
-
-
-    <!-- Chrome, Firefox OS and Opera -->
+  <!-- 🖼️ Meta colors -->
     <meta name="theme-color" content="#333333">
-    <!-- Windows Phone -->
     <meta name="msapplication-navbutton-color" content="#333333">
-    <!-- iOS Safari -->
-    <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <!-- Microsoft EDGE -->
-    <meta name="msapplication-TileColor" content="#333333">
-
- 
 
 <meta name="author" content="Maxime Puys" />
 <meta name="description" content="Fields of Expertise Cybersecurity Industrial Control Systems / SCADA IoT and Network Cybersecurity Cryptography / Security Protocols Formal Methods for Cybersecurity Certification Standards Machine Learning ML-based attack detection Supervised and unsupervised ML Embedded ML Teaching and Scientific Supervision 2 defended Ph.D and 2 on-going 6 articles in international jourals 22 articles in international conferences 10 defended MSc Teaching Cybersecurity, AI and Web Professional Experience Since 2023 Associate Professor Univ. Clermont Auvergne, France Critical IoT Security, ML-based attack detection: Industrial Control Systems / SCADA IoT and Network Cybersecurity ML-based attack detection 2018 - 2023 Research Engineer CEA-LETI, Grenoble, France Smart-Home and Industrial IoT Security: IoT/SCADA device security assessment Design of lightweight security solutions 2014 - 2018 Ph.D Student Vérimag, St Martin d&#39;Hères, France Industrial Systems Cybersecurity: Applicative Filtering Industrial Protocols Verification Research of Applicative Attack Scenarios Computer Science Skills Cybersecurity SSH, Wireshark, Scapy, NMap, OpenSSL, Burp, John, Snort, Ettercap Development Python 100% var canvas = document.getElementById(&#34;python&#34;); var ctx = canvas.getContext(&#34;2d&#34;); ctx.fillStyle = &#34;#2A70CC&#34;; ctx.fillRect(0, 0, canvas.width*100/100, canvas.height); PHP 70% var canvas = document.getElementById(&#34;php&#34;); var ctx = canvas.getContext(&#34;2d&#34;); ctx.fillStyle = &#34;#2A70CC&#34;; ctx.fillRect(0, 0, canvas.width*70/100, canvas.height); C 70% var canvas = document.getElementById(&#34;c&#34;); var ctx = canvas.getContext(&#34;2d&#34;); ctx.fillStyle = &#34;#2A70CC&#34;; ctx.fillRect(0, 0, canvas.width*70/100, canvas.height); LUA 30% var canvas = document.getElementById(&#34;lua&#34;); var ctx = canvas.getContext(&#34;2d&#34;); ctx.fillStyle = &#34;#2A70CC&#34;; ctx.fillRect(0, 0, canvas.width*30/100, canvas.height); Linux Admin (Debian, Alpine, Arch) Windows Advanced user DevOps Vim, Git, Jenkins, Virtualenv, Gitlab CI, Docker, VirtualBox, Ansible Reports LaTeX, Office and alternatives Languages French 100% var canvas = document.getElementById(&#34;fr&#34;); var ctx = canvas.getContext(&#34;2d&#34;); ctx.fillStyle = &#34;#2A70CC&#34;; ctx.fillRect(0, 0, canvas.width*100/100, canvas.height); English 80% var canvas = document.getElementById(&#34;eng&#34;); var ctx = canvas.getContext(&#34;2d&#34;); ctx.fillStyle = &#34;#2A70CC&#34;; ctx.fillRect(0, 0, canvas.width*80/100, canvas.height); Japanese 30% var canvas = document.getElementById(&#34;jap&#34;); var ctx = canvas.getContext(&#34;2d&#34;); ctx.fillStyle = &#34;#2A70CC&#34;; ctx.fillRect(0, 0, canvas.width*30/100, canvas.height); Scholar Formation 2014 - 2018 Ph.D in Cybersecurity Univ. Grenoble Alpes 2012 - 2014 Master in Cybersecurity Univ. Grenoble Alpes Magna Cum Laude 2009 - 2014 Magister in Computer Science Univ. Grenoble Alpes Summa Cum Laude 2009 - 2012 Bachelor in Computer Science Univ. Grenoble Alpes Cum Laude" />
@@ -73,11 +55,9 @@
   <meta property="og:image" content="https://maxime.puys.name/images/profile.png">
 
   <title>Maxime Puys &ndash; Curriculum Vitæ</title>
-
-
-
 </head>
-<body >
+
+<body>
 
   <aside>
     <div>
@@ -440,14 +420,33 @@
 </p>
 <p>
 Built with <a href="http://getpelican.com" target="_blank">Pelican</a> using <a href="http://bit.ly/flex-pelican" target="_blank">Flex</a> theme
-  <span class="footer-separator">|</span>
-  Switch to the <a href="javascript:void(0)" onclick="theme.switch(`dark`)">dark</a> | <a href="javascript:void(0)" onclick="theme.switch(`light`)">light</a> | <a href="javascript:void(0)" onclick="theme.switch(`browser`)">browser</a> theme
   <script id="dark-theme-script"
-          src="https://maxime.puys.name/theme/dark-theme/dark-theme.min.js"
-          data-enable-auto-detect-theme="True"
-          data-default-theme="light"
+          src="https://maxime.puys.name/theme/dark-theme/dark-theme.js"
           type="text/javascript">
   </script>
+
+  <div class="theme-controls">
+    <div class="theme-selector">
+      <button 
+        data-theme-toggle="light" 
+        onclick="window.themeManager.setTheme('light')"
+        aria-label="Mode clair">
+        ☀️ Clair
+      </button>
+      <button 
+        data-theme-toggle="auto" 
+        onclick="window.themeManager.setTheme('auto')"
+        aria-label="Mode automatique">
+        🌗 Auto
+      </button>
+      <button 
+        data-theme-toggle="dark" 
+        onclick="window.themeManager.setTheme('dark')"
+        aria-label="Mode sombre">
+        🌙 Sombre
+      </button>
+    </div>
+  </div>
 </p><p>
   <a rel="license"
      href="http://creativecommons.org/licenses/by-sa/4.0/"
@@ -485,7 +484,6 @@ Built with <a href="http://getpelican.com" target="_blank">Pelican</a> using <a 
     <script src="js/jquery.scrolly.min.js"></script>
 
     <script src="js/publications.js"></script>
-    <!--<script src="js/enforce-tls.js"></script>-->
 
     <script src="js/main.js"></script>
 </body>

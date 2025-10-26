@@ -1,0 +1,589 @@
+/* ==========================================================================
+   Site Stylesheet - Personal Academic Website
+   ========================================================================== */
+
+/* Import theme variables */
+@import (less) "/theme/stylesheet/variables.less";
+
+/* ==========================================================================
+   1. BASE STYLES
+   ========================================================================== */
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: @body-bg;
+  color: @text-color;
+  font-family: @sans;
+  font-size: @body-font-size;
+  line-height: @body-line-height;
+}
+
+/* Dark theme body */
+body.dark-theme {
+  background-color: @body-bg-dark;
+  color: @text-color-dark;
+}
+
+/* ==========================================================================
+   2. TYPOGRAPHY
+   ========================================================================== */
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: @heading-font-weight;
+  line-height: @heading-line-height;
+}
+
+h1 { font-size: @h1-font-size; }
+h2 { font-size: @h2-font-size; }
+h3 { 
+  font-size: @h3-font-size;
+  color: @h3-color;
+}
+h4 { font-size: @h4-font-size; }
+h5 { font-size: @h5-font-size; }
+h6 { font-size: @h6-font-size; }
+
+/* Dark theme headings */
+body.dark-theme h3 {
+  color: @h3-color-dark;
+}
+
+/* Links */
+a {
+  color: @link-color;
+  text-decoration: none;
+  font-weight: bold;
+  border-bottom: @link-border-style @link-border-color;
+
+  /* Remove border for sidebar links */
+  aside & {
+    border-bottom: none;
+  }
+}
+
+a:hover {
+  color: @link-hover-color;
+}
+
+/* Dark theme links */
+body.dark-theme a {
+  color: @link-color-dark;
+  border-bottom-color: @link-border-color-dark;
+}
+
+body.dark-theme a:hover {
+  color: @link-hover-color-dark;
+}
+
+/* Buttons */
+a.btn {
+  background-color: @btn-bg;
+  padding: @btn-padding;
+  font-size: @btn-font-size;
+  line-height: 1;
+  color: @btn-text-color;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border: none;
+  border-radius: @btn-border-radius;
+}
+
+a.btn:hover {
+  background-color: @btn-hover-color;
+}
+
+/* Active state styling */
+.active {
+  .active:hover {
+    color: @active-hover-color;
+  }
+}
+
+body.dark-theme .active .active:hover {
+  color: @active-hover-color-dark;
+}
+
+/* ==========================================================================
+   3. LAYOUT COMPONENTS
+   ========================================================================== */
+
+/* Horizontal rule */
+hr {
+  color: @hr-color;
+  background-color: @hr-bg-color;
+  height: @hr-height;
+  border: none;
+  margin-top: @hr-margin-vertical;
+  margin-bottom: @hr-margin-vertical;
+}
+
+body.dark-theme hr {
+  color: @hr-color-dark;
+  background-color: @hr-bg-color-dark;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+}
+
+/* Lists */
+ul {
+  margin-top: 0;
+}
+
+ul.list {
+  list-style-type: none;
+  margin: 0;
+  padding: @list-padding;
+
+  li {
+    padding: @list-item-padding;
+  }
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: @table-width;
+
+  thead:first-child tr:first-child th {
+    border-top: 0;
+  }
+
+  th, td {
+    padding: @table-cell-padding;
+    line-height: @table-line-height;
+    vertical-align: top;
+    border-top: @table-border;
+  }
+}
+
+body.dark-theme table {
+  th, td {
+    border-top: @table-border-dark;
+  }
+}
+
+/* ==========================================================================
+   NESTED LISTS - Styling for hierarchical lists
+   ========================================================================== */
+
+/* Nested unordered lists */
+ul {
+  ul {
+    list-style: none;
+    padding-left: @nested-list-padding;
+  }
+}
+
+/* Lists inside tables */
+table {
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+}
+
+/* Syntax highlighting tables */
+table.highlighttable {
+  width: 100%;
+  table-layout: fixed;
+
+  td {
+    border-style: none;
+    padding: 0px;
+  }
+
+  td.linenos {
+    width: @linenos-width;
+
+    pre {
+      padding-right: @linenos-padding;
+      background-color: inherit;
+      text-align: right;
+    }
+  }
+}
+
+/* ==========================================================================
+   4. SIDEBAR (aside)
+   ========================================================================== */
+
+aside {
+  background-color: @sidebar-bg;
+  color: @sidebar-text-color;
+  text-align: center;
+
+  a {
+    color: @sidebar-link-color;
+  }
+
+  a:hover {
+    color: @sidebar-link-hover-color;
+  }
+
+  div {
+    padding: @sidebar-padding;
+    margin: 0;
+
+    h1 {
+      margin: @sidebar-h1-margin;
+    }
+
+    p {
+      margin: @sidebar-p-margin;
+      font-size: @sidebar-p-font-size;
+    }
+  }
+
+  /* Sidebar navigation */
+  nav {
+    ul {
+      li {
+        display: inline;
+        line-height: @sidebar-nav-line-height;
+        font-size: @sidebar-nav-font-size;
+      }
+    }
+  }
+}
+
+/* Dark theme sidebar */
+body.dark-theme aside {
+  background-color: @sidebar-bg-dark;
+  color: @sidebar-text-color-dark;
+
+  a {
+    color: @sidebar-link-color-dark;
+  }
+
+  a:hover {
+    color: @sidebar-link-hover-color-dark;
+  }
+}
+
+/* Social media icons */
+ul.social {
+  font-size: @social-icon-font-size;
+  padding-top: @social-icon-padding-top;
+
+  li {
+    display: inline;
+  }
+
+  a {
+    display: inline-block;
+    width: @social-icon-size;
+    height: @social-icon-size;
+    border-radius: @social-icon-border-radius;
+    text-align: center;
+    font-size: @social-icon-inner-font-size;
+    line-height: @social-icon-size;
+  }
+
+  a:hover {
+    z-index: 2;
+    -webkit-transform: translateY(@social-icon-hover-translate);
+    transform: translateY(@social-icon-hover-translate);
+  }
+}
+
+/* ==========================================================================
+   5. MAIN CONTENT AREA
+   ========================================================================== */
+
+main {
+  /* Main navigation */
+  nav {
+    text-align: center;
+    text-transform: uppercase;
+    padding: @nav-padding;
+    border-bottom: @nav-border-color @nav-border-width solid;
+    /* Font-size 0 removes whitespace between inline <a> tags */
+    font-size: 0;
+
+    a {
+      font-size: @nav-font-size;
+      padding: @nav-link-padding;
+      border-right: @nav-border-color @nav-border-width solid;
+    }
+
+    :last-child {
+      border-right: none;
+    }
+  }
+
+  /* Pagination */
+  .pagination {
+    margin: @pagination-margin;
+    height: @pagination-height;
+  }
+
+  /* Articles */
+  article {
+    margin: @article-margin;
+
+    /* Article headers */
+    header {
+      h1,
+      h2 {
+        margin-bottom: @article-header-margin-bottom;
+        text-align: center;
+      }
+
+      p {
+        color: @header-text-color;
+        font-size: @article-header-font-size;
+      }
+    }
+
+    /* Code elements */
+    code,
+    kbd,
+    samp,
+    pre {
+      font-family: @mono;
+    }
+
+    /* Blockquotes and code blocks */
+    blockquote,
+    pre {
+      background-color: @code-bg-color;
+      border-top-right-radius: @code-border-radius;
+      border-bottom-right-radius: @code-border-radius;
+      border-left: @code-border-left-width solid @code-border-color;
+    }
+
+    blockquote {
+      margin: 0;
+      padding: @blockquote-padding;
+      font-weight: @blockquote-font-weight;
+      font-size: @blockquote-font-size;
+    }
+
+    pre {
+      padding: @pre-padding;
+      font-size: @pre-font-size;
+      max-width: @pre-max-width;
+      white-space: pre-wrap; /* CSS-3 wrapping for long lines */
+    }
+
+    samp {
+      white-space: pre;
+      display: block;
+      overflow-x: auto;
+    }
+
+    /* Keyboard input styling */
+    kbd {
+      padding: @kbd-padding;
+      border: @kbd-border;
+      box-shadow: @kbd-box-shadow;
+      background-color: @kbd-bg-color;
+      color: @kbd-text-color;
+      border-radius: @kbd-border-radius;
+      display: inline-block;
+      margin: @kbd-margin;
+      white-space: nowrap;
+      font-size: @kbd-font-size;
+    }
+
+    /* Inline code */
+    *:not(pre) > code {
+      font-size: @inline-code-font-size;
+      white-space: nowrap;
+      color: @inline-code-color;
+      padding: @inline-code-padding;
+      background-color: @inline-code-bg-color;
+      border: @inline-code-border;
+      border-radius: @inline-code-border-radius;
+    }
+  }
+
+  /* Footer */
+  footer {
+    padding-top: @footer-padding-top;
+    border-top: @footer-border-color @footer-border-width solid;
+
+    p {
+      margin: @footer-p-margin;
+      text-align: center;
+      padding: @footer-p-padding;
+      color: @footer-text-color;
+      font-size: @footer-font-size;
+    }
+
+    span.footer-separator {
+      margin: @footer-separator-margin;
+    }
+  }
+}
+
+/* Dark theme main content */
+body.dark-theme main {
+  nav {
+    border-bottom-color: @nav-border-color-dark;
+
+    a {
+      border-right-color: @nav-border-color-dark;
+    }
+  }
+
+  article {
+    header p {
+      color: @header-text-color-dark;
+    }
+
+    blockquote,
+    pre {
+      background-color: @code-bg-color-dark;
+      border-left-color: @code-border-color-dark;
+    }
+
+    kbd {
+      border: @kbd-border-dark;
+      box-shadow: @kbd-box-shadow-dark;
+      background-color: @kbd-bg-color-dark;
+      color: @kbd-text-color-dark;
+    }
+
+    *:not(pre) > code {
+      color: @inline-code-color-dark;
+      background-color: @inline-code-bg-color-dark;
+      border: @inline-code-border-dark;
+    }
+  }
+
+  footer {
+    border-top-color: @footer-border-color-dark;
+
+    p {
+      color: @footer-text-color-dark;
+    }
+  }
+}
+
+/* ==========================================================================
+   6. UTILITY CLASSES
+   ========================================================================== */
+
+.center {
+  text-align: center;
+}
+
+.align-center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+/* ==========================================================================
+   7. CV / RESUME SPECIFIC STYLES
+   ========================================================================== */
+
+.cvcontainer {
+  display: flex;
+}
+
+/* ==========================================================================
+   JURY TABLE - Custom table for PhD/thesis committees
+   ========================================================================== */
+
+.jury-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-left: @jury-table-margin-left;
+  
+  td {
+    padding: @jury-cell-padding;
+    vertical-align: top;
+    border: none; /* Invisible borders */
+  }
+  
+  .jury-label {
+    width: @jury-label-width;
+    font-weight: bold;
+    padding-right: @jury-label-padding-right;
+  }
+  
+  .jury-details {
+    width: @jury-details-width;
+  }
+}
+
+/* Canvas elements for skill bars */
+canvas {
+  border: @canvas-border;
+  width: 100%;
+  height: @canvas-height;
+}
+
+body.dark-theme canvas {
+  border: @canvas-border-dark;
+}
+
+/* ==========================================================================
+   8. RESPONSIVE DESIGN
+   ========================================================================== */
+
+/* Tablet and smaller: stack CV sections vertically */
+@media screen and (max-width: @breakpoint-tablet) {
+  .cvcontainer {
+    display: block;
+  }
+}
+
+/* Desktop: fixed sidebar layout */
+@media screen and (min-width: @breakpoint-desktop) {
+  aside {
+    width: @sidebar-width;
+    height: 100vh;
+    position: fixed;
+    z-index: @sidebar-z-index;
+    top: 0;
+    left: 0;
+
+    div {
+      padding: @sidebar-padding-desktop;
+
+      nav {
+        ul {
+          li {
+            padding: 0 !important;
+            display: block;
+          }
+        }
+      }
+
+      ul.social {
+        padding-top: @social-icon-padding-top-desktop;
+      }
+    }
+  }
+
+  main {
+    height: 100vh;
+    position: relative;
+    padding-left: @sidebar-width;
+
+    article {
+      max-width: @article-max-width;
+
+      ul.list {
+        li {
+          padding: @list-item-padding-desktop;
+        }
+      }
+    }
+  }
+}

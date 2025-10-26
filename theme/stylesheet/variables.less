@@ -1,150 +1,295 @@
-// Flex colors
-@orange: #D9411E;
-@light-orange: #FF5A09;
-@white:  #ffffff;
+/* ==========================================================================
+   Theme Variables - Personal Academic Website
+   ========================================================================== */
+
+/* ==========================================================================
+   COLOR PALETTE
+   ========================================================================== */
+
+// Base colors
+@white: #ffffff;
+@black: #000000;
 @grey: #333333;
-@light-grey:  #eeeeee;
-@med-grey:  #999999;
+@light-grey: #eeeeee;
+@med-grey: #999999;
 @dark-grey: #242121;
 @solid-dark-grey: #222222;
 @very-dark-grey: #1a1a1a;
 @purple: purple;
-@dark-purple: #76448A;
 
-// Font family
+// Brand colors
+@orange: #D9411E;
+@light-orange: #FF5A09;
+
+/* ==========================================================================
+   TYPOGRAPHY
+   ========================================================================== */
+
+// Font families
 @sans: 'Source Sans Pro', 'Roboto', 'Open Sans', 'Liberation Sans', 'DejaVu Sans', 'Verdana', 'Helvetica', 'Arial', sans-serif;
 @mono: 'Source Code Pro', 'Consolas', 'Liberation Mono', 'DejaVu Sans Mono', monospace;
 
-// Body
+// Body typography
+@body-font-size: 1.02em;
+@body-line-height: 1.2em;
+
+// Heading styles
+@heading-font-weight: 300;
+@heading-line-height: 1.1;
+@h1-font-size: 2.4em;
+@h2-font-size: 2em;
+@h3-font-size: 1.6em;
+@h3-color: #2A70CC;
+@h3-color-dark: #5a9fee;
+@h4-font-size: 1.36em;
+@h5-font-size: 1.2em;
+@h6-font-size: 1.1em;
+
+/* ==========================================================================
+   BASE STYLES - LIGHT & DARK THEMES
+   ========================================================================== */
+
+// Body - Light theme
 @body-bg: #F5FAFA;
-@body-bg-dark-theme: @grey;
 @text-color: @dark-grey;
-@text-color-dark-theme: @light-grey;
+
+// Body - Dark theme
+@body-bg-dark: @grey;
+@text-color-dark: @light-grey;
 
 // Links
 @link-color: @purple;
 @link-hover-color: @purple;
+@link-color-dark: #bb86fc;
+@link-hover-color-dark: #da9dff;
 
-// Sidebar (aside)
+// Link borders (custom styling)
+@link-border-color: rgba(128, 128, 128, 0.5);
+@link-border-color-dark: rgba(200, 200, 200, 0.4);
+@link-border-style: dotted 1px;
+
+// Active state colors
+@active-hover-color: #A9CCE3;
+@active-hover-color-dark: #6EA8D9;
+
+// Horizontal rule
+@hr-height: 1px;
+@hr-margin-vertical: 40px;
+@hr-color: @light-grey;
+@hr-bg-color: @med-grey;
+@hr-color-dark: @solid-dark-grey;
+@hr-bg-color-dark: @med-grey;
+
+/* ==========================================================================
+   SIDEBAR (aside)
+   ========================================================================== */
+
+// Light theme
 @sidebar-bg: @grey;
-@sidebar-bg-dark-theme: @solid-dark-grey;
 @sidebar-text-color: @white;
 @sidebar-link-color: @white;
 @sidebar-link-hover-color: @light-grey;
 
-// Buttons
+// Dark theme
+@sidebar-bg-dark: @solid-dark-grey;
+@sidebar-text-color-dark: @white;
+@sidebar-link-color-dark: @white;
+@sidebar-link-hover-color-dark: @light-grey;
+
+// Common
+@sidebar-padding: 20px;
+@sidebar-padding-desktop: 36px 18px;
+@sidebar-h1-margin: 15px 0 5px 0;
+@sidebar-p-margin: 0 0 15px 0;
+@sidebar-p-font-size: .92em;
+@sidebar-nav-line-height: 1.6em;
+@sidebar-nav-font-size: 1.28em;
+@sidebar-width: 25vw;
+@sidebar-z-index: 1000;
+
+/* ==========================================================================
+   SOCIAL ICONS
+   ========================================================================== */
+
+@social-icon-font-size: 1.6em;
+@social-icon-padding-top: 20px;
+@social-icon-padding-top-desktop: 32px;
+@social-icon-size: 36px;
+@social-icon-border-radius: 100%;
+@social-icon-inner-font-size: .8em;
+@social-icon-hover-translate: -2px;
+
+/* ==========================================================================
+   NAVIGATION
+   ========================================================================== */
+
+// Light theme
+@nav-border-color: @light-grey;
+
+// Dark theme
+@nav-border-color-dark: @solid-dark-grey;
+
+// Common
+@nav-border-width: 1px;
+@nav-padding: 14px 0 14px 0;
+@nav-font-size: 12px;
+@nav-link-padding: 0 4px;
+
+/* ==========================================================================
+   BUTTONS
+   ========================================================================== */
+
 @btn-bg: @orange;
 @btn-text-color: @white;
 @btn-hover-color: @light-orange;
+@btn-padding: .6em .6em;
+@btn-font-size: .8em;
+@btn-border-radius: .25em;
 
-// Tag cloud
-@tag-bg: @orange;
-@tag-text-color: @white;
-@tag-hover-color: @light-orange;
+/* ==========================================================================
+   CONTENT AREA
+   ========================================================================== */
 
 // Header
 @header-text-color: @med-grey;
+@header-text-color-dark: #aaaaaa;
 
-// Footer
+// Footer - Light theme
 @footer-text-color: @med-grey;
 @footer-border-color: @light-grey;
-@footer-border-color-dark-theme: @solid-dark-grey;
 
-// Relative posts
-@rel-post-border-color: @light-grey;
-@rel-post-border-color-dark-theme: @solid-dark-grey;
+// Footer - Dark theme
+@footer-text-color-dark: #aaaaaa;
+@footer-border-color-dark: @solid-dark-grey;
 
-// Nav
-@nav-border-color: @light-grey;
-@nav-border-color-dark-theme: @solid-dark-grey;
+// Footer - Common
+@footer-border-width: 1px;
+@footer-padding-top: 4px;
+@footer-p-margin: 2px;
+@footer-p-padding: 0 40px 0 40px;
+@footer-font-size: 11px;
+@footer-separator-margin: 0 6px;
 
-// Social buttons
+// Pagination
+@pagination-margin: 4% 8% 4% 8%;
+@pagination-height: 20px;
 
-@email-bg-color: #578ad6;
-@facebook-bg-color: #3e5b98;
-@github-bg-color: #111010;
-@google-bg-color: #d93e2d;
-@instagram-bg-color: #125688;
-@keybase-bg-color: #4c8dff;
-@linkedin-bg-color: #3371b7;
-@medium-bg-color: #00ab6b;
-@pinterest-bg-color: #c92619;
-@reddit-bg-color: #ff4500;
-@rss-bg-color: #f26109;
-@soundcloud-bg-color: #ff5500;
-@stack-overflow-bg-color: #ff9900;
-@tumblr-bg-color: #36465d;
-@twitch-bg-color: #a970ff;
-@twitter-bg-color: #4da7de;
-@youtube-bg-color: #e02a20;
-@gitlab-bg-color: #fca326;
-@xing-bg-color: #007575;
-@bitbucket-bg-color: #0747A6;
-@mastodon-bg-color: #3088d4;
-@diaspora-color: #000000;
-@diaspora-bg-color: #D5D5D5;
-@flickr-bg-color: #ff0084;
-@lastfm-bg-color: #d92323;
+// Articles
+@article-margin: 0 8% 2% 8%;
+@article-max-width: 860px;
+@article-header-margin-bottom: 50px;
+@article-header-font-size: 0.86em;
 
-// Admonition colors
-@admonition-generic-color: @dark-grey;
-@admonition-generic-color-dark-theme: @light-grey;
-@admonition-generic-bg-color: #cccccc;
-@admonition-generic-bg-color-dark-theme: #404040;
+/* ==========================================================================
+   CODE & BLOCKQUOTES
+   ========================================================================== */
 
-@admonition-attention-color: #856404;
-@admonition-attention-color-dark-theme: #fbda7a;
-@admonition-attention-bg-color: #fff3cd;
-@admonition-attention-bg-color-dark-theme: #4a3900;
-@admonition-attention-icon: "\f071\00a0 ";
+// Code blocks - Light theme
+@code-bg-color: rgba(128,128,128,0.05);
+@code-border-color: rgba(128,128,128,0.075);
 
-@admonition-caution-color: @admonition-attention-color;
-@admonition-caution-color-dark-theme: @admonition-attention-color-dark-theme;
-@admonition-caution-bg-color: @admonition-attention-bg-color;
-@admonition-caution-bg-color-dark-theme: @admonition-attention-bg-color-dark-theme;
-@admonition-caution-icon: @admonition-attention-icon;
+// Code blocks - Dark theme
+@code-bg-color-dark: rgba(255,255,255,0.05);
+@code-border-color-dark: rgba(255,255,255,0.1);
 
-@admonition-warning-color: @admonition-attention-color;
-@admonition-warning-color-dark-theme: @admonition-attention-color-dark-theme;
-@admonition-warning-bg-color: @admonition-attention-bg-color;
-@admonition-warning-bg-color-dark-theme: @admonition-attention-bg-color-dark-theme;
-@admonition-warning-icon: @admonition-attention-icon;
+// Code blocks - Common
+@code-border-radius: 5px;
+@code-border-left-width: 10px;
 
-@admonition-danger-color: #721c24;
-@admonition-danger-color-dark-theme: #ebadb3;
-@admonition-danger-bg-color: #f8d7da;
-@admonition-danger-bg-color-dark-theme: #28070a;
-@admonition-danger-icon: "\f06a\00a0 ";
+// Blockquotes
+@blockquote-padding: 10px 20px;
+@blockquote-font-weight: 300;
+@blockquote-font-size: 1.1em;
 
-@admonition-error-color: @admonition-danger-color;
-@admonition-error-color-dark-theme: @admonition-danger-color-dark-theme;
-@admonition-error-bg-color: @admonition-danger-bg-color;
-@admonition-error-bg-color-dark-theme: @admonition-danger-bg-color-dark-theme;
-@admonition-error-icon: @admonition-danger-icon;
+// Pre-formatted text
+@pre-padding: 4px;
+@pre-font-size: .9em;
+@pre-max-width: 760px;
 
-@admonition-hint-color: #004085 ;
-@admonition-hint-color-dark-theme: #7abaff;
-@admonition-hint-bg-color: #cce5ff;
-@admonition-hint-bg-color-dark-theme: #001933;
-@admonition-hint-icon: "\f0eb\00a0 ";
+// Keyboard input - Light theme
+@kbd-padding: .1em .6em;
+@kbd-border: 1px solid rgba(63,63,63,0.25);
+@kbd-box-shadow: 0 1px 0 rgba(63,63,63,0.25);
+@kbd-bg-color: #fff;
+@kbd-text-color: #333;
 
-@admonition-tip-color: @admonition-hint-color;
-@admonition-tip-color-dark-theme: @admonition-hint-color-dark-theme;
-@admonition-tip-bg-color: @admonition-hint-bg-color;
-@admonition-tip-bg-color-dark-theme: @admonition-hint-bg-color-dark-theme;
-@admonition-tip-icon: @admonition-hint-icon;
+// Keyboard input - Dark theme
+@kbd-border-dark: 1px solid rgba(255,255,255,0.25);
+@kbd-box-shadow-dark: 0 1px 0 rgba(255,255,255,0.15);
+@kbd-bg-color-dark: #2a2a2a;
+@kbd-text-color-dark: #e0e0e0;
 
-@admonition-important-color: #155724;
-@admonition-important-color-dark-theme: #a8eab7;
-@admonition-important-bg-color: #d4edda;
-@admonition-important-bg-color-dark-theme: #122b18;
-@admonition-important-icon: "\f05a\00a0 ";
+// Keyboard input - Common
+@kbd-border-radius: 3px;
+@kbd-margin: 0 .1em;
+@kbd-font-size: .78em;
 
-@admonition-note-color: @admonition-important-color;
-@admonition-note-color-dark-theme: @admonition-important-color-dark-theme;
-@admonition-note-bg-color: @admonition-important-bg-color;
-@admonition-note-bg-color-dark-theme: @admonition-important-bg-color-dark-theme;
-@admonition-note-icon: @admonition-important-icon;
+// Inline code - Light theme
+@inline-code-font-size: .8em;
+@inline-code-color: #c25;
+@inline-code-padding: 1px 3px;
+@inline-code-bg-color: #f7f7f9;
+@inline-code-border: 1px solid #e1e1e8;
 
-@figure-color: #6c757d;
-@figure-color-dark-theme: #bfbfbf;
+// Inline code - Dark theme
+@inline-code-color-dark: #ff6b9d;
+@inline-code-bg-color-dark: #2a2a2a;
+@inline-code-border-dark: 1px solid #444444;
+
+// Inline code - Common
+@inline-code-border-radius: 3px;
+
+/* ==========================================================================
+   TABLES
+   ========================================================================== */
+
+// Light theme
+@table-border: 1px solid #ddd;
+
+// Dark theme
+@table-border-dark: 1px solid #444;
+
+// Common
+@table-width: 95%;
+@table-cell-padding: 8px;
+@table-line-height: 20px;
+
+// Syntax highlighting
+@linenos-width: 2.5em;
+@linenos-padding: .8em;
+
+/* ==========================================================================
+   LISTS
+   ========================================================================== */
+
+@list-padding: 1em 0 1em 0;
+@list-item-padding: 4px;
+@list-item-padding-desktop: 2px;
+@nested-list-padding: 20px;
+
+/* ==========================================================================
+   CV / RESUME
+   ========================================================================== */
+
+// Canvas skill bars - Light theme
+@canvas-border: solid 1px black;
+
+// Canvas skill bars - Dark theme
+@canvas-border-dark: solid 1px #666;
+
+// Canvas - Common
+@canvas-height: 10px;
+
+// Jury table (PhD/thesis committees)
+@jury-table-margin-left: 20px;
+@jury-label-width: 5%;
+@jury-details-width: 90%;
+@jury-label-padding-right: 5px;
+@jury-cell-padding: 0.1em 0;
+
+/* ==========================================================================
+   RESPONSIVE BREAKPOINTS
+   ========================================================================== */
+
+@breakpoint-desktop: 768px;
+@breakpoint-tablet: 1250px;
