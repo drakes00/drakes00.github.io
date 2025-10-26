@@ -412,7 +412,8 @@ main {
 
   /* Footer */
   footer {
-    padding-top: @footer-padding-top;
+    padding-top: @footer-padding;
+    padding-bottom: @footer-padding;
     border-top: @footer-border-color @footer-border-width solid;
 
     p {
@@ -530,6 +531,60 @@ canvas {
 
 body.dark-theme canvas {
   border: @canvas-border-dark;
+}
+
+/* ==========================================================================
+   9. THEME SWITCHER
+   ========================================================================== */
+
+.theme-controls {
+  margin-top: 1em;
+}
+
+.theme-selector {
+  display: flex;
+  justify-content: center;
+  border: 1px solid @hr-color;
+  border-radius: @theme-selector-border-radius;
+  overflow: hidden;
+  max-width: max-content;
+  margin: 0 auto;
+
+  button {
+    background: transparent;
+    border: none;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    color: @text-color;
+    font-size: 0.9em;
+
+    &:hover {
+      background-color: @theme-selector-button-hover-bg;
+    }
+
+    &.active {
+      background-color: @link-color;
+      color: @theme-selector-button-active-color;
+    }
+  }
+}
+
+/* Dark theme switcher */
+body.dark-theme .theme-selector {
+  border-color: @hr-color-dark;
+
+  button {
+    color: @text-color-dark;
+
+    &:hover {
+      background-color: @theme-selector-button-hover-bg-dark;
+    }
+
+    &.active {
+      background-color: @link-color-dark;
+      color: @body-bg-dark;
+    }
+  }
 }
 
 /* ==========================================================================
