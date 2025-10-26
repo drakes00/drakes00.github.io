@@ -1536,9 +1536,6 @@ d'Albertville.&lt;/li&gt;
 chuan de Grenoble.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p align="center"&gt;
-  &lt;picture&gt;
-    &lt;source srcset="images/wordcloud-dark.png" media="(prefers-color-scheme: dark)"&gt;
-    &lt;source srcset="images/wordcloud-light.png" media="(prefers-color-scheme: light)"&gt;
-    &lt;img src="images/wordcloud-light.png" alt="Themed image"&gt;
-  &lt;/picture&gt;
+  &lt;img class="themed-image light-image" src="images/wordcloud-light.png" alt="Word cloud"&gt;
+  &lt;img class="themed-image dark-image" src="images/wordcloud-dark.png" alt="Word cloud"&gt;
 &lt;/p&gt;</content><category term="60"/></entry></feed>
