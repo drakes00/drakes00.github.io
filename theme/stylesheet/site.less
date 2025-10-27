@@ -41,7 +41,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 { font-size: @h1-font-size; }
-h2 { font-size: @h2-font-size; }
+h2 {
+  font-size: @h2-font-size;
+  color: @h2-color;
+}
 h3 { 
   font-size: @h3-font-size;
   color: @h3-color;
@@ -51,6 +54,9 @@ h5 { font-size: @h5-font-size; }
 h6 { font-size: @h6-font-size; }
 
 /* Dark theme headings */
+body.dark-theme h2 {
+  color: @h2-color-dark;
+}
 body.dark-theme h3 {
   color: @h3-color-dark;
 }
@@ -61,6 +67,7 @@ a {
   text-decoration: none;
   font-weight: bold;
   border-bottom: @link-border-style @link-border-color;
+  border-bottom: none;
 
   /* Remove border for sidebar links */
   aside & {
