@@ -3,4 +3,4 @@
 	url = https://gitlab.limos.fr/mapuys-teaching/r5.a.05-symfony
 [submodule "pdf/teaching/isima_3a_seciiot"]
 	path = pdf/teaching/isima_3a_seciiot
-	url = https://gitlab.isima.fr/mapuys/fisa3-seciiot.git
+	url = https://gitlab.limos.fr/mapuys-teaching/fisa3-seciiot
