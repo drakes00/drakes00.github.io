@@ -1,6 +1,0 @@
-[submodule "pdf/teaching/but_3a_symfony"]
-	path = pdf/teaching/but_3a_symfony
-	url = https://gitlab.limos.fr/mapuys-teaching/r5.a.05-symfony
-[submodule "pdf/teaching/isima_3a_seciiot"]
-	path = pdf/teaching/isima_3a_seciiot
-	url = https://gitlab.limos.fr/mapuys-teaching/fisa3-seciiot
