@@ -36,17 +36,37 @@
     <meta name="author" content="Maxime Puys" />
     <meta name="description" content="Maxime Puys, Associate Professor" />
   <meta property="og:site_name" content="Maxime Puys"/>
-  <meta property="og:type" content="blog"/>
+  <meta property="og:type" content="website"/>
   <meta property="og:title" content="Maxime Puys"/>
   <meta property="og:description" content="Maxime Puys, Associate Professor"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:url" content="https://maxime.puys.name"/>
   <meta property="og:image" content="https://maxime.puys.name/images/profile.png">
+  <meta property="og:image:alt" content="Maxime Puys, Ph.D">
+  <meta name="twitter:card" content="summary">
 
   <title>Maxime Puys</title>
 </head>
 
 <body>
+
+  <script>
+    // Anti-flash: applies the saved/system theme before anything paints, so
+    // dark-mode visitors don't see a flash of the light theme. Mirrors
+    // dark-theme.js's getThemePreference()+applyTheme(); document.body
+    // doesn't exist yet during <head>, so this has to be the first thing
+    // inside <body> instead. The full module (button wiring, watching for
+    // system-preference changes) still loads normally via footer.html.
+    (function () {
+      try {
+        var saved = localStorage.getItem('theme-preference');
+        var dark = saved === 'dark' || (saved !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+        if (dark) {
+          document.body.classList.add('dark-theme');
+        }
+      } catch (e) {}
+    })();
+  </script>
 
   <aside>
     <div>
@@ -67,22 +87,22 @@
 
 
             <li>
-              <a target="_self" href="#me" >Me</a>
+              <a target="_self" rel="noopener" href="#me" >Me</a>
             </li>
             <li>
-              <a target="_self" href="#cv" >Curriculum Vitæ</a>
+              <a target="_self" rel="noopener" href="#cv" >Curriculum Vitæ</a>
             </li>
             <li>
-              <a target="_self" href="#publications" >Publications</a>
+              <a target="_self" rel="noopener" href="#publications" >Publications</a>
             </li>
             <li>
-              <a target="_self" href="#research" >Research</a>
+              <a target="_self" rel="noopener" href="#research" >Research</a>
             </li>
             <li>
-              <a target="_self" href="#teaching" >Teaching</a>
+              <a target="_self" rel="noopener" href="#teaching" >Teaching</a>
             </li>
             <li>
-              <a target="_self" href="#links" >Links</a>
+              <a target="_self" rel="noopener" href="#links" >Links</a>
             </li>
         </ul>
       </nav>
@@ -1512,7 +1532,7 @@ Permission is explicitly granted to copy, distribute and/or modify these documen
 </blockquote>
 <h3>BUT 3A Symfony</h3>
 <ul>
-<li>Lecture 0 -- Administative basics, <a href="https://gitlab.limos.fr/mapuys-teaching/r5.a.05-symfony/-/raw/public/lectures/0/cours_symfony_3a_0.pdf">[Slides]</a></li>
+<li>Lecture 0 -- Administrative basics, <a href="https://gitlab.limos.fr/mapuys-teaching/r5.a.05-symfony/-/raw/public/lectures/0/cours_symfony_3a_0.pdf">[Slides]</a></li>
 <li>Lecture 1 -- Introduction, <a href="https://gitlab.limos.fr/mapuys-teaching/r5.a.05-symfony/-/raw/public/lectures/1/cours_symfony_3a_1.pdf">[Slides]</a> <a href="https://gitlab.limos.fr/mapuys-teaching/r5.a.05-symfony/-/raw/public/labs/1/lab1.md">[Lab1]</a></li>
 <li>Lecture 2 -- Routing, Services, <a href="https://gitlab.limos.fr/mapuys-teaching/r5.a.05-symfony/-/raw/public/lectures/2/cours_symfony_3a_2.pdf">[Slides]</a> <a href="https://gitlab.limos.fr/mapuys-teaching/r5.a.05-symfony/-/raw/public/labs/2/lab2.md">[Lab2]</a></li>
 <li>Lecture 3 -- Doctrine, Twig, <a href="https://gitlab.limos.fr/mapuys-teaching/r5.a.05-symfony/-/raw/public/lectures/3/cours_symfony_3a_3.pdf">[Slides]</a> <a href="https://gitlab.limos.fr/mapuys-teaching/r5.a.05-symfony/-/raw/public/labs/3/lab3_doctrine.md">[Lab3.1]</a> <a href="https://gitlab.limos.fr/mapuys-teaching/r5.a.05-symfony/-/blob/public/labs/3/lab3_twig.md">[Lab3.2]</a></li>
@@ -1525,7 +1545,7 @@ Permission is explicitly granted to copy, distribute and/or modify these documen
 </ul>
 <h3>ISIMA FISA3 Industrial Systems Cybersecurity</h3>
 <ul>
-<li>Lecture 0 -- Administative basics, <a href="https://gitlab.limos.fr/mapuys-teaching/fisa3-seciiot/-/raw/public/lectures/0/cours_seciiot_3a_0.pdf">[Slides]</a></li>
+<li>Lecture 0 -- Administrative basics, <a href="https://gitlab.limos.fr/mapuys-teaching/fisa3-seciiot/-/raw/public/lectures/0/cours_seciiot_3a_0.pdf">[Slides]</a></li>
 <li>Lecture 1 -- Introduction basics, <a href="https://gitlab.limos.fr/mapuys-teaching/fisa3-seciiot/-/raw/public/lectures/1/cours_seciiot_3a_1.pdf">[Slides]</a></li>
 <li>Lecture 2 -- Industrial Systems Architectures, <a href="https://gitlab.limos.fr/mapuys-teaching/fisa3-seciiot/-/raw/public/lectures/2/cours_seciiot_3a_2.pdf">[Slides]</a></li>
 <li>Lecture 3 -- Safety/Security Risk Analyzes, <a href="https://gitlab.limos.fr/mapuys-teaching/fisa3-seciiot/-/raw/public/lectures/3/cours_seciiot_3a_3.pdf">[Slides]</a></li>
@@ -1585,10 +1605,8 @@ d'Albertville.</li>
 <li>[<a href="http://akwtg.asso.fr/">AKWTG</a>] Académie de Kung fu Wushu et Taichi
 chuan de Grenoble.</li>
 </ul>
-<p align="center">
-  <img class="themed-image light-image" src="images/wordcloud-light.png" alt="Word cloud">
-  <img class="themed-image dark-image" src="images/wordcloud-dark.png" alt="Word cloud">
-</p></div>
+<p><img class="themed-image light-image align-center" src="images/wordcloud-light.png" alt="Word cloud">
+<img class="themed-image dark-image align-center" src="images/wordcloud-dark.png" alt="Word cloud"></p></div>
   </div>
 </article>
 
@@ -1602,15 +1620,17 @@ chuan de Grenoble.</li>
 <p>&copy; 2026 Maxime Puys</p>
 
 <p>
-Built with <a href="http://getpelican.com" target="_blank">Pelican</a> using <a href="http://bit.ly/flex-pelican" target="_blank">Flex</a> theme
+Built with <a href="http://getpelican.com" target="_blank" rel="noopener noreferrer">Pelican</a> using <a href="https://github.com/alexandrevicenzi/Flex" target="_blank" rel="noopener noreferrer">Flex</a> theme
   <script id="dark-theme-script"
           src="https://maxime.puys.name/theme/dark-theme/dark-theme.js"
           type="text/javascript">
   </script>
 
   <div class="theme-controls">
-    <div class="theme-selector">
+    <div class="theme-selector" role="radiogroup" aria-label="Theme">
       <button
+        role="radio"
+        aria-checked="false"
         data-theme-toggle="light"
         onclick="window.themeManager.setTheme('light')"
         aria-label="Switch to light theme"
@@ -1618,6 +1638,8 @@ Built with <a href="http://getpelican.com" target="_blank">Pelican</a> using <a 
         <i class="fas fa-sun"></i>
       </button>
       <button
+        role="radio"
+        aria-checked="false"
         data-theme-toggle="auto"
         onclick="window.themeManager.setTheme('auto')"
         aria-label="Switch to auto theme"
@@ -1625,6 +1647,8 @@ Built with <a href="http://getpelican.com" target="_blank">Pelican</a> using <a 
         <i class="fas fa-adjust"></i>
       </button>
       <button
+        role="radio"
+        aria-checked="false"
         data-theme-toggle="dark"
         onclick="window.themeManager.setTheme('dark')"
         aria-label="Switch to dark theme"
@@ -1644,9 +1668,9 @@ Built with <a href="http://getpelican.com" target="_blank">Pelican</a> using <a 
 
 <script type="application/ld+json">
 {
-  "@context" : "http://schema.org",
-  "@type" : "Blog",
-  "name": " Maxime Puys ",
+  "@context" : "https://schema.org",
+  "@type" : "Person",
+  "name": "Maxime Puys",
   "url" : "https://maxime.puys.name",
   "image": "https://maxime.puys.name/images/profile.png",
   "description": "Maxime Puys, Associate Professor"

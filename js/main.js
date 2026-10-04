@@ -2,12 +2,6 @@
 
 	$(function() {
 
-		var	$window = $(window),
-			$body = $('body');
-
-		// Scrolly links.
-			$('.scrolly').scrolly();
-
 		// Nav.
 			var $nav_a = $('aside a');
 
@@ -27,10 +21,11 @@
 						// Clear active and lock scrollzer until scrolling has stopped
 							$nav_a
 								.removeClass('active')
+								.removeAttr('aria-current');
 
 
 						// Set this link to active
-							t.addClass('active');
+							t.addClass('active').attr('aria-current', 'page');
 
 					});
 

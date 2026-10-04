@@ -37,7 +37,6 @@
     } else {
       document.body.classList.remove(THEME_CLASS);
     }
-    console.log(document.body.classList);
   }
 
   /**
@@ -76,10 +75,10 @@
       const mode = btn.dataset.themeToggle;
       if (mode === activeMode) {
         btn.classList.add('active');
-        btn.setAttribute('aria-pressed', 'true');
+        btn.setAttribute('aria-checked', 'true');
       } else {
         btn.classList.remove('active');
-        btn.setAttribute('aria-pressed', 'false');
+        btn.setAttribute('aria-checked', 'false');
       }
     });
   }

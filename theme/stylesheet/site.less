@@ -67,7 +67,6 @@ a {
   text-decoration: none;
   font-weight: bold;
   border-bottom: @link-border-style @link-border-color;
-  border-bottom: none;
 
   /* Remove border for sidebar links */
   aside & {
@@ -108,13 +107,11 @@ a.btn:hover {
 }
 
 /* Active state styling */
-.active {
-  .active:hover {
-    color: @active-hover-color;
-  }
+.active:hover {
+  color: @active-hover-color;
 }
 
-body.dark-theme .active .active:hover {
+body.dark-theme .active:hover {
   color: @active-hover-color-dark;
 }
 
@@ -171,13 +168,6 @@ table {
     padding: @table-cell-padding;
     line-height: @table-line-height;
     vertical-align: top;
-    border-top: @table-border;
-  }
-}
-
-body.dark-theme table {
-  th, td {
-    border-top: @table-border-dark;
   }
 }
 
@@ -636,7 +626,6 @@ body.dark-theme .theme-selector {
       nav {
         ul {
           li {
-            padding: 0 !important;
             display: block;
           }
         }
@@ -648,8 +637,12 @@ body.dark-theme .theme-selector {
     }
   }
 
+  aside nav ul.list li {
+    padding: 0;
+  }
+
   main {
-    height: 100vh;
+    min-height: 100vh;
     position: relative;
     padding-left: @sidebar-width;
 

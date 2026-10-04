@@ -18,8 +18,11 @@
 @purple: purple;
 
 // Brand colors
-@orange: #D9411E;
-@light-orange: #FF5A09;
+// Both darkened just enough to keep white .btn text at/above WCAG AA's 4.5:1
+// contrast ratio (checked with the standard relative-luminance formula) --
+// the originals were 4.44:1 and 3.13:1.
+@orange: #D5401D;
+@light-orange: #D14500;
 
 /* ==========================================================================
    TYPOGRAPHY
@@ -31,7 +34,11 @@
 
 // Body typography
 @body-font-size: 1.02em;
-@body-line-height: 1.2em;
+// Unitless: a unitted line-height computes once on body and is inherited by
+// descendants as a fixed px value rather than scaling with their own
+// font-size. (Not a WCAG 1.4.12 requirement -- that SC only requires content
+// not break under a user-applied override, it sets no default value.)
+@body-line-height: 1.3;
 
 // Heading styles
 @heading-font-weight: 300;
@@ -77,9 +84,12 @@
 // Horizontal rule
 @hr-height: 1px;
 @hr-margin-vertical: 40px;
-@hr-color: @light-grey;
+// #8A8A8A/#7A8695 (not @light-grey/@solid-dark-grey) so the theme-selector
+// border, the only place this value is visually used, clears WCAG 1.4.11's
+// 3:1 contrast for a UI-component boundary -- the originals were ~1.2:1.
+@hr-color: #8A8A8A;
 @hr-bg-color: @med-grey;
-@hr-color-dark: @solid-dark-grey;
+@hr-color-dark: #7A8695;
 @hr-bg-color-dark: @med-grey;
 
 /* ==========================================================================
@@ -157,7 +167,9 @@
 @header-text-color-dark: #aaaaaa;
 
 // Footer - Light theme
-@footer-text-color: @med-grey;
+// #666666 (not @med-grey #999999) to clear WCAG AA contrast on @body-bg --
+// @med-grey only reached 2.70:1, this reaches 5.45:1.
+@footer-text-color: #666666;
 @footer-border-color: @light-grey;
 
 // Footer - Dark theme
@@ -169,7 +181,7 @@
 @footer-padding: 10px;
 @footer-p-margin: 2px;
 @footer-p-padding: 0 40px 0 40px;
-@footer-font-size: 11px;
+@footer-font-size: 12px;
 @footer-separator-margin: 0 6px;
 
 // Pagination
@@ -245,13 +257,6 @@
    TABLES
    ========================================================================== */
 
-// Light theme
-@table-border: 0px solid #ddd;
-
-// Dark theme
-@table-border-dark: 0px solid #444;
-
-// Common
 @table-width: 95%;
 @table-cell-padding: 8px;
 @table-line-height: 20px;
