@@ -32,10 +32,19 @@
    * Apply the theme to the document
    */
   function applyTheme(theme) {
-    if (theme === 'dark') {
+    var dark = theme === 'dark';
+
+    if (dark) {
       document.body.classList.add(THEME_CLASS);
     } else {
       document.body.classList.remove(THEME_CLASS);
+    }
+
+    var pygmentsLight = document.getElementById('pygments-light');
+    var pygmentsDark = document.getElementById('pygments-dark');
+    if (pygmentsLight && pygmentsDark) {
+      pygmentsLight.disabled = dark;
+      pygmentsDark.disabled = !dark;
     }
   }
 

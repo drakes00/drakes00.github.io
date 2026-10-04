@@ -14,6 +14,32 @@ html, body {
   height: 100%;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+/* Skip link: off-screen until focused, so keyboard users can jump past the
+   sidebar nav straight to <main> instead of tabbing through every link. */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  z-index: @sidebar-z-index + 1;
+  padding: 0.5em 1em;
+  background-color: @body-bg;
+  color: @text-color;
+  border-bottom: none;
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
+body.dark-theme .skip-link {
+  background-color: @body-bg-dark;
+  color: @text-color-dark;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -69,7 +95,7 @@ a {
   border-bottom: @link-border-style @link-border-color;
 
   /* Remove border for sidebar links */
-  aside & {
+  .sidebar & {
     border-bottom: none;
   }
 }
@@ -216,7 +242,7 @@ table.highlighttable {
    4. SIDEBAR (aside)
    ========================================================================== */
 
-aside {
+.sidebar {
   background-color: @sidebar-bg;
   color: @sidebar-text-color;
   text-align: center;
@@ -256,7 +282,7 @@ aside {
 }
 
 /* Dark theme sidebar */
-body.dark-theme aside {
+body.dark-theme .sidebar {
   background-color: @sidebar-bg-dark;
   color: @sidebar-text-color-dark;
 
@@ -508,6 +534,22 @@ body.dark-theme .themed-image.light-image {
   display: flex;
 }
 
+/* Contact info on the "Me" page: a label/value list, not tabular data. */
+dl.contact-info {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.5em 1em;
+  margin: 0;
+
+  dt {
+    font-weight: bold;
+  }
+
+  dd {
+    margin: 0;
+  }
+}
+
 /* ==========================================================================
    JURY TABLE - Custom table for PhD/thesis committees
    ========================================================================== */
@@ -612,7 +654,7 @@ body.dark-theme .theme-selector {
 
 /* Desktop: fixed sidebar layout */
 @media screen and (min-width: @breakpoint-desktop) {
-  aside {
+  .sidebar {
     width: @sidebar-width;
     height: 100vh;
     position: fixed;
@@ -637,7 +679,7 @@ body.dark-theme .theme-selector {
     }
   }
 
-  aside nav ul.list li {
+  .sidebar nav ul.list li {
     padding: 0;
   }
 

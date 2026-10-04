@@ -1,36 +1,27 @@
-(function($) {
+(function () {
 
-	$(function() {
+	var navLinks = document.querySelectorAll('.sidebar a');
 
-		// Nav.
-			var $nav_a = $('aside a');
+	navLinks.forEach(function (link) {
+		link.addEventListener('click', function () {
 
-			// Scrolly-fy links.
-				$nav_a
-					.scrolly()
-					.on('click', function(e) {
+			var href = link.getAttribute('href');
 
-						var t = $(this),
-							href = t.attr('href');
+			if (href[0] != '#')
+				return;
 
-						if (href[0] != '#')
-							return;
+			// Clear active on every link, then set it on this one.
+			navLinks.forEach(function (l) {
+				l.classList.remove('active');
+				l.removeAttribute('aria-current');
+			});
 
-						e.preventDefault();
+			link.classList.add('active');
+			link.setAttribute('aria-current', 'page');
 
-						// Clear active and lock scrollzer until scrolling has stopped
-							$nav_a
-								.removeClass('active')
-								.removeAttr('aria-current');
-
-
-						// Set this link to active
-							t.addClass('active').attr('aria-current', 'page');
-
-					});
-
-
-
+			// The actual smooth-scroll to the anchor is left to the browser,
+			// driven by `scroll-behavior: smooth` in site.less.
+		});
 	});
 
-})(jQuery);
+})();
