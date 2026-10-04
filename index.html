@@ -163,7 +163,7 @@
       <div>
         <div style="position: relative; text-align: center;">
             <div style="float: left; width: 30%; position: absolute; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-0%, -50%);">
-                <img src="images/id.png" alt="Photo" width="600" height="746" style="border: 1px solid black; width:100%; max-width: 300px;" />
+                <img src="images/id.png" alt="Photo" width="600" height="746" style="border: 1px solid black; width:100%; max-width: 300px; height: auto;" />
             </div>
 
             <div style="margin-left: 35%; text-align: left;">
@@ -218,261 +218,185 @@
             <div style="flex:56%;">
                 <!-- Fields of Expertise -->
                 <h3>Fields of Expertise</h3>
-                <table>
-                    <tr style="display: flex;">
-                        <td style="flex: 22%; text-align: right;">Cybersecurity</td>
-                        <td style="flex: 78%;">
-                            <ul>
-                                <li>Industrial Control Systems / SCADA</li>
-                                <li>IoT and Network Cybersecurity</li>
-                                <li>Cryptography / Security Protocols</li>
-                                <li>Formal Methods for Cybersecurity</li>
-                                <li>Certification Standards</li>
-                            </ul>
-                        </td>
-                    </tr>
-                    <tr style="display: flex;">
-                        <td style="flex: 22%; text-align: right;">Machine Learning</td>
-                        <td style="flex: 78%;">
-                            <ul>
-                                <li>ML-based attack detection</li>
-                                <li>Supervised and unsupervised ML</li>
-                                <li>Embedded ML</li>
-                            </ul>
-                        </td>
-                    </tr>
-                    <tr style="display: flex;">
-                        <td style="flex: 22%; text-align: right;">Teaching and Scientific Supervision</td>
-                        <td style="flex: 78%;">
-                            <ul>
-                                <li>2 defended Ph.D and 3 on-going</li>
-                                <li>6 articles in international jourals</li>
-                                <li>26 articles in international conferences</li>
-                                <li>12 defended MSc</li>
-                                <li>Teaching Cybersecurity, AI and Web</li>
-                            </ul>
-                        </td>
-                    </tr>
-                </table>
+                <dl class="cv-fields" style="--cv-fields-label-width: 22%;">
+                    <dt style="text-align: right;">Cybersecurity</dt>
+                    <dd>
+                        <ul>
+                            <li>Industrial Control Systems / SCADA</li>
+                            <li>IoT and Network Cybersecurity</li>
+                            <li>Cryptography / Security Protocols</li>
+                            <li>Formal Methods for Cybersecurity</li>
+                            <li>Certification Standards</li>
+                        </ul>
+                    </dd>
+                    <dt style="text-align: right;">Machine Learning</dt>
+                    <dd>
+                        <ul>
+                            <li>ML-based attack detection</li>
+                            <li>Supervised and unsupervised ML</li>
+                            <li>Embedded ML</li>
+                        </ul>
+                    </dd>
+                    <dt style="text-align: right;">Teaching and Scientific Supervision</dt>
+                    <dd>
+                        <ul>
+                            <li>2 defended Ph.D and 3 on-going</li>
+                            <li>6 articles in international journals</li>
+                            <li>26 articles in international conferences</li>
+                            <li>12 defended MSc</li>
+                            <li>Teaching Cybersecurity, AI and Web</li>
+                        </ul>
+                    </dd>
+                </dl>
 
                 <!-- Professional Experience -->
                 <h3>Professional Experience</h3>
-                <table>
-                    <tr style="display: flex;">
-                        <td style="flex: 20%;">
-                                Since 2023
-                        </td>
-                        <td style="flex: 80%;">
-                            <b>Associate Professor</b><br />
-                            <i class="fa-solid fa-location-dot"></i>
-                            Univ. Clermont Auvergne, France<br />
-                            Critical IoT Security, ML-based attack detection:
-                            <ul>
-                                <li>Industrial Control Systems / SCADA</li>
-                                <li>IoT and Network Cybersecurity</li>
-                                <li>ML-based attack detection</li>
-                            </ul>
-                        </td>
-                    </tr>
-                    <tr style="display: flex;">
-                        <td style="flex: 20%;">
-                                2018 - 2023
-                        </td>
-                        <td style="flex: 80%;">
-                            <b>Research Engineer</b><br />
-                            <i class="fa-solid fa-location-dot"></i>
-                            CEA-LETI, Grenoble, France<br />
-                            Smart-Home and Industrial IoT Security:
-                            <ul>
-                                <li>IoT/SCADA device security assessment</li>
-                                <li>Design of lightweight security solutions</li>
-                            </ul>
-                        </td>
-                    </tr>
-                    <tr style="display: flex;">
-                        <td style="flex: 20%;">
-                                2014 - 2018
-                        </td>
-                        <td style="flex: 80%;">
-                            <b>Ph.D Student</b><br />
-                            <i class="fa-solid fa-location-dot"></i>
-                            Vérimag, St Martin d'Hères, France<br />
-                            Industrial Systems Cybersecurity:
-                            <ul>
-                                <li>Applicative Filtering</li>
-                                <li>Industrial Protocols Verification</li>
-                                <li>Research of Applicative Attack Scenarios</li>
-                            </ul>
-                        </td>
-                    </tr>
-                </table>
+                <dl class="cv-fields" style="--cv-fields-label-width: 20%;">
+                    <dt>
+                            Since 2023
+                    </dt>
+                    <dd>
+                        <b>Associate Professor</b><br />
+                        <i class="fa-solid fa-location-dot"></i>
+                        Univ. Clermont Auvergne, France<br />
+                        Critical IoT Security, ML-based attack detection:
+                        <ul>
+                            <li>Industrial Control Systems / SCADA</li>
+                            <li>IoT and Network Cybersecurity</li>
+                            <li>ML-based attack detection</li>
+                        </ul>
+                    </dd>
+                    <dt>
+                            2018 - 2023
+                    </dt>
+                    <dd>
+                        <b>Research Engineer</b><br />
+                        <i class="fa-solid fa-location-dot"></i>
+                        CEA-LETI, Grenoble, France<br />
+                        Smart-Home and Industrial IoT Security:
+                        <ul>
+                            <li>IoT/SCADA device security assessment</li>
+                            <li>Design of lightweight security solutions</li>
+                        </ul>
+                    </dd>
+                    <dt>
+                            2014 - 2018
+                    </dt>
+                    <dd>
+                        <b>Ph.D Student</b><br />
+                        <i class="fa-solid fa-location-dot"></i>
+                        Vérimag, St Martin d'Hères, France<br />
+                        Industrial Systems Cybersecurity:
+                        <ul>
+                            <li>Applicative Filtering</li>
+                            <li>Industrial Protocols Verification</li>
+                            <li>Research of Applicative Attack Scenarios</li>
+                        </ul>
+                    </dd>
+                </dl>
             </div>
             <div style="flex:44%;">
                 <!-- Computer Science Skills -->
                 <h3>Computer Science Skills</h3>
-                <table>
-                    <tr>
-                        <td>Cybersecurity</td>
-                        <td>
-                                    SSH, 
-                                    Wireshark, 
-                                    Scapy, 
-                                    NMap, 
-                                    OpenSSL, 
-                                    Burp, 
-                                    John, 
-                                    Snort, 
-                                    Ettercap
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>Development</td>
-                        <td>
-                                Python <span style="float: right;">100%</span>
-                                <canvas id="python"></canvas><br />
-                                <script>
-                                    var canvas = document.getElementById("python");
-                                    var ctx = canvas.getContext("2d");
-                                    ctx.fillStyle = "#2A70CC";
-                                    ctx.fillRect(0, 0, canvas.width*100/100, canvas.height);
-                                </script>
-                                PHP <span style="float: right;">70%</span>
-                                <canvas id="php"></canvas><br />
-                                <script>
-                                    var canvas = document.getElementById("php");
-                                    var ctx = canvas.getContext("2d");
-                                    ctx.fillStyle = "#2A70CC";
-                                    ctx.fillRect(0, 0, canvas.width*70/100, canvas.height);
-                                </script>
-                                C <span style="float: right;">70%</span>
-                                <canvas id="c"></canvas><br />
-                                <script>
-                                    var canvas = document.getElementById("c");
-                                    var ctx = canvas.getContext("2d");
-                                    ctx.fillStyle = "#2A70CC";
-                                    ctx.fillRect(0, 0, canvas.width*70/100, canvas.height);
-                                </script>
-                                LUA <span style="float: right;">50%</span>
-                                <canvas id="lua"></canvas><br />
-                                <script>
-                                    var canvas = document.getElementById("lua");
-                                    var ctx = canvas.getContext("2d");
-                                    ctx.fillStyle = "#2A70CC";
-                                    ctx.fillRect(0, 0, canvas.width*50/100, canvas.height);
-                                </script>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>Linux</td>
-                        <td>
-                                    Admin (Debian, Alpine, Arch)
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>Windows</td>
-                        <td>
-                                    Advanced user
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>DevOps</td>
-                        <td>
-                                    Vim, 
-                                    Git, 
-                                    Jenkins, 
-                                    Virtualenv, 
-                                    Gitlab CI, 
-                                    Docker, 
-                                    VirtualBox, 
-                                    Ansible
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>Reports</td>
-                        <td>
-                                    LaTeX, 
-                                    Office and alternatives
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>Languages</td>
-                        <td>
-                                French <span style="float: right;">100%</span>
-                                <canvas id="fr"></canvas><br />
-                                <script>
-                                    var canvas = document.getElementById("fr");
-                                    var ctx = canvas.getContext("2d");
-                                    ctx.fillStyle = "#2A70CC";
-                                    ctx.fillRect(0, 0, canvas.width*100/100, canvas.height);
-                                </script>
-                                English <span style="float: right;">80%</span>
-                                <canvas id="eng"></canvas><br />
-                                <script>
-                                    var canvas = document.getElementById("eng");
-                                    var ctx = canvas.getContext("2d");
-                                    ctx.fillStyle = "#2A70CC";
-                                    ctx.fillRect(0, 0, canvas.width*80/100, canvas.height);
-                                </script>
-                                Japanese <span style="float: right;">30%</span>
-                                <canvas id="jap"></canvas><br />
-                                <script>
-                                    var canvas = document.getElementById("jap");
-                                    var ctx = canvas.getContext("2d");
-                                    ctx.fillStyle = "#2A70CC";
-                                    ctx.fillRect(0, 0, canvas.width*30/100, canvas.height);
-                                </script>
-                        </td>
-                    </tr>
-                </table>
+                <dl class="cv-fields">
+                    <dt>Cybersecurity</dt>
+                    <dd>
+                                SSH, 
+                                Wireshark, 
+                                Scapy, 
+                                NMap, 
+                                OpenSSL, 
+                                Burp, 
+                                John, 
+                                Snort, 
+                                Ettercap
+                    </dd>
+                    <dt>Development</dt>
+                    <dd>
+                            Python <span style="float: right;">100%</span>
+                            <div class="skill-bar"><div class="skill-bar-fill" style="width: 100%;"></div></div><br />
+                            PHP <span style="float: right;">70%</span>
+                            <div class="skill-bar"><div class="skill-bar-fill" style="width: 70%;"></div></div><br />
+                            C <span style="float: right;">70%</span>
+                            <div class="skill-bar"><div class="skill-bar-fill" style="width: 70%;"></div></div><br />
+                            LUA <span style="float: right;">50%</span>
+                            <div class="skill-bar"><div class="skill-bar-fill" style="width: 50%;"></div></div><br />
+                    </dd>
+                    <dt>Linux</dt>
+                    <dd>
+                                Admin (Debian, Alpine, Arch)
+                    </dd>
+                    <dt>Windows</dt>
+                    <dd>
+                                Advanced user
+                    </dd>
+                    <dt>DevOps</dt>
+                    <dd>
+                                Vim, 
+                                Git, 
+                                Jenkins, 
+                                Virtualenv, 
+                                Gitlab CI, 
+                                Docker, 
+                                VirtualBox, 
+                                Ansible
+                    </dd>
+                    <dt>Reports</dt>
+                    <dd>
+                                LaTeX, 
+                                Office and alternatives
+                    </dd>
+                    <dt>Languages</dt>
+                    <dd>
+                            French <span style="float: right;">100%</span>
+                            <div class="skill-bar"><div class="skill-bar-fill" style="width: 100%;"></div></div><br />
+                            English <span style="float: right;">80%</span>
+                            <div class="skill-bar"><div class="skill-bar-fill" style="width: 80%;"></div></div><br />
+                            Japanese <span style="float: right;">30%</span>
+                            <div class="skill-bar"><div class="skill-bar-fill" style="width: 30%;"></div></div><br />
+                    </dd>
+                </dl>
 
                 <!-- Scholar Formation -->
                 <h3>Scholar Formation</h3>
-                <table>
-                    <tr style="display: flex;">
-                        <td style="flex: 27%;">
-                            2014 - 2018
-                        </td>
-                        <td style="flex: 73%;">
-                            <b>Ph.D in Cybersecurity</b><br />
-                            <i class="fa-solid fa-location-dot"></i>
-                            Univ. Grenoble Alpes<br />
-                            
-                        </td>
-                    </tr>
-                    <tr style="display: flex;">
-                        <td style="flex: 27%;">
-                            2012 - 2014
-                        </td>
-                        <td style="flex: 73%;">
-                            <b>Master in Cybersecurity</b><br />
-                            <i class="fa-solid fa-location-dot"></i>
-                            Univ. Grenoble Alpes<br />
-                            Magna Cum Laude
-                        </td>
-                    </tr>
-                    <tr style="display: flex;">
-                        <td style="flex: 27%;">
-                            2009 - 2014
-                        </td>
-                        <td style="flex: 73%;">
-                            <b>Magister in Computer Science</b><br />
-                            <i class="fa-solid fa-location-dot"></i>
-                            Univ. Grenoble Alpes<br />
-                            Summa Cum Laude
-                        </td>
-                    </tr>
-                    <tr style="display: flex;">
-                        <td style="flex: 27%;">
-                            2009 - 2012
-                        </td>
-                        <td style="flex: 73%;">
-                            <b>Bachelor in Computer Science</b><br />
-                            <i class="fa-solid fa-location-dot"></i>
-                            Univ. Grenoble Alpes<br />
-                            Cum Laude
-                        </td>
-                    </tr>
-                </table>
+                <dl class="cv-fields" style="--cv-fields-label-width: 27%;">
+                    <dt>
+                        2014 - 2018
+                    </dt>
+                    <dd>
+                        <b>Ph.D in Cybersecurity</b><br />
+                        <i class="fa-solid fa-location-dot"></i>
+                        Univ. Grenoble Alpes<br />
+                        
+                    </dd>
+                    <dt>
+                        2012 - 2014
+                    </dt>
+                    <dd>
+                        <b>Master in Cybersecurity</b><br />
+                        <i class="fa-solid fa-location-dot"></i>
+                        Univ. Grenoble Alpes<br />
+                        Magna Cum Laude
+                    </dd>
+                    <dt>
+                        2009 - 2014
+                    </dt>
+                    <dd>
+                        <b>Magister in Computer Science</b><br />
+                        <i class="fa-solid fa-location-dot"></i>
+                        Univ. Grenoble Alpes<br />
+                        Summa Cum Laude
+                    </dd>
+                    <dt>
+                        2009 - 2012
+                    </dt>
+                    <dd>
+                        <b>Bachelor in Computer Science</b><br />
+                        <i class="fa-solid fa-location-dot"></i>
+                        Univ. Grenoble Alpes<br />
+                        Cum Laude
+                    </dd>
+                </dl>
             </div>
         </div>
     </div>
@@ -490,31 +414,29 @@
             <table>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="phdThesisMaximePuys">2</a>]</td>
                 <td class="bibtexitem">
-                    <u>M. Puys</u>. <b>Sécurité des systèmes industriels : filtrage applicatif et recherche de scénarios d&#x27;attaques.</b> Ph.D. Thesis, <em>Communauté Université Grenoble-Alpes</em>, Feb. 2018. <a href="javascript:hideshow(document.getElementById('phdThesisMaximePuys'))" name="phdThesisMaximePuys">[bib]</a> <a href="https://theses.hal.science/tel-01893142">[pdf]</a> <a href="https://maxime.puys.name/pdf/publications/phdThesis/slidesPhdThesisMaximePuys.pdf">[slides]</a>
-                    <pre id="phdThesisMaximePuys" style="display: none;">@phdthesis{phdThesisMaximePuys,
+                    <u>M. Puys</u>. <b>Sécurité des systèmes industriels : filtrage applicatif et recherche de scénarios d&#x27;attaques.</b> Ph.D. Thesis, <em>Communauté Université Grenoble-Alpes</em>, Feb. 2018. <a href="https://theses.hal.science/tel-01893142">[pdf]</a> <a href="https://maxime.puys.name/pdf/publications/phdThesis/slidesPhdThesisMaximePuys.pdf">[slides]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@phdthesis{phdThesisMaximePuys,
   author = {Puys, Maxime},
-  title = {Sécurité des systèmes industriels : filtrage applicatif et recherche de scénarios d'attaques},
+  title = {Sécurité des systèmes industriels : filtrage applicatif et recherche de scénarios d&#x27;attaques},
   school = {Communauté Université Grenoble-Alpes},
   year = {2018},
   month = {Feb.},
   url = {https://theses.hal.science/tel-01893142},
   slides = {https://maxime.puys.name/pdf/publications/phdThesis/slidesPhdThesisMaximePuys.pdf},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="masterThesisMaximePuys">1</a>]</td>
                 <td class="bibtexitem">
-                    <u>M. Puys</u>. <b>Sécurité des cartes à puce, simulation d&#x27;attaques par fautes et analyses statiques.</b> Master's Thesis, <em>Communauté Université Grenoble-Alpes</em>, Confidential industry, Jul. 2014. <a href="javascript:hideshow(document.getElementById('masterThesisMaximePuys'))" name="masterThesisMaximePuys">[bib]</a>
-                    <pre id="masterThesisMaximePuys" style="display: none;">@mastersthesis{masterThesisMaximePuys,
+                    <u>M. Puys</u>. <b>Sécurité des cartes à puce, simulation d&#x27;attaques par fautes et analyses statiques.</b> Master's Thesis, <em>Communauté Université Grenoble-Alpes</em>, Confidential industry, Jul. 2014. <details class="bibtex-details"><summary>[bib]</summary><pre>@mastersthesis{masterThesisMaximePuys,
   author = {Puys, Maxime},
-  title = {Sécurité des cartes à puce, simulation d'attaques par fautes et analyses statiques},
+  title = {Sécurité des cartes à puce, simulation d&#x27;attaques par fautes et analyses statiques},
   school = {Communauté Université Grenoble-Alpes},
   year = {2014},
   month = {Jul.},
   note = {Confidential industry},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
             </table>
@@ -522,11 +444,10 @@
             <table>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="DaSilva2025">6</a>]</td>
                 <td class="bibtexitem">
-                    M. Da Silva, S. Mocanu, <u>M. Puys</u>, and P.-H. Thevenon. <b>Safety-Security Convergence: Automation of IEC 62443-3-2.</b> <em>Computers &amp; Security, Elsevier</em>, vol. 156, pp. 104477, (Rank Sciamago Q1), 2025. <a href="javascript:hideshow(document.getElementById('DaSilva2025'))" name="DaSilva2025">[bib]</a> <a href="https://hal.science/hal-05032416v1">[pdf]</a>
-                    <pre id="DaSilva2025" style="display: none;">@article{DaSilva2025,
+                    M. Da Silva, S. Mocanu, <u>M. Puys</u>, and P.-H. Thevenon. <b>Safety-Security Convergence: Automation of IEC 62443-3-2.</b> <em>Computers &amp; Security, Elsevier</em>, vol. 156, pp. 104477, (Rank Sciamago Q1), 2025. <a href="https://hal.science/hal-05032416v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@article{DaSilva2025,
   author = {Da Silva, Mike and Mocanu, Stéphane and Puys, Maxime and Thevenon, Pierre-Henri},
   title = {Safety-Security Convergence: Automation of IEC 62443-3-2},
-  journal = {Computers \& Security, Elsevier},
+  journal = {Computers \&amp; Security, Elsevier},
   volume = {156},
   pages = {104477},
   year = {2025},
@@ -534,13 +455,12 @@
   rank = {Q1},
   ranking = {Sciamago},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Puys2022a">5</a>]</td>
                 <td class="bibtexitem">
-                    <u>M. Puys</u>, P.-H. Thevenon, S. M. Mocanu, M. Gallissot, and C. Sivelle. <b>SCADA Cybersecurity Awareness and Teaching with Hardware-In-The-Loop Platforms.</b> <em>Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications (JoWUA)</em>, vol. 13, no. 1, pp. 4-32, (Rank Sciamago Q2), 2022. <a href="javascript:hideshow(document.getElementById('Puys2022a'))" name="Puys2022a">[bib]</a> <a href="https://hal.science/hal-03636896v1">[pdf]</a>
-                    <pre id="Puys2022a" style="display: none;">@article{Puys2022a,
+                    <u>M. Puys</u>, P.-H. Thevenon, S. M. Mocanu, M. Gallissot, and C. Sivelle. <b>SCADA Cybersecurity Awareness and Teaching with Hardware-In-The-Loop Platforms.</b> <em>Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications (JoWUA)</em>, vol. 13, no. 1, pp. 4-32, (Rank Sciamago Q2), 2022. <a href="https://hal.science/hal-03636896v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@article{Puys2022a,
   author = {Puys, Maxime and Thevenon, Pierre-Henri and Mocanu, Stéphane Mocanu and Gallissot, Mathieu and Sivelle, Camille},
   title = {{SCADA} Cybersecurity Awareness and Teaching with Hardware-In-The-Loop Platforms},
   journal = {Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications (JoWUA)},
@@ -552,15 +472,14 @@
   rank = {Q2},
   ranking = {Sciamago},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Thevenon2022">4</a>]</td>
                 <td class="bibtexitem">
-                    P.-H. Thevenon, S. Riou, D.-M. Tran, <u>M. Puys</u>, N. F. Polychronou, M. El Majihi, and C. Sivelle. <b>iMRC: Integrated Monitoring &amp; Recovery Component, a Solution to Guarantee the Security of Embedded Systems.</b> <em>Journal of Internet Services and Information Security (JISIS)</em>, vol. 13, no. 1, pp. 4-32, (Rank Sciamago Q3), 2022. <a href="javascript:hideshow(document.getElementById('Thevenon2022'))" name="Thevenon2022">[bib]</a> <a href="https://hal.science/cea-04072866v1">[pdf]</a>
-                    <pre id="Thevenon2022" style="display: none;">@article{Thevenon2022,
+                    P.-H. Thevenon, S. Riou, D.-M. Tran, <u>M. Puys</u>, N. F. Polychronou, M. El Majihi, and C. Sivelle. <b>iMRC: Integrated Monitoring &amp; Recovery Component, a Solution to Guarantee the Security of Embedded Systems.</b> <em>Journal of Internet Services and Information Security (JISIS)</em>, vol. 13, no. 1, pp. 4-32, (Rank Sciamago Q3), 2022. <a href="https://hal.science/cea-04072866v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@article{Thevenon2022,
   author = {Thevenon, Pierre-Henri and Riou, Sebastien and Tran, Duc-Minh and Puys, Maxime and Polychronou, Nikolaos Foivos and El Majihi, Mustapha and Sivelle, Camille},
-  title = {{iMRC:} Integrated Monitoring \& Recovery Component, a Solution to Guarantee the Security of Embedded Systems},
+  title = {{iMRC:} Integrated Monitoring \&amp; Recovery Component, a Solution to Guarantee the Security of Embedded Systems},
   journal = {Journal of Internet Services and Information Security (JISIS)},
   volume = {13},
   number = {1},
@@ -570,13 +489,12 @@
   rank = {Q3},
   ranking = {Sciamago},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Polychronou2021a">3</a>]</td>
                 <td class="bibtexitem">
-                    N.-F. Polychronou, P.-H. Thevenon, <u>M. Puys</u>, and V. Beroulle. <b>A Comprehensive Survey of Attacks without Physical Access Targeting Hardware Vulnerabilities in IoT/IIoT Devices, and Their Detection Mechanisms.</b> <em>ACM Transactions on Design Automation of Electronic Systems</em>, vol. 27, no. 1, pp. 1-35, (Rank Sciamago Q2), 2021. <a href="javascript:hideshow(document.getElementById('Polychronou2021a'))" name="Polychronou2021a">[bib]</a> <a href="https://hal.science/hal-03600586v1">[pdf]</a>
-                    <pre id="Polychronou2021a" style="display: none;">@article{Polychronou2021a,
+                    N.-F. Polychronou, P.-H. Thevenon, <u>M. Puys</u>, and V. Beroulle. <b>A Comprehensive Survey of Attacks without Physical Access Targeting Hardware Vulnerabilities in IoT/IIoT Devices, and Their Detection Mechanisms.</b> <em>ACM Transactions on Design Automation of Electronic Systems</em>, vol. 27, no. 1, pp. 1-35, (Rank Sciamago Q2), 2021. <a href="https://hal.science/hal-03600586v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@article{Polychronou2021a,
   author = {Polychronou, Nikolaos-Foivos and Thevenon, Pierre-Henri and Puys, Maxime and Beroulle, Vincent},
   title = {A Comprehensive Survey of Attacks without Physical Access Targeting Hardware Vulnerabilities in {IoT/IIoT} Devices, and Their Detection Mechanisms},
   journal = {ACM Transactions on Design Automation of Electronic Systems},
@@ -588,16 +506,15 @@
   rank = {Q2},
   ranking = {Sciamago},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Dreier2019">2</a>]</td>
                 <td class="bibtexitem">
-                    J. Dreier, <u>M. Puys</u>, M.-L. Potet, P. Lafourcade, and J.-L. Roch. <b>Formally and practically verifying flow properties in industrial systems.</b> <em>Computers &amp; Security, Elsevier</em>, vol. 86, no. 1, pp. 453-470, (Rank Sciamago Q1), 2019. <a href="javascript:hideshow(document.getElementById('Dreier2019'))" name="Dreier2019">[bib]</a> <a href="https://hal.science/hal-01959766v2">[pdf]</a>
-                    <pre id="Dreier2019" style="display: none;">@article{Dreier2019,
+                    J. Dreier, <u>M. Puys</u>, M.-L. Potet, P. Lafourcade, and J.-L. Roch. <b>Formally and practically verifying flow properties in industrial systems.</b> <em>Computers &amp; Security, Elsevier</em>, vol. 86, no. 1, pp. 453-470, (Rank Sciamago Q1), 2019. <a href="https://hal.science/hal-01959766v2">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@article{Dreier2019,
   author = {Dreier, Jannik and Puys, Maxime and Potet, Marie-Laure and Lafourcade, Pascal and Roch, Jean-Louis},
   title = {Formally and practically verifying flow properties in industrial systems},
-  journal = {Computers \& Security, Elsevier},
+  journal = {Computers \&amp; Security, Elsevier},
   volume = {86},
   number = {1},
   pages = {453-470},
@@ -606,16 +523,15 @@
   rank = {Q1},
   ranking = {Sciamago},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Dumas2017">1</a>]</td>
                 <td class="bibtexitem">
-                    J.-G. Dumas, P. Lafourcade, J.-B. Orfila, and <u>M. Puys</u>. <b>Dual protocols for private multi-party matrix multiplication and trust computations.</b> <em>Computers &amp; Security, Elsevier</em>, vol. 71, no. 1, pp. 51-70, (Rank Sciamago Q1), 2017. <a href="javascript:hideshow(document.getElementById('Dumas2017'))" name="Dumas2017">[bib]</a> <a href="https://hal.science/hal-01497866v1">[pdf]</a>
-                    <pre id="Dumas2017" style="display: none;">@article{Dumas2017,
+                    J.-G. Dumas, P. Lafourcade, J.-B. Orfila, and <u>M. Puys</u>. <b>Dual protocols for private multi-party matrix multiplication and trust computations.</b> <em>Computers &amp; Security, Elsevier</em>, vol. 71, no. 1, pp. 51-70, (Rank Sciamago Q1), 2017. <a href="https://hal.science/hal-01497866v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@article{Dumas2017,
   author = {Dumas, Jean-Guillaume and Lafourcade, Pascal and Orfila, Jean-Baptiste and Puys, Maxime},
   title = {Dual protocols for private multi-party matrix multiplication and trust computations},
-  journal = {Computers \& Security, Elsevier},
+  journal = {Computers \&amp; Security, Elsevier},
   volume = {71},
   number = {1},
   pages = {51-70},
@@ -624,7 +540,7 @@
   rank = {Q1},
   ranking = {Sciamago},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
             </table>
@@ -632,8 +548,7 @@
             <table>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Miyahara26">26</a>]</td>
                 <td class="bibtexitem">
-                    D. Miyahara, P. Lafourcade, and <u>M. Puys</u>. <b>Card-Based ZKP Protocols for Connectivity-Based Puzzles: Extending to Tree Structures with Application to Nurimeizu.</b> <em>13th International Conference on Fun with Algorithms ({FUN} 2026)</em>, Porquerolles, France, 2026. <a href="javascript:hideshow(document.getElementById('Miyahara26'))" name="Miyahara26">[bib]</a> <a href="https://hal.science/hal-05654681v1">[pdf]</a>
-                    <pre id="Miyahara26" style="display: none;">@inproceedings{Miyahara26,
+                    D. Miyahara, P. Lafourcade, and <u>M. Puys</u>. <b>Card-Based ZKP Protocols for Connectivity-Based Puzzles: Extending to Tree Structures with Application to Nurimeizu.</b> <em>13th International Conference on Fun with Algorithms ({FUN} 2026)</em>, Porquerolles, France, 2026. <a href="https://hal.science/hal-05654681v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Miyahara26,
   author = {Daiki Miyahara and Pascal Lafourcade and Maxime Puys},
   title = {Card-Based {ZKP} Protocols for Connectivity-Based Puzzles: Extending to Tree Structures with Application to Nurimeizu},
   booktitle = {13th International Conference on Fun with Algorithms ({FUN} 2026)},
@@ -641,13 +556,12 @@
   address = {Porquerolles, France},
   url = {https://hal.science/hal-05654681v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="BenHassen2025">25</a>]</td>
                 <td class="bibtexitem">
-                    A. Ben Hassen, P. Lafourcade, D. Mahmoud, and <u>M. Puys</u>. <b>Formal Analysis of SDNsec: Attacks and Corrections for Payload, Route Integrity and Accountability.</b> <em>20th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2025, Rank Core A)</em>, Hanoi, Vietnam, 2025. <a href="javascript:hideshow(document.getElementById('BenHassen2025'))" name="BenHassen2025">[bib]</a> <a href="https://hal.science/hal-04998270v1">[pdf]</a>
-                    <pre id="BenHassen2025" style="display: none;">@inproceedings{BenHassen2025,
+                    A. Ben Hassen, P. Lafourcade, D. Mahmoud, and <u>M. Puys</u>. <b>Formal Analysis of SDNsec: Attacks and Corrections for Payload, Route Integrity and Accountability.</b> <em>20th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2025, Rank Core A)</em>, Hanoi, Vietnam, 2025. <a href="https://hal.science/hal-04998270v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{BenHassen2025,
   author = {Ben Hassen, Ayoub and Lafourcade, Pascal and Mahmoud, Dhekra and Puys, Maxime},
   title = {Formal Analysis of SDNsec: Attacks and Corrections for Payload, Route Integrity and Accountability},
   booktitle = {20th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2025)},
@@ -657,13 +571,12 @@
   rank = {A},
   ranking = {Core},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Durecu2025">24</a>]</td>
                 <td class="bibtexitem">
-                    F. Duręcu, <u>M. Puys</u>, G. Chalhoub, and P.-M. Grollemund. <b>Evaluation of Machine Learning Intrusion Detection Systems Resiliency to Network Traffic Evolution.</b> <em>33rd International Conference on Software, Telecommunications, and Computer Networks (SoftCOM 2025, Rank Core B)</em>, Split, Croatia, 2025. <a href="javascript:hideshow(document.getElementById('Durecu2025'))" name="Durecu2025">[bib]</a> <a href="https://hal.science/hal-05191179v1">[pdf]</a>
-                    <pre id="Durecu2025" style="display: none;">@inproceedings{Durecu2025,
+                    F. Duręcu, <u>M. Puys</u>, G. Chalhoub, and P.-M. Grollemund. <b>Evaluation of Machine Learning Intrusion Detection Systems Resiliency to Network Traffic Evolution.</b> <em>33rd International Conference on Software, Telecommunications, and Computer Networks (SoftCOM 2025, Rank Core B)</em>, Split, Croatia, 2025. <a href="https://hal.science/hal-05191179v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Durecu2025,
   author = {Duręcu, Florent and Puys, Maxime and Chalhoub, Gérard and Grollemund, Paul-Marie},
   title = {Evaluation of Machine Learning Intrusion Detection Systems Resiliency to Network Traffic Evolution},
   booktitle = {33rd International Conference on Software, Telecommunications, and Computer Networks (SoftCOM 2025)},
@@ -673,13 +586,12 @@
   rank = {B},
   ranking = {Core},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Arnoud2025">23</a>]</td>
                 <td class="bibtexitem">
-                    L. Arnoud, Z. Lagache, P.-H. Thevenon, A. Champenois, V. Breux, <u>M. Puys</u>, E. Gaussier, and O.-E.-K. Aktouf. <b>HENDRICS: A Hardware-in-the-Loop Testbed for Enhanced Intrusion Detection, Response and Recovery of Industrial Control Systems.</b> <em>30th European Symposium on Research in Computer Security (ESORICS 2025) - Workshop on Assessment with New methodologies, Unified Benchmarks, and environments, of Intrusion detection and response Systems (ANUBIS 2025)</em>, Toulouse, France, 2025. <a href="javascript:hideshow(document.getElementById('Arnoud2025'))" name="Arnoud2025">[bib]</a> <a href="https://hal.science/hal-05325191v1">[pdf]</a>
-                    <pre id="Arnoud2025" style="display: none;">@inproceedings{Arnoud2025,
+                    L. Arnoud, Z. Lagache, P.-H. Thevenon, A. Champenois, V. Breux, <u>M. Puys</u>, E. Gaussier, and O.-E.-K. Aktouf. <b>HENDRICS: A Hardware-in-the-Loop Testbed for Enhanced Intrusion Detection, Response and Recovery of Industrial Control Systems.</b> <em>30th European Symposium on Research in Computer Security (ESORICS 2025) - Workshop on Assessment with New methodologies, Unified Benchmarks, and environments, of Intrusion detection and response Systems (ANUBIS 2025)</em>, Toulouse, France, 2025. <a href="https://hal.science/hal-05325191v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Arnoud2025,
   author = {Arnoud, Lalie and Lagache, Zoé and Thevenon, Pierre-Henri and Champenois, Aloïs and Breux, Victor and Puys, Maxime and Gaussier, Eric and Aktouf, {Oum-El-Kheir}},
   title = {HENDRICS: A Hardware-in-the-Loop Testbed for Enhanced Intrusion Detection, Response and Recovery of Industrial Control Systems},
   booktitle = {30th European Symposium on Research in Computer Security (ESORICS 2025) - Workshop on Assessment with New methodologies, Unified Benchmarks, and environments, of Intrusion detection and response Systems (ANUBIS 2025)},
@@ -687,15 +599,14 @@
   address = {Toulouse, France},
   url = {https://hal.science/hal-05325191v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Lagache2025">22</a>]</td>
                 <td class="bibtexitem">
-                    Z. Lagache, P.-H. Thevenon, <u>M. Puys</u>, and O.-E.-K. Aktouf. <b>Dissecting Mirai: Spatio-Sequential Analysis and Restoration Strategies using MITRE ATT&amp;CK and D3FEND.</b> <em>30th Nordic Conference on Secure IT Systems (NordSec 2025, Rank ERA C)</em>, Tartu, Estonia, 2025. <a href="javascript:hideshow(document.getElementById('Lagache2025'))" name="Lagache2025">[bib]</a> <a href="https://hal.science/hal-05325504v1">[pdf]</a>
-                    <pre id="Lagache2025" style="display: none;">@inproceedings{Lagache2025,
+                    Z. Lagache, P.-H. Thevenon, <u>M. Puys</u>, and O.-E.-K. Aktouf. <b>Dissecting Mirai: Spatio-Sequential Analysis and Restoration Strategies using MITRE ATT&amp;CK and D3FEND.</b> <em>30th Nordic Conference on Secure IT Systems (NordSec 2025, Rank ERA C)</em>, Tartu, Estonia, 2025. <a href="https://hal.science/hal-05325504v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Lagache2025,
   author = {Lagache, Zoé and Thevenon, Pierre-Henri and Puys, Maxime and Aktouf, {Oum-El-Kheir}},
-  title = {Dissecting Mirai: Spatio-Sequential Analysis and Restoration Strategies using MITRE ATT&CK; and D3FEND},
+  title = {Dissecting Mirai: Spatio-Sequential Analysis and Restoration Strategies using MITRE ATT&amp;CK and D3FEND},
   booktitle = {30th Nordic Conference on Secure IT Systems (NordSec 2025)},
   year = {2025},
   address = {Tartu, Estonia},
@@ -703,13 +614,12 @@
   rank = {C},
   ranking = {ERA},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Kaneko2024a">21</a>]</td>
                 <td class="bibtexitem">
-                    S. Kaneko, P. Lafourcade, L.-B. Mallordy, D. Miyahara, <u>M. Puys</u>, and K. Sakiyama. <b>Balance-Based ZKP Protocols for Pencil-and-Paper Puzzles.</b> <em>27th Information Security Conference (ISC 2024)</em>, Washington DC, United States, 2024. <a href="javascript:hideshow(document.getElementById('Kaneko2024a'))" name="Kaneko2024a">[bib]</a> <a href="https://hal.science/hal-04671562v2">[pdf]</a>
-                    <pre id="Kaneko2024a" style="display: none;">@inproceedings{Kaneko2024a,
+                    S. Kaneko, P. Lafourcade, L.-B. Mallordy, D. Miyahara, <u>M. Puys</u>, and K. Sakiyama. <b>Balance-Based ZKP Protocols for Pencil-and-Paper Puzzles.</b> <em>27th Information Security Conference (ISC 2024)</em>, Washington DC, United States, 2024. <a href="https://hal.science/hal-04671562v2">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Kaneko2024a,
   author = {Kaneko, Shohei and Lafourcade, Pascal and Mallordy, Lola-Baie and Miyahara, Daiki and Puys, Maxime and Sakiyama, Kazuo},
   title = {Balance-Based ZKP Protocols for Pencil-and-Paper Puzzles},
   booktitle = {27th Information Security Conference (ISC 2024)},
@@ -717,13 +627,12 @@
   address = {Washington DC, United States},
   url = {https://hal.science/hal-04671562v2},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Kaneko2024b">20</a>]</td>
                 <td class="bibtexitem">
-                    S. Kaneko, P. Lafourcade, L.-B. Mallordy, D. Miyahara, <u>M. Puys</u>, and K. Sakiyama. <b>Secure Voting Protocol Using Balance Scale.</b> <em>17th International Symposium on Foundations and Practice of Security (FPS 2024)</em>, Montreal, Canada, 2024. <a href="javascript:hideshow(document.getElementById('Kaneko2024b'))" name="Kaneko2024b">[bib]</a> <a href="https://hal.science/hal-04831163v1">[pdf]</a>
-                    <pre id="Kaneko2024b" style="display: none;">@inproceedings{Kaneko2024b,
+                    S. Kaneko, P. Lafourcade, L.-B. Mallordy, D. Miyahara, <u>M. Puys</u>, and K. Sakiyama. <b>Secure Voting Protocol Using Balance Scale.</b> <em>17th International Symposium on Foundations and Practice of Security (FPS 2024)</em>, Montreal, Canada, 2024. <a href="https://hal.science/hal-04831163v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Kaneko2024b,
   author = {Kaneko, Shohei and Lafourcade, Pascal and Mallordy, Lola-Baie and Miyahara, Daiki and Puys, Maxime and Sakiyama, Kazuo},
   title = {Secure Voting Protocol Using Balance Scale},
   booktitle = {17th International Symposium on Foundations and Practice of Security (FPS 2024)},
@@ -731,27 +640,25 @@
   address = {Montreal, Canada},
   url = {https://hal.science/hal-04831163v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Polychronou2023">19</a>]</td>
                 <td class="bibtexitem">
-                    N. F. Polychronou, P.-H. Thevenon, <u>M. Puys</u>, and V. Beroulle. <b>A Hybrid Solution for Constraint Devices to Detect Microarchitectural Attacks.</b> <em>8th IEEE European Symposium on Security and Privacy (EuroS&amp;P 2023) - Workshop on Security of Software/Hardware Interfaces (SILM 2023)</em>, Delft, Netherlands, 2023. <a href="javascript:hideshow(document.getElementById('Polychronou2023'))" name="Polychronou2023">[bib]</a> <a href="https://hal.science/hal-04149021v1">[pdf]</a>
-                    <pre id="Polychronou2023" style="display: none;">@inproceedings{Polychronou2023,
+                    N. F. Polychronou, P.-H. Thevenon, <u>M. Puys</u>, and V. Beroulle. <b>A Hybrid Solution for Constraint Devices to Detect Microarchitectural Attacks.</b> <em>8th IEEE European Symposium on Security and Privacy (EuroS&amp;P 2023) - Workshop on Security of Software/Hardware Interfaces (SILM 2023)</em>, Delft, Netherlands, 2023. <a href="https://hal.science/hal-04149021v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Polychronou2023,
   author = {Polychronou, Nikolaos Foivos and Thevenon, Pierre-Henri and Puys, Maxime and Beroulle, Vincent},
   title = {A Hybrid Solution for Constraint Devices to Detect Microarchitectural Attacks},
-  booktitle = {8th IEEE European Symposium on Security and Privacy (EuroS\&P; 2023) - Workshop on Security of Software/Hardware Interfaces (SILM 2023)},
+  booktitle = {8th IEEE European Symposium on Security and Privacy (EuroS\&amp;P 2023) - Workshop on Security of Software/Hardware Interfaces (SILM 2023)},
   year = {2023},
   address = {Delft, Netherlands},
   url = {https://hal.science/hal-04149021v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="DaSilva2023a">18</a>]</td>
                 <td class="bibtexitem">
-                    M. Da Silva, <u>M. Puys</u>, P.-H. Thevenon, S. Mocanu, and N. Nkawa. <b>Automated ICS template for STRIDE Microsoft Threat Modeling Tool.</b> <em>18th International Conference on Availability, Reliability and Security ({ARES} 2023) - Workshop on Cybersecurity in Industry 4.0 ({SecIndustry} 2023)</em>, Benevento, Italy, 2023. <a href="javascript:hideshow(document.getElementById('DaSilva2023a'))" name="DaSilva2023a">[bib]</a> <a href="https://hal.science/hal-04165419v1">[pdf]</a>
-                    <pre id="DaSilva2023a" style="display: none;">@inproceedings{DaSilva2023a,
+                    M. Da Silva, <u>M. Puys</u>, P.-H. Thevenon, S. Mocanu, and N. Nkawa. <b>Automated ICS template for STRIDE Microsoft Threat Modeling Tool.</b> <em>18th International Conference on Availability, Reliability and Security ({ARES} 2023) - Workshop on Cybersecurity in Industry 4.0 ({SecIndustry} 2023)</em>, Benevento, Italy, 2023. <a href="https://hal.science/hal-04165419v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{DaSilva2023a,
   author = {Da Silva, Mike and Puys, Maxime and Thevenon, Pierre-Henri and Mocanu, Stéphane and Nkawa, Nelson},
   title = {Automated ICS template for STRIDE Microsoft Threat Modeling Tool},
   booktitle = {18th International Conference on Availability, Reliability and Security ({ARES} 2023) - Workshop on Cybersecurity in Industry 4.0 ({SecIndustry} 2023)},
@@ -759,13 +666,12 @@
   address = {Benevento, Italy},
   url = {https://hal.science/hal-04165419v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="DaSilva2023b">17</a>]</td>
                 <td class="bibtexitem">
-                    M. Da Silva, <u>M. Puys</u>, P.-H. Thevenon, and S. Mocanu. <b>PLC Logic-Based Cybersecurity Risks Identification for ICS.</b> <em>18th International Conference on Availability, Reliability and Security ({ARES} 2023) - Workshop on Cybersecurity in Industry 4.0 ({SecIndustry} 2023)</em>, Benevento, Italy, 2023. <a href="javascript:hideshow(document.getElementById('DaSilva2023b'))" name="DaSilva2023b">[bib]</a> <a href="https://hal.science/hal-04165414v1">[pdf]</a>
-                    <pre id="DaSilva2023b" style="display: none;">@inproceedings{DaSilva2023b,
+                    M. Da Silva, <u>M. Puys</u>, P.-H. Thevenon, and S. Mocanu. <b>PLC Logic-Based Cybersecurity Risks Identification for ICS.</b> <em>18th International Conference on Availability, Reliability and Security ({ARES} 2023) - Workshop on Cybersecurity in Industry 4.0 ({SecIndustry} 2023)</em>, Benevento, Italy, 2023. <a href="https://hal.science/hal-04165414v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{DaSilva2023b,
   author = {Da Silva, Mike and Puys, Maxime and Thevenon, Pierre-Henri and Mocanu, Stéphane},
   title = {PLC Logic-Based Cybersecurity Risks Identification for ICS},
   booktitle = {18th International Conference on Availability, Reliability and Security ({ARES} 2023) - Workshop on Cybersecurity in Industry 4.0 ({SecIndustry} 2023)},
@@ -773,13 +679,12 @@
   address = {Benevento, Italy},
   url = {https://hal.science/hal-04165414v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Sivelle2022">16</a>]</td>
                 <td class="bibtexitem">
-                    C. Sivelle, L. Debbah, <u>M. Puys</u>, P. Lafourcade, and T. Franco-Rondisson. <b>Automatic Implementations Synthesis of Secure Protocols and Attacks from Abstract Models.</b> <em>27th Nordic Conference on Secure IT Systems (NordSec 2022, Rank ERA C)</em>, Reykjavik, Iceland, 2022. <a href="javascript:hideshow(document.getElementById('Sivelle2022'))" name="Sivelle2022">[bib]</a> <a href="https://hal.science/hal-03835049v1">[pdf]</a>
-                    <pre id="Sivelle2022" style="display: none;">@inproceedings{Sivelle2022,
+                    C. Sivelle, L. Debbah, <u>M. Puys</u>, P. Lafourcade, and T. Franco-Rondisson. <b>Automatic Implementations Synthesis of Secure Protocols and Attacks from Abstract Models.</b> <em>27th Nordic Conference on Secure IT Systems (NordSec 2022, Rank ERA C)</em>, Reykjavik, Iceland, 2022. <a href="https://hal.science/hal-03835049v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Sivelle2022,
   author = {Sivelle, Camille and Debbah, Lorys and Puys, Maxime and Lafourcade, Pascal and Franco-Rondisson, Thibault},
   title = {Automatic Implementations Synthesis of Secure Protocols and Attacks from Abstract Models},
   booktitle = {27th Nordic Conference on Secure IT Systems (NordSec 2022)},
@@ -789,14 +694,13 @@
   rank = {C},
   ranking = {ERA},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Puys2021">15</a>]</td>
                 <td class="bibtexitem">
-                    <u>M. Puys</u>, P.-H. Thevenon, and S. Mocanu. <b>Hardware-In-The-Loop Labs for SCADA Cybersecurity Awareness and Training.</b> <em>16th International Conference on Availability, Reliability and Security ({ARES 2021}) - Workshop on Education, Training and Awareness in Cybersecurity ({ETACS} 2021)</em>, Vienna, Austria, 2021. <a href="javascript:hideshow(document.getElementById('Puys2021'))" name="Puys2021">[bib]</a> <a href="https://hal.science/hal-03282601v1">[pdf]</a>
-                    <pre id="Puys2021" style="display: none;">@inproceedings{Puys2021,
-  author = {Puys, Maxime and Thevenon, Pierre-Henri and Mocanu, St\'{e}phane},
+                    <u>M. Puys</u>, P.-H. Thevenon, and S. Mocanu. <b>Hardware-In-The-Loop Labs for SCADA Cybersecurity Awareness and Training.</b> <em>16th International Conference on Availability, Reliability and Security ({ARES 2021}) - Workshop on Education, Training and Awareness in Cybersecurity ({ETACS} 2021)</em>, Vienna, Austria, 2021. <a href="https://hal.science/hal-03282601v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Puys2021,
+  author = {Puys, Maxime and Thevenon, Pierre-Henri and Mocanu, St\&#x27;{e}phane},
   title = {Hardware-In-The-Loop Labs for SCADA Cybersecurity Awareness and Training},
   booktitle = {16th International Conference on Availability, Reliability and Security ({ARES 2021}) - Workshop on Education, Training and Awareness in Cybersecurity ({ETACS} 2021)},
   pages = {1--10},
@@ -804,13 +708,12 @@
   address = {Vienna, Austria},
   url = {https://hal.science/hal-03282601v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Polychronou2021b">14</a>]</td>
                 <td class="bibtexitem">
-                    N. F. Polychronou, P.-H. Thevenon, <u>M. Puys</u>, and V. Beroulle. <b>MaDMAN: Detection of Software Attacks Targeting Hardware Vulnerabilities.</b> <em>24th IEEE Euromicro Conference on Digital System Design (DSD 2021, Rank Qualis B1)</em>, Palermo, Italy, 2021. <a href="javascript:hideshow(document.getElementById('Polychronou2021b'))" name="Polychronou2021b">[bib]</a> <a href="https://hal.science/hal-03601312v1">[pdf]</a>
-                    <pre id="Polychronou2021b" style="display: none;">@inproceedings{Polychronou2021b,
+                    N. F. Polychronou, P.-H. Thevenon, <u>M. Puys</u>, and V. Beroulle. <b>MaDMAN: Detection of Software Attacks Targeting Hardware Vulnerabilities.</b> <em>24th IEEE Euromicro Conference on Digital System Design (DSD 2021, Rank Qualis B1)</em>, Palermo, Italy, 2021. <a href="https://hal.science/hal-03601312v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Polychronou2021b,
   author = {Polychronou, Nikolaos Foivos and Thevenon, Pierre-Henri and Puys, Maxime and Beroulle, Vincent},
   title = {{MaDMAN}: Detection of Software Attacks Targeting Hardware Vulnerabilities},
   booktitle = {24th IEEE Euromicro Conference on Digital System Design (DSD 2021)},
@@ -821,13 +724,12 @@
   rank = {B1},
   ranking = {Qualis},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Polychronou2021c">13</a>]</td>
                 <td class="bibtexitem">
-                    N. F. Polychronou, P.-H. Thevenon, <u>M. Puys</u>, and V. Beroulle. <b>Securing IoT/IIoT from Software Attacks Targeting Hardware Vulnerabilities.</b> <em>19th {IEEE} International New Circuits and Systems Conference ({NEWCAS} 2021, Rank Qualis B4)</em>, Toulon, France, 2021. <a href="javascript:hideshow(document.getElementById('Polychronou2021c'))" name="Polychronou2021c">[bib]</a> <a href="https://hal.science/hal-03601214v1">[pdf]</a>
-                    <pre id="Polychronou2021c" style="display: none;">@inproceedings{Polychronou2021c,
+                    N. F. Polychronou, P.-H. Thevenon, <u>M. Puys</u>, and V. Beroulle. <b>Securing IoT/IIoT from Software Attacks Targeting Hardware Vulnerabilities.</b> <em>19th {IEEE} International New Circuits and Systems Conference ({NEWCAS} 2021, Rank Qualis B4)</em>, Toulon, France, 2021. <a href="https://hal.science/hal-03601214v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Polychronou2021c,
   author = {Polychronou, Nikolaos Foivos and Thevenon, Pierre-Henri and Puys, Maxime and Beroulle, Vincent},
   title = {Securing {IoT}/{IIoT} from Software Attacks Targeting Hardware Vulnerabilities},
   booktitle = {19th {IEEE} International New Circuits and Systems Conference ({NEWCAS} 2021)},
@@ -838,13 +740,12 @@
   rank = {B4},
   ranking = {Qualis},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Puys2020">12</a>]</td>
                 <td class="bibtexitem">
-                    <u>M. Puys</u>, J.-P. Krimm, and R. Collado. <b>Towards Cybersecurity Act: A Survey on IoT Evaluation Frameworks.</b> <em>14th International Conference on Emerging Security Information, Systems and Technologies ({SECURWARE} 2020, Rank Qualis B3)</em>, Valencia, Spain, 2020. <a href="javascript:hideshow(document.getElementById('Puys2020'))" name="Puys2020">[bib]</a> <a href="https://hal.science/cea-03019512v1">[pdf]</a>
-                    <pre id="Puys2020" style="display: none;">@inproceedings{Puys2020,
+                    <u>M. Puys</u>, J.-P. Krimm, and R. Collado. <b>Towards Cybersecurity Act: A Survey on IoT Evaluation Frameworks.</b> <em>14th International Conference on Emerging Security Information, Systems and Technologies ({SECURWARE} 2020, Rank Qualis B3)</em>, Valencia, Spain, 2020. <a href="https://hal.science/cea-03019512v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Puys2020,
   author = {Puys, Maxime and Krimm, Jean-Pierre and Collado, Raphaël},
   title = {Towards Cybersecurity Act: A Survey on IoT Evaluation Frameworks},
   booktitle = {14th International Conference on Emerging Security Information, Systems and Technologies ({SECURWARE} 2020)},
@@ -855,13 +756,12 @@
   rank = {B3},
   ranking = {Qualis},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Dumas2019">11</a>]</td>
                 <td class="bibtexitem">
-                    J.-G. Dumas, P. Lafourcade, J. López Fenner, D. Lucas, J.-B. Orfila, C. Pernet, and <u>M. Puys</u>. <b>Secure Multiparty Matrix Multiplication Based on Strassen-Winograd Algorithm.</b> <em>14th International Workshop on Security, ({IWSEC} 2019, Rank Core B)</em>, Tokyo, Japan, 2019. <a href="javascript:hideshow(document.getElementById('Dumas2019'))" name="Dumas2019">[bib]</a> <a href="https://hal.science/hal-01781554v3">[pdf]</a>
-                    <pre id="Dumas2019" style="display: none;">@inproceedings{Dumas2019,
+                    J.-G. Dumas, P. Lafourcade, J. López Fenner, D. Lucas, J.-B. Orfila, C. Pernet, and <u>M. Puys</u>. <b>Secure Multiparty Matrix Multiplication Based on Strassen-Winograd Algorithm.</b> <em>14th International Workshop on Security, ({IWSEC} 2019, Rank Core B)</em>, Tokyo, Japan, 2019. <a href="https://hal.science/hal-01781554v3">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Dumas2019,
   author = {Dumas, Jean-Guillaume and Lafourcade, Pascal and López Fenner, Julio and Lucas, David and Orfila, Jean-Baptiste and Pernet, Clément and Puys, Maxime},
   title = {Secure Multiparty Matrix Multiplication Based on Strassen-Winograd Algorithm},
   booktitle = {14th International Workshop on Security, ({IWSEC} 2019)},
@@ -872,13 +772,12 @@
   rank = {B},
   ranking = {Core},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Dreier2017">10</a>]</td>
                 <td class="bibtexitem">
-                    J. Dreier, <u>M. Puys</u>, M.-L. Potet, P. Lafourcade, and J.-L. Roch. <b>Formally Verifying Flow Integrity Properties in Industrial Systems.</b> <em>14th International Joint Conference on e-Business and Telecommunications ({ICETE} 2017) - Volume 4: SECRYPT (Rank Core B)</em>, Madrid, Spain, <b>Best Student Paper Award</b>, 2017. <a href="javascript:hideshow(document.getElementById('Dreier2017'))" name="Dreier2017">[bib]</a> <a href="https://hal.science/hal-01527913v1">[pdf]</a>
-                    <pre id="Dreier2017" style="display: none;">@inproceedings{Dreier2017,
+                    J. Dreier, <u>M. Puys</u>, M.-L. Potet, P. Lafourcade, and J.-L. Roch. <b>Formally Verifying Flow Integrity Properties in Industrial Systems.</b> <em>14th International Joint Conference on e-Business and Telecommunications ({ICETE} 2017) - Volume 4: SECRYPT (Rank Core B)</em>, Madrid, Spain, <b>Best Student Paper Award</b>, 2017. <a href="https://hal.science/hal-01527913v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Dreier2017,
   author = {Dreier, Jannik and Puys, Maxime and Potet, Marie-Laure and Lafourcade, Pascal and Roch, Jean-Louis},
   title = {Formally Verifying Flow Integrity Properties in Industrial Systems},
   booktitle = {14th International Joint Conference on e-Business and Telecommunications ({ICETE} 2017) - Volume 4: SECRYPT},
@@ -890,13 +789,12 @@
   rank = {B},
   ranking = {Core},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Puys2017">9</a>]</td>
                 <td class="bibtexitem">
-                    <u>M. Puys</u>, M.-L. Potet, and A. Khaled. <b>Generation of Applicative Attacks Scenarios Against Industrial Systems.</b> <em>10th International Symposium on Foundations and Practice of Security ({FPS} 2017)</em>, Nancy, France, 2017. <a href="javascript:hideshow(document.getElementById('Puys2017'))" name="Puys2017">[bib]</a> <a href="https://hal.science/hal-01615534v1">[pdf]</a>
-                    <pre id="Puys2017" style="display: none;">@inproceedings{Puys2017,
+                    <u>M. Puys</u>, M.-L. Potet, and A. Khaled. <b>Generation of Applicative Attacks Scenarios Against Industrial Systems.</b> <em>10th International Symposium on Foundations and Practice of Security ({FPS} 2017)</em>, Nancy, France, 2017. <a href="https://hal.science/hal-01615534v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Puys2017,
   author = {Puys, Maxime and Potet, Marie-Laure and Khaled, Abdelaziz},
   title = {Generation of Applicative Attacks Scenarios Against Industrial Systems},
   booktitle = {10th International Symposium on Foundations and Practice of Security ({FPS} 2017)},
@@ -905,13 +803,12 @@
   address = {Nancy, France},
   url = {https://hal.science/hal-01615534v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Badrignans2017">8</a>]</td>
                 <td class="bibtexitem">
-                    B. Badrignans, V. Danjean, J.-G. Dumas, P. Elbaz-Vincent, S. Machenaud, J.-B. Orfila, F. Pebay-Peyroula, F. Pebay-Peyroula, M.-L. Potet, <u>M. Puys</u>, J.-L. Richier, and R. Jean-Louis. <b>Security Architecture for Embedded Point-to-Points Splitting Protocols.</b> <em>IEEE World Congress on Industrial Control Systems Security (WCICSS 2017)</em>, Churchil College, University of Cambridge, UK, 2017. <a href="javascript:hideshow(document.getElementById('Badrignans2017'))" name="Badrignans2017">[bib]</a> <a href="https://hal.science/hal-01657605v1">[pdf]</a>
-                    <pre id="Badrignans2017" style="display: none;">@inproceedings{Badrignans2017,
+                    B. Badrignans, V. Danjean, J.-G. Dumas, P. Elbaz-Vincent, S. Machenaud, J.-B. Orfila, F. Pebay-Peyroula, F. Pebay-Peyroula, M.-L. Potet, <u>M. Puys</u>, J.-L. Richier, and R. Jean-Louis. <b>Security Architecture for Embedded Point-to-Points Splitting Protocols.</b> <em>IEEE World Congress on Industrial Control Systems Security (WCICSS 2017)</em>, Churchil College, University of Cambridge, UK, 2017. <a href="https://hal.science/hal-01657605v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Badrignans2017,
   author = {Badrignans, Benoit and Danjean, Vincent and Dumas, Jean-Guillaume and Elbaz-Vincent, Philippe and Machenaud, Sabine and Orfila, Jean-Baptiste and Pebay-Peyroula, Florian and Pebay-Peyroula, François and Potet, Marie-Laure and Puys, Maxime and Richier, Jean-Luc and Jean-Louis, Roch},
   title = {Security Architecture for Embedded Point-to-Points Splitting Protocols},
   booktitle = {IEEE World Congress on Industrial Control Systems Security (WCICSS 2017)},
@@ -919,13 +816,12 @@
   address = {Churchil College, University of Cambridge, UK},
   url = {https://hal.science/hal-01657605v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Dumas2016">7</a>]</td>
                 <td class="bibtexitem">
-                    J.-G. Dumas, P. Lafourcade, J.-B. Orfila, and <u>M. Puys</u>. <b>Private Multi-party Matrix Multiplication and Trust Computations.</b> <em>13th International Joint Conference on e-Business and Telecommunications ({ICETE} 2016) - Volume 4: SECRYPT (Rank Core B)</em>, <b>Best Paper Award</b>, 2016. <a href="javascript:hideshow(document.getElementById('Dumas2016'))" name="Dumas2016">[bib]</a> <a href="https://hal.science/hal-01344750v2">[pdf]</a>
-                    <pre id="Dumas2016" style="display: none;">@inproceedings{Dumas2016,
+                    J.-G. Dumas, P. Lafourcade, J.-B. Orfila, and <u>M. Puys</u>. <b>Private Multi-party Matrix Multiplication and Trust Computations.</b> <em>13th International Joint Conference on e-Business and Telecommunications ({ICETE} 2016) - Volume 4: SECRYPT (Rank Core B)</em>, <b>Best Paper Award</b>, 2016. <a href="https://hal.science/hal-01344750v2">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Dumas2016,
   author = {Dumas, Jean-Guillaume and Lafourcade, Pascal and Orfila, Jean-Baptiste and Puys, Maxime},
   title = {Private Multi-party Matrix Multiplication and Trust Computations},
   booktitle = {13th International Joint Conference on e-Business and Telecommunications ({ICETE} 2016) - Volume 4: SECRYPT},
@@ -937,13 +833,12 @@
   rank = {B},
   ranking = {Core},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Puys2016a">6</a>]</td>
                 <td class="bibtexitem">
-                    <u>M. Puys</u>, M.-L. Potet, and P. Lafourcade. <b>Formal Analysis of Security Properties on the OPC-UA SCADA Protocol.</b> <em>35th International Conference on Computer Safety, Reliability, and Security ({SAFECOMP} 2016, Rank Core B)</em>, Trondheim, Norway, 2016. <a href="javascript:hideshow(document.getElementById('Puys2016a'))" name="Puys2016a">[bib]</a> <a href="https://hal.science/hal-01366059v1">[pdf]</a>
-                    <pre id="Puys2016a" style="display: none;">@inproceedings{Puys2016a,
+                    <u>M. Puys</u>, M.-L. Potet, and P. Lafourcade. <b>Formal Analysis of Security Properties on the OPC-UA SCADA Protocol.</b> <em>35th International Conference on Computer Safety, Reliability, and Security ({SAFECOMP} 2016, Rank Core B)</em>, Trondheim, Norway, 2016. <a href="https://hal.science/hal-01366059v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Puys2016a,
   author = {Puys, Maxime and Potet, Marie-Laure and Lafourcade, Pascal},
   title = {Formal Analysis of Security Properties on the {OPC-UA} {SCADA} Protocol},
   booktitle = {35th International Conference on Computer Safety, Reliability, and Security ({SAFECOMP} 2016)},
@@ -954,13 +849,12 @@
   rank = {B},
   ranking = {Core},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Puys2016b">5</a>]</td>
                 <td class="bibtexitem">
-                    <u>M. Puys</u>, J.-L. Roch, and M.-L. Potet. <b>Domain Specific Stateful Filtering with Worst-Case Bandwidth.</b> <em>11th International Conference on Critical Information Infrastructures Security ({CRITIS} 2016, Rank Core C)</em>, Paris, France, 2016. <a href="javascript:hideshow(document.getElementById('Puys2016b'))" name="Puys2016b">[bib]</a> <a href="https://hal.science/hal-01393829v1">[pdf]</a>
-                    <pre id="Puys2016b" style="display: none;">@inproceedings{Puys2016b,
+                    <u>M. Puys</u>, J.-L. Roch, and M.-L. Potet. <b>Domain Specific Stateful Filtering with Worst-Case Bandwidth.</b> <em>11th International Conference on Critical Information Infrastructures Security ({CRITIS} 2016, Rank Core C)</em>, Paris, France, 2016. <a href="https://hal.science/hal-01393829v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Puys2016b,
   author = {Puys, Maxime and Roch, Jean-Louis and Potet, Marie-Laure},
   title = {Domain Specific Stateful Filtering with Worst-Case Bandwidth},
   booktitle = {11th International Conference on Critical Information Infrastructures Security ({CRITIS} 2016)},
@@ -971,13 +865,12 @@
   rank = {C},
   ranking = {Core},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Lafourcade2015">4</a>]</td>
                 <td class="bibtexitem">
-                    P. Lafourcade, and <u>M. Puys</u>. <b>Performance Evaluations of Cryptographic Protocols Verification Tools Dealing with Algebraic Properties.</b> <em>8th International Symposium on Foundations and Practice of Security ({FPS} 2015)</em>, Clermont-Ferrand, France, 2015. <a href="javascript:hideshow(document.getElementById('Lafourcade2015'))" name="Lafourcade2015">[bib]</a> <a href="https://hal.science/hal-01306395v1">[pdf]</a>
-                    <pre id="Lafourcade2015" style="display: none;">@inproceedings{Lafourcade2015,
+                    P. Lafourcade, and <u>M. Puys</u>. <b>Performance Evaluations of Cryptographic Protocols Verification Tools Dealing with Algebraic Properties.</b> <em>8th International Symposium on Foundations and Practice of Security ({FPS} 2015)</em>, Clermont-Ferrand, France, 2015. <a href="https://hal.science/hal-01306395v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Lafourcade2015,
   author = {Lafourcade, Pascal and Puys, Maxime},
   title = {Performance Evaluations of Cryptographic Protocols Verification Tools Dealing with Algebraic Properties},
   booktitle = {8th International Symposium on Foundations and Practice of Security ({FPS} 2015)},
@@ -986,13 +879,12 @@
   address = {Clermont-Ferrand, France},
   url = {https://hal.science/hal-01306395v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Potet2014a">3</a>]</td>
                 <td class="bibtexitem">
-                    M.-L. Potet, L. Mounier, <u>M. Puys</u>, and L. Dureuil. <b>Lazart: A Symbolic Approach for Evaluation the Robustness of Secured Codes against Control Flow Injections.</b> <em>7th {IEEE} International Conference on Software Testing, Verification and Validation ({ICST} 2014, Rank Core A)</em>, Cleveland, Ohio, {USA}, 2014. <a href="javascript:hideshow(document.getElementById('Potet2014a'))" name="Potet2014a">[bib]</a> <a href="https://hal.science/hal-01229274v1">[pdf]</a>
-                    <pre id="Potet2014a" style="display: none;">@inproceedings{Potet2014a,
+                    M.-L. Potet, L. Mounier, <u>M. Puys</u>, and L. Dureuil. <b>Lazart: A Symbolic Approach for Evaluation the Robustness of Secured Codes against Control Flow Injections.</b> <em>7th {IEEE} International Conference on Software Testing, Verification and Validation ({ICST} 2014, Rank Core A)</em>, Cleveland, Ohio, {USA}, 2014. <a href="https://hal.science/hal-01229274v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Potet2014a,
   author = {Potet, Marie{-}Laure and Mounier, Laurent and Puys, Maxime and Dureuil, Louis},
   title = {Lazart: {A} Symbolic Approach for Evaluation the Robustness of Secured Codes against Control Flow Injections},
   booktitle = {7th {IEEE} International Conference on Software Testing, Verification and Validation ({ICST} 2014)},
@@ -1003,13 +895,12 @@
   rank = {A},
   ranking = {Core},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Puys2014">2</a>]</td>
                 <td class="bibtexitem">
-                    <u>M. Puys</u>, L. Rivière, J. Bringer, and T.-H. Le. <b>High-Level Simulation for Multiple Fault Injection Evaluation.</b> <em>19th European Symposium on Research in Computer Security (ESORICS 2014) - 3rd International Workshop on Quantitative Aspects in Security Assurance (QASA 2014)</em>, Wroclaw, Poland, 2014. <a href="javascript:hideshow(document.getElementById('Puys2014'))" name="Puys2014">[bib]</a> <a href="https://hal.science/hal-01229279v1">[pdf]</a>
-                    <pre id="Puys2014" style="display: none;">@inproceedings{Puys2014,
+                    <u>M. Puys</u>, L. Rivière, J. Bringer, and T.-H. Le. <b>High-Level Simulation for Multiple Fault Injection Evaluation.</b> <em>19th European Symposium on Research in Computer Security (ESORICS 2014) - 3rd International Workshop on Quantitative Aspects in Security Assurance (QASA 2014)</em>, Wroclaw, Poland, 2014. <a href="https://hal.science/hal-01229279v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Puys2014,
   author = {Puys, Maxime and Rivière, Lionel and Bringer, Julien and Le, Thanh-Ha},
   title = {High-Level Simulation for Multiple Fault Injection Evaluation},
   booktitle = {19th European Symposium on Research in Computer Security (ESORICS 2014) - 3rd International Workshop on Quantitative Aspects in Security Assurance (QASA 2014)},
@@ -1018,13 +909,12 @@
   address = {Wroclaw, Poland},
   url = {https://hal.science/hal-01229279v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Riviere2014">1</a>]</td>
                 <td class="bibtexitem">
-                    L. Rivière, M.-L. Potet, T.-H. Le, J. Bringer, H. Chabanne, and <u>M. Puys</u>. <b>Combining High-Level and Low-Level Approaches to Evaluate Software Implementations Robustness Against Multiple Fault Injection Attacks.</b> <em>7th International Symposium on Foundations and Practice of Security ({FPS} 2014)</em>, Montreal, QC, Canada, 2014. <a href="javascript:hideshow(document.getElementById('Riviere2014'))" name="Riviere2014">[bib]</a> <a href="https://hal.science/hal-01229261v1">[pdf]</a>
-                    <pre id="Riviere2014" style="display: none;">@inproceedings{Riviere2014,
+                    L. Rivière, M.-L. Potet, T.-H. Le, J. Bringer, H. Chabanne, and <u>M. Puys</u>. <b>Combining High-Level and Low-Level Approaches to Evaluate Software Implementations Robustness Against Multiple Fault Injection Attacks.</b> <em>7th International Symposium on Foundations and Practice of Security ({FPS} 2014)</em>, Montreal, QC, Canada, 2014. <a href="https://hal.science/hal-01229261v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Riviere2014,
   author = {Rivière, Lionel and Potet, Marie-Laure and Le, Thanh-Ha and Bringer, Julien and Chabanne, Hervé and Puys, Maxime},
   title = {Combining High-Level and Low-Level Approaches to Evaluate Software Implementations Robustness Against Multiple Fault Injection Attacks},
   booktitle = {7th International Symposium on Foundations and Practice of Security ({FPS} 2014)},
@@ -1033,7 +923,7 @@
   address = {Montreal, QC, Canada},
   url = {https://hal.science/hal-01229261v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
             </table>
@@ -1041,144 +931,134 @@
             <table>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="DTPM23">10</a>]</td>
                 <td class="bibtexitem">
-                    M. Da Silva, P.-H. Thevenon, <u>M. Puys</u>, and S. Mocanu. <b>Convergence sûreté-sécurité des Systèmes de Contrôle Industriel.</b> <em>Rendez-Vous de la Recherche et de l&#x27;Enseignement de la Sécurité des Systèmes d&#x27;Information (RESSI 2023)</em>, Neuvy-sur-Barangeon, France, 2023. <a href="javascript:hideshow(document.getElementById('DTPM23'))" name="DTPM23">[bib]</a> <a href="https://hal.science/hal-05124406v1">[pdf]</a>
-                    <pre id="DTPM23" style="display: none;">@inproceedings{DTPM23,
+                    M. Da Silva, P.-H. Thevenon, <u>M. Puys</u>, and S. Mocanu. <b>Convergence sûreté-sécurité des Systèmes de Contrôle Industriel.</b> <em>Rendez-Vous de la Recherche et de l&#x27;Enseignement de la Sécurité des Systèmes d&#x27;Information (RESSI 2023)</em>, Neuvy-sur-Barangeon, France, 2023. <a href="https://hal.science/hal-05124406v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{DTPM23,
   author = {Da Silva, Mike and Thevenon, Pierre-Henri and Puys, Maxime and Mocanu, Stéphane},
   title = {Convergence sûreté-sécurité des Systèmes de Contrôle Industriel},
-  booktitle = {Rendez-Vous de la Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information (RESSI 2023)},
+  booktitle = {Rendez-Vous de la Recherche et de l&#x27;Enseignement de la Sécurité des Systèmes d&#x27;Information (RESSI 2023)},
   year = {2023},
   address = {Neuvy-sur-Barangeon, France},
   url = {https://hal.science/hal-05124406v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="LTPA23">9</a>]</td>
                 <td class="bibtexitem">
-                    Z. Lagache, P.-H. Thevenon, <u>M. Puys</u>, and O.-E.-K. Aktouf. <b>Convergence sûreté-sécurité des Systèmes de Contrôle Industriel.</b> <em>Rendez-Vous de la Recherche et de l&#x27;Enseignement de la Sécurité des Systèmes d&#x27;Information (RESSI 2023)</em>, Neuvy-sur-Barangeon, France, 2023. <a href="javascript:hideshow(document.getElementById('LTPA23'))" name="LTPA23">[bib]</a> <a href="https://hal.science/hal-05124436v1">[pdf]</a>
-                    <pre id="LTPA23" style="display: none;">@inproceedings{LTPA23,
-  author = {Lagache, Zo{\'e} and Thevenon, Pierre-Henri and Puys, Maxime and Aktouf, {Oum-El-Kheir}},
+                    Z. Lagache, P.-H. Thevenon, <u>M. Puys</u>, and O.-E.-K. Aktouf. <b>Convergence sûreté-sécurité des Systèmes de Contrôle Industriel.</b> <em>Rendez-Vous de la Recherche et de l&#x27;Enseignement de la Sécurité des Systèmes d&#x27;Information (RESSI 2023)</em>, Neuvy-sur-Barangeon, France, 2023. <a href="https://hal.science/hal-05124436v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{LTPA23,
+  author = {Lagache, Zo{\&#x27;e} and Thevenon, Pierre-Henri and Puys, Maxime and Aktouf, {Oum-El-Kheir}},
   title = {Convergence sûreté-sécurité des Systèmes de Contrôle Industriel},
-  booktitle = {Rendez-Vous de la Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information (RESSI 2023)},
+  booktitle = {Rendez-Vous de la Recherche et de l&#x27;Enseignement de la Sécurité des Systèmes d&#x27;Information (RESSI 2023)},
   year = {2023},
   address = {Neuvy-sur-Barangeon, France},
   url = {https://hal.science/hal-05124436v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Puys2022b">8</a>]</td>
                 <td class="bibtexitem">
-                    <u>M. Puys</u>, and P.-H. Thevenon. <b>PULSE - Cybersécurité des systèmes industriels.</b> <em>Rendez-Vous de la Recherche et de l&#x27;Enseignement de la Sécurité des Systèmes d&#x27;Information (RESSI 2022)</em>, Chambon-sur-Lac, France, 2022. <a href="javascript:hideshow(document.getElementById('Puys2022b'))" name="Puys2022b">[bib]</a> <a href="https://hal.science/hal-05124147v1">[pdf]</a>
-                    <pre id="Puys2022b" style="display: none;">@inproceedings{Puys2022b,
+                    <u>M. Puys</u>, and P.-H. Thevenon. <b>PULSE - Cybersécurité des systèmes industriels.</b> <em>Rendez-Vous de la Recherche et de l&#x27;Enseignement de la Sécurité des Systèmes d&#x27;Information (RESSI 2022)</em>, Chambon-sur-Lac, France, 2022. <a href="https://hal.science/hal-05124147v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Puys2022b,
   author = {Puys, Maxime and Thevenon, Pierre-Henri},
   title = {{PULSE} - Cybersécurité des systèmes industriels},
-  booktitle = {Rendez-Vous de la Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information (RESSI 2022)},
+  booktitle = {Rendez-Vous de la Recherche et de l&#x27;Enseignement de la Sécurité des Systèmes d&#x27;Information (RESSI 2022)},
   year = {2022},
   address = {Chambon-sur-Lac, France},
   url = {https://hal.science/hal-05124147v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Gallissot2020">7</a>]</td>
                 <td class="bibtexitem">
-                    M. Gallissot, <u>M. Puys</u>, and P.-H. Thevenon. <b>Wonder-Cloud, une plateforme pour l’analyse et l&#x27;émulation de micrologiciels ainsi que la composition de pots de miels.</b> <em>C&amp;esar 2020 - Deceptive Security</em>, Rennes, France, 2020. <a href="javascript:hideshow(document.getElementById('Gallissot2020'))" name="Gallissot2020">[bib]</a> <a href="https://hal.science/hal-05124010v1">[pdf]</a>
-                    <pre id="Gallissot2020" style="display: none;">@inproceedings{Gallissot2020,
+                    M. Gallissot, <u>M. Puys</u>, and P.-H. Thevenon. <b>Wonder-Cloud, une plateforme pour l’analyse et l&#x27;émulation de micrologiciels ainsi que la composition de pots de miels.</b> <em>C&amp;esar 2020 - Deceptive Security</em>, Rennes, France, 2020. <a href="https://hal.science/hal-05124010v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Gallissot2020,
   author = {Gallissot, Mathieu and Puys, Maxime and Thevenon, Pierre-Henri},
-  title = {Wonder-Cloud, une plateforme pour l’analyse et l'émulation de micrologiciels ainsi que la composition de pots de miels},
-  booktitle = {C\&esar; 2020 - Deceptive Security},
+  title = {Wonder-Cloud, une plateforme pour l’analyse et l&#x27;émulation de micrologiciels ainsi que la composition de pots de miels},
+  booktitle = {C\&amp;esar 2020 - Deceptive Security},
   pages = {1--8},
   year = {2020},
   address = {Rennes, France},
   url = {https://hal.science/hal-05124010v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Puys2019">6</a>]</td>
                 <td class="bibtexitem">
-                    <u>M. Puys</u>, and P.-H. Thevenon. <b>Les défis posés par la sécurisation de l&#x27;IoT industriel.</b> <em>Rendez-Vous de la Recherche et de l&#x27;Enseignement de la Sécurité des Systèmes d&#x27;Information (RESSI 2019)</em>, Erquy, France, 2019. <a href="javascript:hideshow(document.getElementById('Puys2019'))" name="Puys2019">[bib]</a> <a href="https://hal.science/hal-05123957v1">[pdf]</a>
-                    <pre id="Puys2019" style="display: none;">@inproceedings{Puys2019,
+                    <u>M. Puys</u>, and P.-H. Thevenon. <b>Les défis posés par la sécurisation de l&#x27;IoT industriel.</b> <em>Rendez-Vous de la Recherche et de l&#x27;Enseignement de la Sécurité des Systèmes d&#x27;Information (RESSI 2019)</em>, Erquy, France, 2019. <a href="https://hal.science/hal-05123957v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Puys2019,
   author = {Puys, Maxime and Thevenon, Pierre-Henri},
-  title = {Les défis posés par la sécurisation de l'IoT industriel},
-  booktitle = {Rendez-Vous de la Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information (RESSI 2019)},
+  title = {Les défis posés par la sécurisation de l&#x27;IoT industriel},
+  booktitle = {Rendez-Vous de la Recherche et de l&#x27;Enseignement de la Sécurité des Systèmes d&#x27;Information (RESSI 2019)},
   year = {2019},
   address = {Erquy, France},
   url = {https://hal.science/hal-05123957v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Mocanu2019">5</a>]</td>
                 <td class="bibtexitem">
-                    S. Mocanu, <u>M. Puys</u>, and P.-H. Thevenon. <b>An Open-Source Hardware-In-The-Loop Virtualization System for Cybersecurity Studies of SCADA Systems.</b> <em>C&amp;esar 2019 - Virtualization and Cybersecurity</em>, Rennes, France, 2019. <a href="javascript:hideshow(document.getElementById('Mocanu2019'))" name="Mocanu2019">[bib]</a> <a href="https://hal.science/hal-02371133v1">[pdf]</a>
-                    <pre id="Mocanu2019" style="display: none;">@inproceedings{Mocanu2019,
+                    S. Mocanu, <u>M. Puys</u>, and P.-H. Thevenon. <b>An Open-Source Hardware-In-The-Loop Virtualization System for Cybersecurity Studies of SCADA Systems.</b> <em>C&amp;esar 2019 - Virtualization and Cybersecurity</em>, Rennes, France, 2019. <a href="https://hal.science/hal-02371133v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Mocanu2019,
   author = {Mocanu, Stéphane and Puys, Maxime and Thevenon, Pierre-Henri},
   title = {An Open-Source Hardware-In-The-Loop Virtualization System for Cybersecurity Studies of SCADA Systems},
-  booktitle = {C\&esar; 2019 - Virtualization and Cybersecurity},
+  booktitle = {C\&amp;esar 2019 - Virtualization and Cybersecurity},
   pages = {1-16},
   year = {2019},
   address = {Rennes, France},
   url = {https://hal.science/hal-02371133v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Puys2016c">4</a>]</td>
                 <td class="bibtexitem">
-                    <u>M. Puys</u>, M.-L. Potet, and J.-L. Roch. <b>Génération systèmatique de scénarios d&#x27;attaques contre des systémes industriels.</b> <em>Approches Formelles dans l&#x27;Assistance au Développement de Logiciels (AFADL 2016)</em>, Besançon, France, 2016. <a href="javascript:hideshow(document.getElementById('Puys2016c'))" name="Puys2016c">[bib]</a> <a href="https://hal.science/hal-01330949v1">[pdf]</a>
-                    <pre id="Puys2016c" style="display: none;">@inproceedings{Puys2016c,
+                    <u>M. Puys</u>, M.-L. Potet, and J.-L. Roch. <b>Génération systèmatique de scénarios d&#x27;attaques contre des systémes industriels.</b> <em>Approches Formelles dans l&#x27;Assistance au Développement de Logiciels (AFADL 2016)</em>, Besançon, France, 2016. <a href="https://hal.science/hal-01330949v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Puys2016c,
   author = {Puys, Maxime and Potet, Marie-Laure and Roch, Jean-Louis},
-  title = {Génération systèmatique de scénarios d'attaques contre des systémes industriels},
-  booktitle = {Approches Formelles dans l'Assistance au Développement de Logiciels (AFADL 2016)},
+  title = {Génération systèmatique de scénarios d&#x27;attaques contre des systémes industriels},
+  booktitle = {Approches Formelles dans l&#x27;Assistance au Développement de Logiciels (AFADL 2016)},
   year = {2016},
   address = {Besançon, France},
   url = {https://hal.science/hal-01330949v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Puys2016d">3</a>]</td>
                 <td class="bibtexitem">
-                    <u>M. Puys</u>, M.-L. Potet, and J.-L. Roch. <b>Filtrage et vérification de flux métiers dans les systèmes industriels.</b> <em>Rendez-Vous de la Recherche et de l&#x27;Enseignement de la Sécurité des Systèmes d&#x27;Information (RESSI 2016)</em>, Toulouse, France, 2016. <a href="javascript:hideshow(document.getElementById('Puys2016d'))" name="Puys2016d">[bib]</a> <a href="https://hal.science/hal-01316590v1">[pdf]</a>
-                    <pre id="Puys2016d" style="display: none;">@inproceedings{Puys2016d,
+                    <u>M. Puys</u>, M.-L. Potet, and J.-L. Roch. <b>Filtrage et vérification de flux métiers dans les systèmes industriels.</b> <em>Rendez-Vous de la Recherche et de l&#x27;Enseignement de la Sécurité des Systèmes d&#x27;Information (RESSI 2016)</em>, Toulouse, France, 2016. <a href="https://hal.science/hal-01316590v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Puys2016d,
   author = {Puys, Maxime and Potet, Marie-Laure and Roch, Jean-Louis},
   title = {Filtrage et vérification de flux métiers dans les systèmes industriels},
-  booktitle = {Rendez-Vous de la Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information (RESSI 2016)},
+  booktitle = {Rendez-Vous de la Recherche et de l&#x27;Enseignement de la Sécurité des Systèmes d&#x27;Information (RESSI 2016)},
   year = {2016},
   address = {Toulouse, France},
   url = {https://hal.science/hal-01316590v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Potet2014b">2</a>]</td>
                 <td class="bibtexitem">
-                    M.-L. Potet, L. Mounier, <u>M. Puys</u>, and L. Dureuil. <b>Lazart: A Symbolic Approach for Evaluation the Robustness of Secured Codes against Control Flow Injections.</b> <em>Approches Formelles dans l&#x27;Assistance au Développement de Logiciels (AFADL 2014)</em>, Paris, France, 2014. <a href="javascript:hideshow(document.getElementById('Potet2014b'))" name="Potet2014b">[bib]</a> <a href="https://hal.science/hal-01229274v1">[pdf]</a>
-                    <pre id="Potet2014b" style="display: none;">@inproceedings{Potet2014b,
+                    M.-L. Potet, L. Mounier, <u>M. Puys</u>, and L. Dureuil. <b>Lazart: A Symbolic Approach for Evaluation the Robustness of Secured Codes against Control Flow Injections.</b> <em>Approches Formelles dans l&#x27;Assistance au Développement de Logiciels (AFADL 2014)</em>, Paris, France, 2014. <a href="https://hal.science/hal-01229274v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Potet2014b,
   author = {Potet, Marie-Laure and Mounier, Laurent and Puys, Maxime and Dureuil, Louis},
   title = {Lazart: A Symbolic Approach for Evaluation the Robustness of Secured Codes against Control Flow Injections},
-  booktitle = {Approches Formelles dans l'Assistance au Développement de Logiciels (AFADL 2014)},
+  booktitle = {Approches Formelles dans l&#x27;Assistance au Développement de Logiciels (AFADL 2014)},
   year = {2014},
   address = {Paris, France},
   url = {https://hal.science/hal-01229274v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Potet2014c">1</a>]</td>
                 <td class="bibtexitem">
-                    M.-L. Potet, L. Mounier, <u>M. Puys</u>, and L. Dureuil. <b>Lazart: A Symbolic Approach for Evaluation the Robustness of Secured Codes against Control Flow Injections.</b> <em>Approches Formelles dans l&#x27;Assistance au Développement de Logiciels (AFADL 2014)</em>, Paris, France, 2014. <a href="javascript:hideshow(document.getElementById('Potet2014c'))" name="Potet2014c">[bib]</a> <a href="https://hal.science/hal-01229274v1">[pdf]</a>
-                    <pre id="Potet2014c" style="display: none;">@inproceedings{Potet2014c,
+                    M.-L. Potet, L. Mounier, <u>M. Puys</u>, and L. Dureuil. <b>Lazart: A Symbolic Approach for Evaluation the Robustness of Secured Codes against Control Flow Injections.</b> <em>Approches Formelles dans l&#x27;Assistance au Développement de Logiciels (AFADL 2014)</em>, Paris, France, 2014. <a href="https://hal.science/hal-01229274v1">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@inproceedings{Potet2014c,
   author = {Potet, Marie-Laure and Mounier, Laurent and Puys, Maxime and Dureuil, Louis},
   title = {Lazart: A Symbolic Approach for Evaluation the Robustness of Secured Codes against Control Flow Injections},
-  booktitle = {Approches Formelles dans l'Assistance au Développement de Logiciels (AFADL 2014)},
+  booktitle = {Approches Formelles dans l&#x27;Assistance au Développement de Logiciels (AFADL 2014)},
   year = {2014},
   address = {Paris, France},
   url = {https://hal.science/hal-01229274v1},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
             </table>
@@ -1186,28 +1066,26 @@
             <table>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="dasilva2024method">2</a>]</td>
                 <td class="bibtexitem">
-                    M. Da Silva, P.-H. Thevenon, <u>M. Puys</u>, and S. Mocanu. <b>Method and device for identifying risks of cyberattacks.</b> US Patent App. 18/534,970, Jun 2024. <a href="javascript:hideshow(document.getElementById('dasilva2024method'))" name="dasilva2024method">[bib]</a>
-                    <pre id="dasilva2024method" style="display: none;">@misc{dasilva2024method,
-  author = {Da Silva, Mike and Thevenon, Pierre-Henri and Puys, Maxime and Mocanu, St{\'e}phane},
+                    M. Da Silva, P.-H. Thevenon, <u>M. Puys</u>, and S. Mocanu. <b>Method and device for identifying risks of cyberattacks.</b> US Patent App. 18/534,970, Jun 2024. <details class="bibtex-details"><summary>[bib]</summary><pre>@misc{dasilva2024method,
+  author = {Da Silva, Mike and Thevenon, Pierre-Henri and Puys, Maxime and Mocanu, St{\&#x27;e}phane},
   title = {Method and device for identifying risks of cyberattacks},
   howpublished = {US Patent App. 18/534,970},
   year = {2024},
   month = {Jun},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="polychronou2023system">1</a>]</td>
                 <td class="bibtexitem">
-                    N. Polychronou, P.-H. Thevenon, <u>M. Puys</u>, and V. Beroulle. <b>System for detecting malwares in a resources constrained device.</b> US Patent App. 18/109,815, Aug 2023. <a href="javascript:hideshow(document.getElementById('polychronou2023system'))" name="polychronou2023system">[bib]</a>
-                    <pre id="polychronou2023system" style="display: none;">@misc{polychronou2023system,
+                    N. Polychronou, P.-H. Thevenon, <u>M. Puys</u>, and V. Beroulle. <b>System for detecting malwares in a resources constrained device.</b> US Patent App. 18/109,815, Aug 2023. <details class="bibtex-details"><summary>[bib]</summary><pre>@misc{polychronou2023system,
   author = {Polychronou, Nikolaos and Thevenon, Pierre-Henri and Puys, Maxime and Beroulle, Vincent},
   title = {System for detecting malwares in a resources constrained device},
   howpublished = {US Patent App. 18/109,815},
   year = {2023},
   month = {Aug},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
             </table>
@@ -1215,21 +1093,19 @@
             <table>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="LaMontagne24">2</a>]</td>
                 <td class="bibtexitem">
-                    T. Senzier. <b>La cybersécurité, un vrai sujet de recherche pour le laboratoire Limos, dans le Puy-de-Dôme.</b> <em>Journal La Montagne, édition du 26 septembre</em>, 2024. <a href="javascript:hideshow(document.getElementById('LaMontagne24'))" name="LaMontagne24">[bib]</a> <a href="https://www.lamontagne.fr/clermont-ferrand-63000/actualites/la-cybersecurite-un-vrai-sujet-de-recherche-pour-le-laboratoire-limos-dans-le-puy-de-dome_14568731/">[pdf]</a>
-                    <pre id="LaMontagne24" style="display: none;">@article{LaMontagne24,
+                    T. Senzier. <b>La cybersécurité, un vrai sujet de recherche pour le laboratoire Limos, dans le Puy-de-Dôme.</b> <em>Journal La Montagne, édition du 26 septembre</em>, 2024. <a href="https://www.lamontagne.fr/clermont-ferrand-63000/actualites/la-cybersecurite-un-vrai-sujet-de-recherche-pour-le-laboratoire-limos-dans-le-puy-de-dome_14568731/">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@article{LaMontagne24,
   author = {Senzier, Thierry},
   title = {La cybersécurité, un vrai sujet de recherche pour le laboratoire Limos, dans le Puy-de-Dôme},
   journal = {Journal La Montagne, édition du 26 septembre},
   year = {2024},
   url = {https://www.lamontagne.fr/clermont-ferrand-63000/actualites/la-cybersecurite-un-vrai-sujet-de-recherche-pour-le-laboratoire-limos-dans-le-puy-de-dome_14568731/},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
                 <tr valign="top"><td align="right" class="bibtexnumber">[<a name="Moran0PW23">1</a>]</td>
                 <td class="bibtexitem">
-                    M. Moran, P. Lafourcade, <u>M. Puys</u>, and D. Williams. <b>An Introduction to Tools for Formal Analysis of Cryptographic Protocols.</b> <em>Handbook of Formal Analysis and Verification in Cryptography</em>, 2023. <a href="javascript:hideshow(document.getElementById('Moran0PW23'))" name="Moran0PW23">[bib]</a> <a href="https://doi.org/10.1201/9781003090052-3">[pdf]</a>
-                    <pre id="Moran0PW23" style="display: none;">@incollection{Moran0PW23,
+                    M. Moran, P. Lafourcade, <u>M. Puys</u>, and D. Williams. <b>An Introduction to Tools for Formal Analysis of Cryptographic Protocols.</b> <em>Handbook of Formal Analysis and Verification in Cryptography</em>, 2023. <a href="https://doi.org/10.1201/9781003090052-3">[pdf]</a> <details class="bibtex-details"><summary>[bib]</summary><pre>@incollection{Moran0PW23,
   author = {Moran, Murat and Lafourcade, Pascal and Puys, Maxime and Williams, David},
   editor = {Akleylek, Sedat and Dundua, Besik},
   title = {An Introduction to Tools for Formal Analysis of Cryptographic Protocols},
@@ -1243,7 +1119,7 @@
   biburl = {https://dblp.org/rec/books/crc/23/Moran0PW23.bib},
   timestamp = {Mon, 25 Sep 2023 12:20:32 +0200},
 }
-</pre>
+</pre></details>
                 </td>
                 </tr>
             </table>
@@ -1266,7 +1142,7 @@
         <p>With the rise of Industry 4.0, IoT is expanding into critical
         domains, increasing cyberattacks (e.g., Stuxnet, Mirai). These systems,
         unlike classical IT systems, prioritize process availability and
-        safety. The major challenge is the joint study of safety and and
+        safety. The major challenge is the joint study of safety and
         security, often interconnected and potentially antagonistic, especially
         since current tools rarely manage them together due to combinatorial
         complexity.</p>
@@ -1302,127 +1178,141 @@
         <h3>Ph.D Students</h3>
 
         <ul>
-            <li><strong>2019 - 2022:</strong> Nikolaos Foivos Polychronou</li>
-            <ul>
-                <li><strong>Title:</strong> &quot;Detection of Micro-Architectural Attacks in Resource-Limited Devices with a Local-Remote Security Mechanism&quot;</li>
-                <li><strong>Defended on:</strong> 2023-01-16</li>
-                <li><strong>Prepared in:</strong> CEA-LETI, Grenoble, France</li>
-                <li><strong>University:</strong> Univ. Grenoble Alpes</li>
-                <li><strong>Funding:</strong> CEA-LETI</li>
-            <table class="jury-table">
-                <tr>
-                    <td class="jury-label">Jury:</td>
-                    <td class="jury-details">
-                        Gilles Sassatelli, DR CNRS/Université of Montpellier, <em>President</em>
-                    </td>
-                </tr>
-                <tr>
-                    <td></td>                     <td class="jury-details">
-                            Guy Gogniat, Prof. Université Bretagne Sud, <em>Reviewer</em>
-                    </td>
-                </tr>
-                <tr>
-                    <td></td>                     <td class="jury-details">
-                            Lilian Bossuet, Prof. Université Jean Monnet, <em>Reviewer</em>
-                    </td>
-                </tr>
-                <tr>
-                    <td></td>                     <td class="jury-details">
-                            Laure Gonnord, Prof. Grenoble INP, <em>Examiner</em>
-                    </td>
-                </tr>
-                <tr>
-                    <td></td>                     <td class="jury-details">
-                            Vincent Beroulle, Prof. Grenoble INP, <em>Supervisor</em>
-                    </td>
-                </tr>
-                <tr>
-                    <td></td>                     <td class="jury-details">
-                            Pierre-Henri Thevenon, CEA-LETI, <em>Advisor</em>
-                    </td>
-                </tr>
-                <tr>
-                    <td></td>                     <td class="jury-details">
-                            <u>Maxime Puys</u>, CEA-LETI, <em>Advisor</em>
-                    </td>
-                </tr>
-            </table>
-            </ul>
+            <li>
+                <strong>2019 - 2022:</strong> Nikolaos Foivos Polychronou
+                <ul>
+                    <li><strong>Title:</strong> &quot;Detection of Micro-Architectural Attacks in Resource-Limited Devices with a Local-Remote Security Mechanism&quot;</li>
+                    <li><strong>Defended on:</strong> 2023-01-16</li>
+                    <li><strong>Prepared in:</strong> CEA-LETI, Grenoble, France</li>
+                    <li><strong>University:</strong> Univ. Grenoble Alpes</li>
+                    <li><strong>Funding:</strong> CEA-LETI</li>
+                    <li>
+                    <table class="jury-table">
+                        <tr>
+                            <td class="jury-label">Jury:</td>
+                            <td class="jury-details">
+                                Gilles Sassatelli, DR CNRS/Université of Montpellier, <em>President</em>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>                             <td class="jury-details">
+                                    Guy Gogniat, Prof. Université Bretagne Sud, <em>Reviewer</em>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>                             <td class="jury-details">
+                                    Lilian Bossuet, Prof. Université Jean Monnet, <em>Reviewer</em>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>                             <td class="jury-details">
+                                    Laure Gonnord, Prof. Grenoble INP, <em>Examiner</em>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>                             <td class="jury-details">
+                                    Vincent Beroulle, Prof. Grenoble INP, <em>Supervisor</em>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>                             <td class="jury-details">
+                                    Pierre-Henri Thevenon, CEA-LETI, <em>Advisor</em>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>                             <td class="jury-details">
+                                    <u>Maxime Puys</u>, CEA-LETI, <em>Advisor</em>
+                            </td>
+                        </tr>
+                    </table>
+                    </li>
+                </ul>
+            </li>
         </ul>
         <ul>
-            <li><strong>2021 - 2024:</strong> Mike Da Silva</li>
-            <ul>
-                <li><strong>Title:</strong> &quot;Safety-Security Convergence of Industrial Control Systems: Cybersecurity Risk Assessment for System Safety&quot;</li>
-                <li><strong>Defended on:</strong> 2024-10-15</li>
-                <li><strong>Prepared in:</strong> CEA-LETI, Grenoble, France</li>
-                <li><strong>University:</strong> Univ. Grenoble Alpes</li>
-                <li><strong>Funding:</strong> CEA-LETI</li>
-            <table class="jury-table">
-                <tr>
-                    <td class="jury-label">Jury:</td>
-                    <td class="jury-details">
-                        Marie-Laure Potet, Prof. University Grenoble Alpes, <em>President</em>
-                    </td>
-                </tr>
-                <tr>
-                    <td></td>                     <td class="jury-details">
-                            Vincent Nicomette, Prof. INSA de Toulouse, <em>Reviewer</em>
-                    </td>
-                </tr>
-                <tr>
-                    <td></td>                     <td class="jury-details">
-                            Nga Nguyen, Associate Prof. ESILV, <em>Reviewer</em>
-                    </td>
-                </tr>
-                <tr>
-                    <td></td>                     <td class="jury-details">
-                            Pascal Lafourcade, Prof. University Clermont Auvergne, <em>Examiner</em>
-                    </td>
-                </tr>
-                <tr>
-                    <td></td>                     <td class="jury-details">
-                            Stéphane Mocanu, Associate Prof. Grenoble INP, <em>Supervisor</em>
-                    </td>
-                </tr>
-                <tr>
-                    <td></td>                     <td class="jury-details">
-                            Pierre-Henri Thevenon, CEA-LETI, <em>Advisor</em>
-                    </td>
-                </tr>
-                <tr>
-                    <td></td>                     <td class="jury-details">
-                            <u>Maxime Puys</u>, Associate Prof. University Clermont Auvergne, <em>Advisor</em>
-                    </td>
-                </tr>
-            </table>
-            </ul>
+            <li>
+                <strong>2021 - 2024:</strong> Mike Da Silva
+                <ul>
+                    <li><strong>Title:</strong> &quot;Safety-Security Convergence of Industrial Control Systems: Cybersecurity Risk Assessment for System Safety&quot;</li>
+                    <li><strong>Defended on:</strong> 2024-10-15</li>
+                    <li><strong>Prepared in:</strong> CEA-LETI, Grenoble, France</li>
+                    <li><strong>University:</strong> Univ. Grenoble Alpes</li>
+                    <li><strong>Funding:</strong> CEA-LETI</li>
+                    <li>
+                    <table class="jury-table">
+                        <tr>
+                            <td class="jury-label">Jury:</td>
+                            <td class="jury-details">
+                                Marie-Laure Potet, Prof. University Grenoble Alpes, <em>President</em>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>                             <td class="jury-details">
+                                    Vincent Nicomette, Prof. INSA de Toulouse, <em>Reviewer</em>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>                             <td class="jury-details">
+                                    Nga Nguyen, Associate Prof. ESILV, <em>Reviewer</em>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>                             <td class="jury-details">
+                                    Pascal Lafourcade, Prof. University Clermont Auvergne, <em>Examiner</em>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>                             <td class="jury-details">
+                                    Stéphane Mocanu, Associate Prof. Grenoble INP, <em>Supervisor</em>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>                             <td class="jury-details">
+                                    Pierre-Henri Thevenon, CEA-LETI, <em>Advisor</em>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>                             <td class="jury-details">
+                                    <u>Maxime Puys</u>, Associate Prof. University Clermont Auvergne, <em>Advisor</em>
+                            </td>
+                        </tr>
+                    </table>
+                    </li>
+                </ul>
+            </li>
         </ul>
         <ul>
-            <li><strong>Since 2023:</strong> Zoé Lagache</li>
-            <ul>
-                <li><strong>Title:</strong> &quot;Automatic Restauration of Embedded Linux Systems&quot;</li>
-                <li><strong>Prepared in:</strong> CEA-LETI, Grenoble, France</li>
-                <li><strong>University:</strong> Univ. Grenoble Alpes</li>
-                <li><strong>Funding:</strong> CEA-LETI</li>
-            </ul>
+            <li>
+                <strong>Since 2023:</strong> Zoé Lagache
+                <ul>
+                    <li><strong>Title:</strong> &quot;Automatic Restauration of Embedded Linux Systems&quot;</li>
+                    <li><strong>Prepared in:</strong> CEA-LETI, Grenoble, France</li>
+                    <li><strong>University:</strong> Univ. Grenoble Alpes</li>
+                    <li><strong>Funding:</strong> CEA-LETI</li>
+                </ul>
+            </li>
         </ul>
         <ul>
-            <li><strong>Since 2024:</strong> Florent Durecu</li>
-            <ul>
-                <li><strong>Title:</strong> &quot;Intrusion Detection and Protection in Networks using QoS based AI&quot;</li>
-                <li><strong>Prepared in:</strong> LIMOS, Clermont-Ferrand, France</li>
-                <li><strong>University:</strong> Univ. Clermont Auvergne</li>
-                <li><strong>Funding:</strong> Programme DATA, I-SITE CLERMONT CAP 20-25, Université Clermont Auvergne</li>
-            </ul>
+            <li>
+                <strong>Since 2024:</strong> Florent Durecu
+                <ul>
+                    <li><strong>Title:</strong> &quot;Intrusion Detection and Protection in Networks using QoS based AI&quot;</li>
+                    <li><strong>Prepared in:</strong> LIMOS, Clermont-Ferrand, France</li>
+                    <li><strong>University:</strong> Univ. Clermont Auvergne</li>
+                    <li><strong>Funding:</strong> Programme DATA, I-SITE CLERMONT CAP 20-25, Université Clermont Auvergne</li>
+                </ul>
+            </li>
         </ul>
         <ul>
-            <li><strong>Since 2025:</strong> Steve Durand Nouyep Noundjio</li>
-            <ul>
-                <li><strong>Title:</strong> &quot;Security and Confidentiality in Retrieval-Augmented Generation Systems&quot;</li>
-                <li><strong>Prepared in:</strong> LIMOS, Clermont-Ferrand, France</li>
-                <li><strong>University:</strong> Univ. Clermont Auvergne</li>
-                <li><strong>Funding:</strong> Endowed Chair on Reliable and Trustworthy Use of LLMs, Université Clermont Auvergne</li>
-            </ul>
+            <li>
+                <strong>Since 2025:</strong> Steve Durand Nouyep Noundjio
+                <ul>
+                    <li><strong>Title:</strong> &quot;Security and Confidentiality in Retrieval-Augmented Generation Systems&quot;</li>
+                    <li><strong>Prepared in:</strong> LIMOS, Clermont-Ferrand, France</li>
+                    <li><strong>University:</strong> Univ. Clermont Auvergne</li>
+                    <li><strong>Funding:</strong> Endowed Chair on Reliable and Trustworthy Use of LLMs, Université Clermont Auvergne</li>
+                </ul>
+            </li>
         </ul>
 
         <h3>Master 2 Students</h3>
@@ -1672,8 +1562,6 @@ Built with <a href="http://getpelican.com" target="_blank" rel="noopener norefer
 }
 </script>
 
-
-    <script src="js/publications.js" defer></script>
 
     <script src="js/main.js" defer></script>
 </body>

@@ -534,6 +534,44 @@ body.dark-theme .themed-image.light-image {
   display: flex;
 }
 
+/* [bib] toggle on publications.html: a <details>/<summary> instead of the
+   old javascript: link + hidden <pre>, styled to look like the plain-text
+   [pdf]/[slides] links next to it rather than a native disclosure widget. */
+.bibtexitem details {
+  display: inline;
+}
+
+.bibtexitem details summary {
+  display: inline;
+  list-style: none;
+  cursor: pointer;
+  color: @link-color;
+  font-weight: bold;
+}
+
+.bibtexitem details summary::-webkit-details-marker {
+  display: none;
+}
+
+body.dark-theme .bibtexitem details summary {
+  color: @link-color-dark;
+}
+
+/* CV page sections (expertise, experience, skills, scholar formation): a
+   label/value list, not tabular data. --cv-fields-label-width lets each
+   section keep its own label-column width, matching the original per-table
+   ratios, since a <dl>'s grid-template-columns can't vary per row. */
+.cv-fields {
+  display: grid;
+  grid-template-columns: var(--cv-fields-label-width, 25%) 1fr;
+  gap: 0.25em 1em;
+  margin: 0;
+}
+
+.cv-fields dd {
+  margin: 0;
+}
+
 /* Contact info on the "Me" page: a label/value list, not tabular data. */
 dl.contact-info {
   display: grid;
@@ -576,15 +614,24 @@ dl.contact-info {
   }
 }
 
-/* Canvas elements for skill bars */
-canvas {
-  border: @canvas-border;
+/* Skill bars (CV page): a plain CSS width bar, no canvas/JS needed */
+.skill-bar {
+  border: @skill-bar-border;
   width: 100%;
-  height: @canvas-height;
+  height: @skill-bar-height;
 }
 
-body.dark-theme canvas {
-  border: @canvas-border-dark;
+.skill-bar-fill {
+  height: 100%;
+  background-color: @h3-color;
+}
+
+body.dark-theme .skill-bar {
+  border: @skill-bar-border-dark;
+}
+
+body.dark-theme .skill-bar-fill {
+  background-color: @h3-color-dark;
 }
 
 /* ==========================================================================
